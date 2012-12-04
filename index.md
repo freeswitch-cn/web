@@ -20,3 +20,17 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 最推荐的交流方式是加入 Google Groups FreeSWITCH-CN 邮件列表。但由于众所周知的原因，Google Groups 有时在国内无法访问。但只要您能加入，邮件列表功能应该是正常的。我们感谢您的积极参与，对此带来的不便请谅解。(如果http不行，试试把地址改成https)。
 <br>
 <br>
+<div>
+
+
+<table style="background-color: #fff; padding: 5px;" cellspacing=0>
+  <tr><td style="padding-left: 2px;font-size: 125%;color: navy">
+  <b>FreeSWITCH-CN</b>
+  </td></tr>
+  <tr><td style="padding-left: 5px">
+  <a href="http://groups.google.com/group/freeswitch-cn?hl=en">访问本讨论组</a>
+  </td></tr>
+</table>
+
+
+</div>
