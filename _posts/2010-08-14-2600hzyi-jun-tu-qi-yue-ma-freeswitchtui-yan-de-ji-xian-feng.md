@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "2600hz异军突起，跃马FreeSWITCH推广的急先锋"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "沙龙日程表及社区近况信息更新"
 ---
 

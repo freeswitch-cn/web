@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "第五章 FreeSWITCH 架构"
 ---
 

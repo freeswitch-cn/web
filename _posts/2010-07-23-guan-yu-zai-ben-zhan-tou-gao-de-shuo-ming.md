@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "关于在本站投稿的说明"
 ---
 

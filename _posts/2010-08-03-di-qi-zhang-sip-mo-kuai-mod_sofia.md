@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "第七章 SIP 模块 - mod_sofia "
 ---
 

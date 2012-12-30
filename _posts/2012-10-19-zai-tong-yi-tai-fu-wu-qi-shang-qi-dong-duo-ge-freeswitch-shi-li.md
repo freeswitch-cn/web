@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "在同一台服务器上启动多个 FreeSWITCH 实例"
 ---
 

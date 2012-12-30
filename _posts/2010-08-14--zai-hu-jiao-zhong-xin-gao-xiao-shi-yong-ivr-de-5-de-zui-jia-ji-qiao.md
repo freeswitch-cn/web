@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: " 在呼叫中心高效使用 IVR 的 5 个最佳技巧 "
 ---
 

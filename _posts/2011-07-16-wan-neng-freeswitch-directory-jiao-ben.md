@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "万能 FreeSWITCH directory 脚本"
 ---
 
@@ -15,7 +15,7 @@ FreeSWITCH 默认使用静态的 XML 文件配置用户，但如果需要动态�
 <?php
   $user =  $_POST['user'];
   $domain = $_POST['domain'];
-  $context = $_POST['context'];
+  $context = $_POST['Hunt-Context'];
   $password = "1234";
 ?>
 <document type="freeswitch/xml">

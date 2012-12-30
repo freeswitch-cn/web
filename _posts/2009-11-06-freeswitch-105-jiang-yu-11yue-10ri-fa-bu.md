@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 1.0.5 将于11月10日发布"
 ---
 

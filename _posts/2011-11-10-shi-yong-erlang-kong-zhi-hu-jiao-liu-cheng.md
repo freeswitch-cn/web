@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "使用 Erlang 控制呼叫流程"
 ---
 

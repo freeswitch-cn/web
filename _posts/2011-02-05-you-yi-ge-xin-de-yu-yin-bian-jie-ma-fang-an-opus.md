@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "又一个新的语音编解码方案 - Opus"
 ---
 

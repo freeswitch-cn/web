@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 支持 Codec2 语音编码"
 ---
 

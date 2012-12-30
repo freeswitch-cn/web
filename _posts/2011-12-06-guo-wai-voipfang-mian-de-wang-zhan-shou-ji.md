@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "国内外VoIP方面的网站收集"
 ---
 

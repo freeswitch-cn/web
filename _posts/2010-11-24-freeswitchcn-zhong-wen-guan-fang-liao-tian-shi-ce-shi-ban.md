@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH-CN 中文官方聊天室测试版"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 加强对视频的支持 - dingaling"
 ---
 

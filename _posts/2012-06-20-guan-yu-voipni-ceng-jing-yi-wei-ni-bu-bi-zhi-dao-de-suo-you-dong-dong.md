@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "关于VoIP你曾经以为你不必知道的所有东东 "
 ---
 

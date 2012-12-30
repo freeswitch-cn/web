@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreePBX v3更名为2600hz项目"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "第一章 PSTN 与 VoIP"
 ---
 

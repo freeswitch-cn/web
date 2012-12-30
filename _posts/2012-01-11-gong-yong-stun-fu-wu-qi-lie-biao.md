@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "公用 Stun 服务器列表"
 ---
 

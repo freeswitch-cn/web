@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 开始支持 Broadvoice BV16/BV32 语音编解码"
 ---
 

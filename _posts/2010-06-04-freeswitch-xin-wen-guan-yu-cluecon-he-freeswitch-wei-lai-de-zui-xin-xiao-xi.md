@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 新闻 - 关于 ClueCon 和 FreeSWITCH 未来的最新消息"
 ---
 

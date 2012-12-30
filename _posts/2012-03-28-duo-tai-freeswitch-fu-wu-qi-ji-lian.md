@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "多台 FreeSWITCH 服务器级联"
 ---
 

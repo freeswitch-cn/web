@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "使用 FreesSWITCH 进行文字聊天"
 ---
 

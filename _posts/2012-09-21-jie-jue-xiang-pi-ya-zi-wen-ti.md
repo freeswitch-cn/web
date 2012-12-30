@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "解决橡皮鸭子问题"
 ---
 

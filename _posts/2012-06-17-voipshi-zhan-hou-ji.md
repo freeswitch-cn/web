@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "VoIP实战:后记"
 ---
 

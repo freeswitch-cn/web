@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH Windows 安装程序（每周更新）"
 ---
 

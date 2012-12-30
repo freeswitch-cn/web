@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: post
 title: "在 FreeSWITCH 中快速创建用户XML配置文件"
 ---
 
 # {{ page.title }}
 
-有时候需要在 FreeSWITCH 中添加大量用户，我用以下脚本生成：
+有时候需要在 FreeSWITCH 中添加大量用户，在 Linux 上，我用以下脚本生成：
 
 
     for i in `seq 1020 1039`; do sed -e "s/1000/$i/" 1000.xml > $i.xml ; done

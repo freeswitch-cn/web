@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "基于FreeSWITCH的软电话 - FreeSWITCH Communicator"
 ---
 

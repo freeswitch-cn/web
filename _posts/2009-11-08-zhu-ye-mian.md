@@ -1,12 +1,17 @@
 ---
-layout: default
+layout: post
 title: "主页面"
 ---
 
 # {{ page.title }}
 
-Welcome to FreeSWITCH-CN - The Chinese community!
+<div style="background-color:#009;font-size:24px;padding:10pt;text-align:center">
 
+<a style="color:#FFF" href="/blog/past/2012/6/17/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long-hua-xu/">FreeSWITCH-CN中文社区2012首届开发者沙龙</a><br>
+<span style="font-size:16px;color:#FF0">(圆满结束)</span>
+</div>
+
+Welcome to FreeSWITCH-CN - The Chinese community!
 本站是非官方的FreeSWITCH中文网站，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a>。
 
 FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某些模块中使用了C++，以[MPL1.1](http://www.opensource.org/licenses/mozilla1.1.php)发布。更多的说明请参考[什么是FreeSWITCH?](/blog/past/2009/11/7/shi-yao-shi-freeswitch/)和[FreeSWITCH新手指南](/blog/past/2009/11/7/freeswitch-xin-shou-zhi-nan/)。

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "嵌入式脚本"
 ---
 
@@ -113,41 +113,15 @@ Lua 脚本中也可以使用跟 sesion 不相关的函数，最典型的是 free
 
 在 Lua 中，可以使用 [LuaSQL](http://www.keplerproject.org/luasql/) 连接各种关系型数据库，但据说 LuaSQL 与某些版本的数据库驱动结合有内存泄漏问题，配置起来也比较复杂。
 
-另一种连接数据库的方式是直接使用  freeswitch.Dbh。它可以直接通过 FreeSWITCH  内部的数据库连接句柄来连接 sqlite 数据库或任何支持 ODBC 的数据库。下面是一个来自 FreeSWITCH wiki 的例子。
+另一种连接数据库的方式是直接使用  freeswitch.Dbh。它可以直接通过 FreeSWITCH  内部的数据库连接句柄来连接 sqlite 数据库或任何支持 ODBC 的数据库。
 
-     local dbh = freeswitch.Dbh("dsn","user","pass") -- when using ODBC
-     -- OR --
-     -- local dbh = freeswitch.Dbh("core:my_db") -- when using sqlite
-
-     assert(dbh:connected()) -- exits the script if we didn't connect properly
-
-     dbh:test_reactive("SELECT * FROM my_table",
-                       "DROP TABLE my_table",
-                       "CREATE TABLE my_table (id INTEGER(8), name VARCHAR(255))")
-
-     dbh:query("INSERT INTO my_table VALUES(1, 'foo')") -- populate the table
-     dbh:query("INSERT INTO my_table VALUES(2, 'bar')") -- with some test data
-
-     dbh:query("SELECT id, name FROM my_table", function(row)
-       stream:write(string.format("%5s : %s\n", row.id, row.name))
-     end)
-
-     dbh:query("UPDATE my_table SET name = 'changed'")
-     stream:write("Affected rows: " .. dbh:affected_rows() .. "\n")
-
-     dbh:release() -- optional
-
-
-
+（略）
 
 ## Javascript
 
-相对于 Lua, 大家可能对 Javascript 更熟悉一些。Javascript 是 Web 浏览器上最主流的编程语言，它最早是设计出来用于配合 HTML 渲染页面用的，近几年由于 [Node.js](http://nodejs.org) 的发展使它在服务器端的应用也已发扬光大。它遵循 [EMCAScript](http://zh.wikipedia.org/wiki/ECMAScript) 标准。
+相对于 Lua来说, 大家可能对 Javascript 更熟悉一些。Javascript 是 Web 浏览器上最主流的编程语言，它最早是设计出来用于配合 HTML 渲染页面用的，近几年由于 [Node.js](http://nodejs.org) 的发展使它在服务器端的应用也已发扬光大。它遵循 [EMCAScript](http://zh.wikipedia.org/wiki/ECMAScript) 标准。
 
-通过加载 mod\_spidermonkey 模块可以使用 js 解析器，模块 mod\_spidermonkey\_odbc 则支持在 Javascript 脚本中连接 ODBC 数据库。
-
-除语法不同外，用法上与 Lua 类似，如使用 javascript （它是一个APP) 执行一个 session 相关的脚本，或 jsrun  （它是一个API）执行一个非 session  相关的脚本。
-
+（略）
 
 ## 其它脚本语言
 

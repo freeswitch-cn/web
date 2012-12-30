@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "用FreeSWITCH实现IVR"
 ---
 

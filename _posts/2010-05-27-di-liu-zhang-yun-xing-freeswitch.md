@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "第六章 运行 FreeSWITCH"
 ---
 

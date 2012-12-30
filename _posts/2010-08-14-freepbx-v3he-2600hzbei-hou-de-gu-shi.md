@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreePBX v3和2600hz背后的故事"
 ---
 

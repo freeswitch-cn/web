@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "BlueBox 中文化一招"
 ---
 

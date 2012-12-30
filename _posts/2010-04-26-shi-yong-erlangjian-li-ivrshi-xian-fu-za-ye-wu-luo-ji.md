@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "使用Erlang建立IVR实现复杂业务逻辑"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 第二本书 FreeSWITCH CookBook 出版了"
 ---
 

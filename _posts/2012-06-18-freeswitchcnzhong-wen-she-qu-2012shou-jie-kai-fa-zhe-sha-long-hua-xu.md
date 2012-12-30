@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH-CN中文社区2012首届开发者沙龙花絮"
 ---
 

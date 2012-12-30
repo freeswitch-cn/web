@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 增加 iSAC 语音编码支持"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 实战"
 ---
 
@@ -17,3 +17,5 @@ title: "FreeSWITCH 实战"
 * 8、 [H323](http://www.dujinfang.com/past/2011/3/28/freeswitch-yu-h323/)
 * 9、 [视频会议](http://www.dujinfang.com/past/2011/4/24/ce-shi-freeswitch-shi-pin-hui-yi/)
 * 10、[使用 Erlang 控制呼叫流程](/blog/past/2011/11/10/shi-yong-erlang-kong-zhi-hu-jiao-liu-cheng/)
+* 11、[多台 FreeSWITCH 级联](/blog/past/2012/3/28/duo-tai-freeswitch-fu-wu-qi-ji-lian/)
+* 12、[万能 Directory 脚本](/blog/past/2011/7/16/wan-neng-freeswitch-directory-jiao-ben/)

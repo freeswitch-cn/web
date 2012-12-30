@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "第三章 PSTN 与 PBX 业务 "
 ---
 

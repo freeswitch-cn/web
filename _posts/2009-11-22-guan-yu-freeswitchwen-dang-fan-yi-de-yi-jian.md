@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "关于FreeSWITCH文档翻译的意见"
 ---
 

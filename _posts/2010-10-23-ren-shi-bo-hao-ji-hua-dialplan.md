@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "认识拨号计划 - Dialplan"
 ---
 
@@ -419,64 +419,4 @@ b-leg 会将挂机原因传到 a-leg。在 a-leg 决定是否继续往下执行�
 
 XML Dialplan 支持非常丰富的功能，但在测试或编写程序时，我们经常用到一些临时的，或者是很简单的 Dialplan，如果每次都需要修改 XML，不仅麻烦，而且执行效率也会有所折扣。所以，我们需要一种短小、轻便的 Dialplan 以便更高效地完成任务。而且，通过使用 Inline dialplan，也可以很方便的在脚本中生成动态的 Dialplan 而无需使用复杂的 reloadxml 以及 mod\_xml\_curl 技术等。
 
-与 XML Dialplan 不同，它没有 Extension，也没有复杂的 Condition。而只是象 XML Dialplan中那样简单的 Action 的叠加。它有一种很紧凑的语法格式：
-
-	app1:arg1,app2:arg2,app3:arg3
-
-从语法可以看出，它只是多个 APP 以及参数组成的字符串，APP之间用逗号分隔，而APP与参数之间用冒号分隔。如果参数中有空格，则整个字符串都需要使用单引号引起来。在我们上面的例子中，你通过拨打 9196 来找到对应的 XML dialplan，在这里，我们可以直接在命令行上写出对应的 inline 形式：
-
-	originate user/1000 echo inline
-	originate user/1000 answer,echo inline
-
-读到这里，你可能要问，它与“originate user/1000 &echo” 有什么区别呢？在回答这个问题之前，我们需要先看一下 originate 的语法：
-
-	originate <call_url> <exten>|&<application_name>(<app_args>)
-	[<dialplan>] [<context>] [<cid_name>] [<cid_num>] [<timeout_sec>]
-
-首先，它的第一个参数是呼叫字符串， 第二个参数可以是 & 加上一个 APP，APP的参数要放到 ( ) 里，如：
-
-	originate user/1000 &echo
-	originate user/1000 &playback(/tmp/sound.wav)
-	originate user/1000 &record(/tmp/recording.wav)
-
-这是最简单的形式，首先，originate 会产生一个 Channel，它会呼叫 user/1000 这个用户。请注意，这是一个单腿的通话，因此只有一个 Channel。但一个 Channel 有两端，一端是 1000 这个用户，另一端是 FreeSWITCH。在 user/1000 接电话后（严格说是收到它的 earlymedia 后），FreeSWITCH 即开始在该 Channel 上执行 & 后面的 APP。但这种形式只能执行一个 APP，如果要执行多个，就需要将电话转入 Dialplan：
-
-	originate user/1000 9196
-	originate user/1000 9196 XML default
-
-上面两个命令是一样的。它的作用是，在 user/1000 接电话后，电话的另一端（也就是 FreeSWITCH）需要对电话进行路由，在这里，它要将电话路由到 9196 这个 Extension 上，第一条命令由于没有指定是哪个 Dialplan，因此它会在默认的 XML Dialplan 中查找，同时，XML Dialplan 需要一个 Context， 它默认就是 default。它的效果是跟你直接用软电话拨打 9196 这个分机一样的（所不同的是呼叫的方向问题，这种情况相当于回拨）。
-
-当然，除此之外，它还可以加一些可选的参数，用于指定来电显示（Caller ID）的名字（cid\_name）和号码（cid_number），以及超时的秒数，如：
-
-	originate user/1000 9196 XML default 'Seven Du' 9196 30
-
-当然，我们这里学了 Inline Dialplan，所以你也可以这样用：
-
-	originate user/1000 echo inline
-
-请注意，在 XML Dialplan 中， 9196 是一个分机号，而 Inline 中的 echo 则是一个 APP，当然你也可以顺序执行多个 APP：
-
-	originate user/1000 answer,playback:/tmp/pleace_leave_a_message.wav,record:/tmp/recording.wav inline
-	originate user/1000 playback:/tmp/beep.wav,bridge:user/1001 inline
-	
-有时候，APP 的参数中可能会有逗号，因而会与默认的 APP 间的逗号分隔符相冲突，以下的 m 语法形式将默认的逗号改为 ^ 分隔（以下三行实际上为一行）。
-
-	originate user/1000
-	'm:^:playback/tmp/beep.wav^bridge:
-	{ignore_early_media=true,originate_caller_id_number=1000}user/1001'
-
-当然你也可以用在任何需要 Dialplan 的地方，如（以下两行实为一行）
-
-	uuid_transfer 2bde6598-0f1a-48fe-80bc-a457a31b0055
-	'set:test_var=test_value,info,palyback:/tmp/beep.wav,record:/tmp/recording.wav'
-
-除此之外，还有其它的 Dialplan 形式，我们在这里就不再介绍了，要查看你的系统支持多少 Dialplan，使用如下命令：
-
-	freeswitch@seven-macpro.local> show dialplan
-
-	type,name,ikey
-	dialplan,LUA,mod_lua
-	dialplan,XML,mod_dialplan_xml
-	dialplan,asterisk,mod_dialplan_asterisk
-	dialplan,enum,mod_enum
-	dialplan,inline,mod_dptools
+（略）

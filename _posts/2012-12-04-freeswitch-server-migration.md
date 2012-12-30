@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH-CN 服务器迁移"
 ---
 
 # {{ page.title }} #
+
+{{ page.date | date:"%Y-%m-%d"}}
 
 大家好，FreeSWITCH-CN 的服务器原托管在 heroku.com 上，但最近由于 heroku 系统升级，导致原服务器端程序不兼容。另外也由于heroku之类网站由于众所周知的原因访问起来非常慢，而且经常容易经常访问不到，因此我们借此机会将服务器迁移到 github 上，使用静态页面。
 

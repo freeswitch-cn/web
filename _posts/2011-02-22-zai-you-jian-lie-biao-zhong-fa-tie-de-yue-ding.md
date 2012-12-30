@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "在邮件列表中发帖的约定"
 ---
 

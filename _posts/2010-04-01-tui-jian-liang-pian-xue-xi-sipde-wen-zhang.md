@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "推荐两篇学习SIP的文章"
 ---
 

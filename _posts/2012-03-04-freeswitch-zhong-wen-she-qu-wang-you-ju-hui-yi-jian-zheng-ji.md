@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FreeSWITCH 中文社区网友聚会意见征集"
 ---
 
