@@ -37,40 +37,40 @@ title: "FreeSWITCH  中文文档"
 目录
 ----
 
-* [前言](/blog/past/2010/5/7/freeswitch-book-qian-yan/)
+* [前言](/2010/05/07/freeswitch-book-qian-yan.html)
 
 
 ## 第一部分 VoIP 基础知识
 
 
-* 第一章 [PSTN 与 VoIP](/blog/past/2010/4/30/di-yi-zhang-pstn-yu-voip/)
+* 第一章 [PSTN 与 VoIP](/2010/04/30/di-yi-zhang-pstn-yu-voip.html)
 
-* 第二章 [初识 FreeSWITCH](http://www.dujinfang.com/past/2010/4/14/freeswitch-chu-bu/)
+* 第二章 [初识 FreeSWITCH](http://www.dujinfang.com/2010/04/14/freeswitch-chu-bu.html)
 
-* 第三章 [PSTN 与 PBX 服务](/blog/past/2010/5/6/di-san-zhang-pstn-yu-pbx-ye-wu/)
+* 第三章 [PSTN 与 PBX 服务](/2010/05/06/di-san-zhang-pstn-yu-pbx-ye-wu.html)
 
-* 第四章 [SIP 协议](/blog/past/2010/5/7/di-si-zhang-sip/)
+* 第四章 [SIP 协议](/2010/05/08/di-si-zhang-sip.html)
 
 
 ## 第二部分 FreeSWITCH 架构
 
-* 第五章 [FreeSWITCH 架构](/blog/past/2010/5/7/di-wu-zhang-freeswitch-jia-gou/)
+* 第五章 [FreeSWITCH 架构](/2010/05/08/di-wu-zhang-freeswitch-jia-gou.html)
 
-* 第六章 [运行 FreeSWITCH](/blog/past/2010/5/27/di-liu-zhang-yun-xing-freeswitch/)
+* 第六章 [运行 FreeSWITCH](/2010/05/27/di-liu-zhang-yun-xing-freeswitch.html)
 
-* 第七章 [SIP 模块 - mod_sofia](/blog/past/2010/8/2/di-qi-zhang-sip-mo-kuai-mod_sofia/)
+* 第七章 [SIP 模块 - mod_sofia](/2010/08/03/di-qi-zhang-sip-mo-kuai-mod_sofia.html)
 
-* 第八章 [拨号计划 - Dialplan](/blog/past/2010/10/22/ren-shi-bo-hao-ji-hua-dialplan/)
+* 第八章 [拨号计划 - Dialplan](/2010/10/23/ren-shi-bo-hao-ji-hua-dialplan.html)
 
 * 第九章 模块介绍
  
-* 第十章 [嵌入式脚本](/blog/past/2011/10/30/qian-ru-shi-jiao-ben/)
+* 第十章 [嵌入式脚本](/2011/10/31/qian-ru-shi-jiao-ben.html)
 
-* 第十一章 [Event Socket](/blog/past/2012/9/13/event-socket/)
+* 第十一章 [Event Socket](/2012/09/13/event-socket.html)
 
 ## 第三部分 FreeSWITCH 实战
 
-* 第十二章 [FreeSWITCH 实战](/blog/past/2011/10/29/freeswitch-shi-zhan/)
+* 第十二章 [FreeSWITCH 实战](/2011/10/29/freeswitch-shi-zhan.html)
 
 
 ## 第四部分 FreeSWITCH 开发指南
@@ -83,16 +83,16 @@ title: "FreeSWITCH  中文文档"
 
 * 社区指南
 
-* [FreeSWITCH  背后的故事](http://www.dujinfang.com/past/2009/10/31/freeswitchbei-hou-de-gu-shi/)
+* [FreeSWITCH  背后的故事](http://www.dujinfang.com/2009/10/31/freeswitchbei-hou-de-gu-shi.html)
 
-* [FreeSWTICH 与 Asterisk 比较](/blog/past/2010/1/22/freeswitch-yu-asterisk/)
+* [FreeSWTICH 与 Asterisk 比较](/2010/01/23/freeswitch-yu-asterisk.html)
 
-* [FreeSWITCH FAQ](/blog/past/2010/5/6/freeswitch-zhong-wen-faq/)
+* [FreeSWITCH FAQ](/2010/05/06/freeswitch-zhong-wen-faq.html)
 
-* [Idapted 的 FreeSWITCH 实践](http://www.dujinfang.com/past/2010/2/4/idaptedde-freeswitchshi-jian/)
+* [Idapted 的 FreeSWITCH 实践](http://www.dujinfang.com/2010/02/04/idaptedde-freeswitchshi-jian.html)
 
 Mod\_command参考
 
 Mod\_dptools参考
 
-## [后记](/blog/past/2012/6/17/voipshi-zhan-hou-ji/)
+## [后记](/2012/06/17/voipshi-zhan-hou-ji.html)
