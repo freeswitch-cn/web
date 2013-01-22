@@ -64,7 +64,7 @@ end
 
 由于这种脚本会在FreeSWITCH内部执行，需要消耗FreeSWITCH的资源，因此，在大话务量（确切来说是“大事件量”）的情况下还是应该用Event Socket。
 
-完整的代码在 <http://svn.freeswitch.org/svn/freeswitch/trunk/seven/lua/gateway_report.lua>
+完整的代码在 <http://fisheye.freeswitch.org/browse/freeswitch-contrib.git/seven/lua/gateway_report.lua?hb=true>
 
 其它参考资料：
 
