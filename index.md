@@ -3,7 +3,7 @@ layout: default
 title: {{ site.com }}
 ---
 
-<div style="background-color:blue;color:yellow;padding:5px;text-align:center">网站有小故障，紧急恢复中，详见 <a style="color:white" href="2012/12/04/freeswitch-server-migration.html">[FreeSWITCH-CN服务器迁移]</a> ...</div>
+<!-- <div style="background-color:blue;color:yellow;padding:5px;text-align:center">网站有小故障，紧急恢复中，详见 <a style="color:white" href="2012/12/04/freeswitch-server-migration.html">[FreeSWITCH-CN服务器迁移]</a> ...</div> -->
 <br>
 <br>
 Welcome to FreeSWITCH-CN - The Chinese community!
