@@ -10,56 +10,56 @@ title: "FreeSWITCH-CN中文社区2012首届开发者沙龙花絮"
 
 签到
 
-<img src="/images/fscnds2012/_DSC3206.JPG"></img>
-<img src="/images/fscnds2012/_DSC3208.JPG"></img>
+<img src="/images/fscnds2012/dsc3206.jpg"></img>
+<img src="/images/fscnds2012/dsc3208.jpg"></img>
 
 欢迎词
 
-<img src="/images/fscnds2012/_DSC3221.JPG"></img>
+<img src="/images/fscnds2012/dsc3221.jpg"></img>
 
 座无虚席
 
-<img src="/images/fscnds2012/_DSC3223.JPG"></img>
-<img src="/images/fscnds2012/_DSC3230.JPG"></img>
-<img src="/images/fscnds2012/_DSC3231.JPG"></img>
+<img src="/images/fscnds2012/dsc3223.jpg"></img>
+<img src="/images/fscnds2012/dsc3230.jpg"></img>
+<img src="/images/fscnds2012/dsc3231.jpg"></img>
 
 杜金房 --- FreeSWITCH 的故事
 
-<img src="/images/fscnds2012/_DSC3234.JPG"></img>
-<img src="/images/fscnds2012/_DSC3244.JPG"></img>
+<img src="/images/fscnds2012/dsc3234.jpg"></img>
+<img src="/images/fscnds2012/dsc3244.jpg"></img>
 
 余清 --- 首内首款 FreeSWITCH GUI
 
-<img src="/images/fscnds2012/_DSC3260.JPG"></img>
-<img src="/images/fscnds2012/_DSC3270.JPG"></img>
+<img src="/images/fscnds2012/dsc3260.jpg"></img>
+<img src="/images/fscnds2012/dsc3270.jpg"></img>
 
 赵焕成 --- DOUBANGO
 
-<img src="/images/fscnds2012/_DSC3272.JPG"></img>
-<img src="/images/fscnds2012/_DSC3277.JPG"></img>
-<img src="/images/fscnds2012/_DSC3284.JPG"></img>
+<img src="/images/fscnds2012/dsc3272.jpg"></img>
+<img src="/images/fscnds2012/dsc3277.jpg"></img>
+<img src="/images/fscnds2012/dsc3284.jpg"></img>
 
 主持人 崔钢
 
-<img src="/images/fscnds2012/_DSC3285.JPG"></img>
+<img src="/images/fscnds2012/dsc3285.jpg"></img>
 
 杜金房 --- FreeSWITCH 媒体处理及应用
 
-<img src="/images/fscnds2012/_DSC3293.JPG"></img>
+<img src="/images/fscnds2012/dsc3293.jpg"></img>
 
 三等奖  Sangoma USB FXO
 
-<img src="/images/fscnds2012/_DSC3295.JPG"></img>
-<img src="/images/fscnds2012/_DSC3299.JPG"></img>
+<img src="/images/fscnds2012/dsc3295.jpg"></img>
+<img src="/images/fscnds2012/dsc3299.jpg"></img>
 
 二等奖 亿联IP话机，一等奖 亿联视频话机
 
-<img src="/images/fscnds2012/_DSC3303.JPG"></img>
-<img src="/images/fscnds2012/_DSC3306.JPG"></img>
+<img src="/images/fscnds2012/dsc3303.jpg"></img>
+<img src="/images/fscnds2012/dsc3306.jpg"></img>
 
 特殊礼物
 
-<img src="/images/fscnds2012/_DSC3312.JPG"></img>
-<img src="/images/fscnds2012/_DSC3321.JPG"></img>
-<img src="/images/fscnds2012/_DSC3333.JPG"></img>
+<img src="/images/fscnds2012/dsc3312.jpg"></img>
+<img src="/images/fscnds2012/dsc3321.jpg"></img>
+<img src="/images/fscnds2012/dsc3333.jpg"></img>
 
