@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "FreeSWITCH  中文文档"
+title: "FreeSWITCH 文档资料"
 ---
 
 # {{ page.title }}
 
-# [FreeSWITCH中文文档](http://wiki.freeswitch.org.cn)
-# [FreeSWITCH英文文档](http://wiki.freeswitch.org)
+* [FreeSWITCH中文wiki](http://wiki.freeswitch.org.cn)
+* [FreeSWITCH英文wiki](http://wiki.freeswitch.org)
+
 <br>
 
 <hr>
 
-# 《FreeSWITCH: VoIP实战》
+# FreeSWITCH电子书 --《FreeSWITCH: VoIP实战》
 
 英文书名：*FreeSWITCH in Action*
 
