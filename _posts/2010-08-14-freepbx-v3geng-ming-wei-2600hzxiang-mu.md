@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "FreePBX v3更名为2600hz项目"
+tags:
+  - "转载"
+  - "2600Hz"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 来自：http://454171.137.hostcn.cn/read.php?tid=1044
 时间：2010-08-05 09:11 作者：asterisk

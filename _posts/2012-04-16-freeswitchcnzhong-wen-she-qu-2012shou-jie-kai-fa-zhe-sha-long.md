@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH-CN中文社区2012首届开发者沙龙"
+tags:
+  - "会议"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH-CN中文社区是以FreeSWITCH开源项目为基础的全国性开源软交换开发者社区组织。该社区自2009年创办以来，汇聚了全国乃至全球的FreeSWITCH开发者及爱好者，并为大家提供了一个基于中文环境的技术交流及沟通的平台，为FreeSWITCH在中文用户群中的推广起到了重要的作用。FreeSWITCH-CN社区是FreeSWITCH领域在中国乃至亚洲最大、最专业的中文社区。
 

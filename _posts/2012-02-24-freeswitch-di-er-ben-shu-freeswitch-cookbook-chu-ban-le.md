@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 第二本书 FreeSWITCH CookBook 出版了"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 这是 FreeSWITCH 官方出版的第二本书。电子版打折后一共是 £9.59。可以直接顺着 FreeSWITCH 网站上的链接购买，也可以在 Amazon 上购买。有 Visa 或 MasterCard 信用卡付费就可以了。
 

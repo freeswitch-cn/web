@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "关于VoIP你曾经以为你不必知道的所有东东 "
+tags:
+  - "doc"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 本文原作者为 Kristian Kielhofner，以  [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/legalcode)  协议发布
 

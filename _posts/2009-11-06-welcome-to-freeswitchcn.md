@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "Welcome to FreeSWITCH-CN"
+tags:
+  - "welcome"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 欢迎光临FreeSWITCH中文站。
 

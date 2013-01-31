@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "Idapted的FreeSWITCH实践(转)"
+tags:
+  - "资料"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH是如何创造数千个就业机会并改变人们命运的？
 

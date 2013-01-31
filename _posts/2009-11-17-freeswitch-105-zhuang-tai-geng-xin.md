@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 1.0.5 状态更新"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH version 1.0.5 没有如期发布，根据[官方的说法](http://www.freeswitch.org/node/218)，因为有好多的Jira Issue需要处理。 但这其实影响也不大，因为我们大多数人都是生活在trunk上。
 

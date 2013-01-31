@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "基于FreeSWITCH的软电话 - FreeSWITCH Communicator"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 
 FreeSWITCH团队日前宣布了一款新的基于FreeSWITCH的软件：FreeSWITCH Communicator - 它是一款以FreeSWITCH为内核的软电话。该项目的负责人João Mesquita是FreeSWITCH社区一位非常活跃的用户和开发者。

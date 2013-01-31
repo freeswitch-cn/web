@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "用FreeSWITCH实现IVR"
+tags:
+  - "freeswitch"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 IVR的全称的Interactive Voice Response，就是我们经常说的电话语音菜单。FreeSWITCH支持非常强大的语音菜单──你可以写简单的XML，或更灵活的Lua，当然还有Event Socket，Erlang Socket等等。
 

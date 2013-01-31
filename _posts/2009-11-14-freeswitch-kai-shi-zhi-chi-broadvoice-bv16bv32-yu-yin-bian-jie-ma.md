@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "FreeSWITCH 开始支持 Broadvoice BV16/BV32 语音编解码"
+tags:
+  - "codec"
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH团队宣布支持开源的BroadVoice语音编解码--窄带8kKZ的BV16和宽带16kHZ的BV32。
 

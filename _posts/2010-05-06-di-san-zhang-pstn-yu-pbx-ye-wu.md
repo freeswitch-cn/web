@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "第三章 PSTN 与 PBX 业务 "
+tags:
+  - "Book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 
 在继续学习 FreeSWITCH 之前，我们有必要了解一下传统的电话网所能提供的服务。这些服务有的是你已经熟悉的，有的也可能没听说过。有一些业务在 VoIP 中实现起来就异常简单，而有一些业务已经不需要了。

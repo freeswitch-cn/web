@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "沙龙日程表及社区近况信息更新"
+tags:
+  - "新闻"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 大家好，技术沙龙日程表已排定，请大家到 <http://www.freeswitch.org.cn/blog/past/2012/4/16/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long/> 围观。
 

@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "多台 FreeSWITCH 服务器级联"
+tags:
+  - "trunk"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 其实，只要你吃透了前些章节的内容，做 FreeSWITCH 级联是没有任何问题的。但这个问题还常常被众网友问到，我就索性再写一篇。
 

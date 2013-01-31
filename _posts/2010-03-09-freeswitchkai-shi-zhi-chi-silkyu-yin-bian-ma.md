@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH开始支持SILK语音编码"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 SILK编码是由Skype开发的高质量语音编码。它支持8, 12, 16 or 24 kHz 的抽样频率以及 6 到 40 kbit/s的比特率。SILK编在2009年7月最先应用于Skype 4.0 Beta 3 for Windows版本中。
 

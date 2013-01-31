@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 与 Asterisk"
+tags:
+  - "旧闻"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH vs Asterisk FreeSWITCH 与 Asterisk 比较
 

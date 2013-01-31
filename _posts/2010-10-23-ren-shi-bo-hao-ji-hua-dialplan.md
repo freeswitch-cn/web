@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "认识拨号计划 - Dialplan"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 拨号计划是 FreeSWITCH 中至关重要的一部分。它的主要作用就是对电话进行路由（从这一点上来说，相当于一个路由表）。说的简明一点，就是当一个用户拨号时，对用户所拨的号码进行分析，进而决定下一步该做什么。当然，实际上，它所能做的比你想象的要强大的多。
 

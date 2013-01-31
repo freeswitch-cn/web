@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "如何提问"
+tags:
+  - "help"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 本文译自：<http://superuser.com/questions/how-to-ask>
 

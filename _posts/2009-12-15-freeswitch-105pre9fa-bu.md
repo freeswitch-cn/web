@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 1.0.5pre9发布"
+tags:
+  - "发行版"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 由于在上一个版本1.0.5pre8中发现几个比较严重的Bug，FreeSWITCH团队很快发布了pre9。
 

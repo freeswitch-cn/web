@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 开始支持G.729许可证"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH团队宣布正式支持G.729语音编码许可证。许可证支持Linux和Mac OSX，暂不支持Windows。一个许可证包括一个编码器和一个解码器，可以支持一路G.729通话。
  

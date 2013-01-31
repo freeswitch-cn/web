@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH中级培训"
+tags:
+  - "培训"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 <b>更新：由于报名人数不够，本活动关闭。已报名的同志，非常抱歉。</b>
 

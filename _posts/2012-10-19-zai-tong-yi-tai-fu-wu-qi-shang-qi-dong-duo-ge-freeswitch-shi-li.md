@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "在同一台服务器上启动多个 FreeSWITCH 实例"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 有时候，需要用到多个FreeSWITCH进行测试，或者需要在一台服务器上部署多个“不兼容”的系统。我们在这一节探讨一下怎么做。
 

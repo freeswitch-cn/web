@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "公用 Stun 服务器列表"
+tags:
+  - "stun"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 
 感谢网友整理收集：

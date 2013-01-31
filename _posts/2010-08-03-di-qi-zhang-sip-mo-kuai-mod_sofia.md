@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "第七章 SIP 模块 - mod_sofia "
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 SIP 模块是 FreeSWITCH 的主要模块，所以，值得拿出专门一章来讲解。
 

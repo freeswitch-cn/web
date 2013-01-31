@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "又一个新的语音编解码方案 - Opus"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH 开发者的手就是快，IETF 的标准刚出台，这里就已经实现了。
 

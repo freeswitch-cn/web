@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "第六章 运行 FreeSWITCH"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 
 

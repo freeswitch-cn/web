@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "第四章 SIP"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
                                    
 在继续学习 FreeSWITCH 之前我们有必要来学习一下 SIP 协议，因为它是 FreeSWITCH 的核心。但即使如此，讲清楚 SIP 必然需要很大篇幅，本书是关于 FreeSWITCH 的，而重点不是 SIP。因此，我将仅就理解 FreeSWITCH 必需的一些概念加以通俗的解释，更严肃一些的请参阅其它资料或 RFC（Request For Comments）。

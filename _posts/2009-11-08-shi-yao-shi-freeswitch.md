@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "什么是 FreeSWITCH ?"
+tags:
+  - "freeswitch"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，以[MPL1.1](http://www.opensource.org/licenses/mozilla1.1.php)发布。
 

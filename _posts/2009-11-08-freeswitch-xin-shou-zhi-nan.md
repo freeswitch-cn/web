@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 新手指南"
+tags:
+  - "freeswitch"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH的官方网站是 [www.freeswitch.org](http://www.freeswitch.org)。
 

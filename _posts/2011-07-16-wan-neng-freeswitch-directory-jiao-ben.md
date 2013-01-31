@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "万能 FreeSWITCH directory 脚本"
+tags:
+  - "php"
+  - "mod_xml_curl"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 好多人问我如何使用 mod_xml_curl 进行用户验证，每次回答指导都很费劲。今天用 PHP 写了一个万能脚本，希望对大家有帮助。
 

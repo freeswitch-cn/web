@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "在邮件列表中发帖的约定"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 大家好，我们社区一直使用 [Google Groups](http://groups.google.com/group/freeswitch-cn)邮件列表作为主要的交流工具，由于Google Groups从去年开始声明 [将不再支持 Pages 及 Files](http://groups-announcements.blogspot.com/2010/09/notice-about-pages-and-files.html?hl=en)，而成为一个纯的邮件列表，因此特将原[《在邮件列表中发帖的约定》](http://groups.google.com/group/freeswitch-cn/web/%E5%9C%A8%E9%82%AE%E4%BB%B6%E5%88%97%E8%A1%A8%E4%B8%AD%E5%8F%91%E5%B8%96%E7%9A%84%E7%BA%A6%E5%AE%9A)转移到此。   	 
 		

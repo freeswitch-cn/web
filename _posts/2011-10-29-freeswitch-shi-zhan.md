@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 实战"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 编外话：由于最近工作有些忙，因此写书的进度就慢下来。今日得暇整理了一下以前断断续续写的东西，发现竟积累了不少脚本。本书的名字为《实战》，相信好多同志已经等不及了，因此，让我们提前进入实战部分。
 

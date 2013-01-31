@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "第一章 PSTN 与 VoIP"
+tags:
+  - "Book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 说起VoIP，也许大家对网络电话更熟悉一些。其英文原意是Voice Over IP，即承载于IP网上的语音通信。大家熟悉家庭用来上网的ADSL吧，也许有些人还记得前些年用过的吱吱叫的老“猫”。技术日新月异，前面的技术都是用电话线上网，现在，VoIP技术使我们可以在网上打电话，生活就是这样。
 

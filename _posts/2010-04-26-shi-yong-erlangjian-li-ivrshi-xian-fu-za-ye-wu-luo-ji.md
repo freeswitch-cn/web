@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "使用Erlang建立IVR实现复杂业务逻辑"
+tags:
+  - "ivr"
+  - "erlang"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 曾写过一篇[使用XML实现IVR](http://www.freeswitch.org.cn/blog/past/2010/3/21/yong-freeswitchshi-xian-ivr/)
 。但当你要实现更复杂、更智能的业务逻辑时，你免不了跟数据库或其它系统交互。我们曾用Ruby借助event\_socket实现过比较复杂的功能，但当业务变得更加复杂时，我们使用Erlang重写了整个逻辑。

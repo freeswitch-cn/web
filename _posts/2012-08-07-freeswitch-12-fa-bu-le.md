@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 1.2 发布了"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 根据Anthony 在 ClueCon 上的演讲, FreeSWITCH 1.2 在一分钟前发布了。
 

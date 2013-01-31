@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH Windows 安装程序（每周更新）"
+tags:
+  - "windows"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH 团队几天前宣布了 windows 的二进制安装包。该安装包有32位和64位的版本，每周更新。通过使用安装包，免去了 windows 用户需要从源代码编译的痛苦，极大方便了 windows 用户。
 

@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH-CN中文社区2012首届开发者沙龙花絮"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 在众网友的支持下，大会取得圆满成功。感谢所有关注及来到现场的朋友们，感谢所有提供赞助的朋友们。
 

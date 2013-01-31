@@ -1,9 +1,16 @@
 ---
 layout: post
-title: "FreeSWITCH 文档资料"
+title: "FreeSWITCH  中文文档"
+tags:
+  - "中文文档"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 * [FreeSWITCH中文wiki](http://wiki.freeswitch.org.cn)
 * [FreeSWITCH英文wiki](http://wiki.freeswitch.org)

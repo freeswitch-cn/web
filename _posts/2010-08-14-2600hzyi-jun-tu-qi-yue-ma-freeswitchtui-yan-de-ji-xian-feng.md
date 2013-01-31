@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "2600hz异军突起，跃马FreeSWITCH推广的急先锋"
+tags:
+  - "转载"
+  - "2600Hz"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 来自：http://454171.137.hostcn.cn/read.php?tid=1071
 时间：2010-08-13 01:42 作者：asterisk

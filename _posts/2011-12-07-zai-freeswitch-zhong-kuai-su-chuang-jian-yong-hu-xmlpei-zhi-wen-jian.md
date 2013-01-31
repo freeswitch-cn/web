@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "在 FreeSWITCH 中快速创建用户XML配置文件"
+tags:
+  - "config"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 有时候需要在 FreeSWITCH 中添加大量用户，在 Linux 上，我用以下脚本生成：
 

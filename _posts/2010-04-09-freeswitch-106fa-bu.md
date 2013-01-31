@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 1.0.6发布"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 在继FreeSWITCH 1.0.4发布8个月后，FreeSWITCH团队宣布了1.0.6版。该版本增加了许多新特性，并在语音编码，SIP处理、CPU占用率，TDM硬件支持等方面有显著提高。
 

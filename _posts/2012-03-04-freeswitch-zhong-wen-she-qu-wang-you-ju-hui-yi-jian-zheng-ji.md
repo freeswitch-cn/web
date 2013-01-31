@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 中文社区网友聚会意见征集"
+tags:
+  - "community"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 响应众网友倡议，拟于5月底6月初举行一次 FreeSWITCH 社区网友聚会，希望大家多提意见。初步打算如下：
 

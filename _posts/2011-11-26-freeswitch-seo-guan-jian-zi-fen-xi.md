@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH SEO 关键字分析"
+tags:
+  - "seo"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 本文跟 FreeSWITCH  技术的关系不大，就当纯粹是娱乐吧。
 

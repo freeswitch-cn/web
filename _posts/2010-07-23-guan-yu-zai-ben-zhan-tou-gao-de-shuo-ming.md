@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "关于在本站投稿的说明"
+tags:
+  - "通知"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 # 关于在本站投稿的说明
 

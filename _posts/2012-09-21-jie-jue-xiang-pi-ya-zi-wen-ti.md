@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "解决橡皮鸭子问题"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 大家好，看到一篇很有趣的文章，我有时间会翻译一下，希望对大家有帮助：
 

@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 中文站博客更新提示"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 为了能使邮件列表中的成员可以在第一时间收到FreeSWITCH网站更新通知，我们实验性地开始把博客内容转发到 Google Groups上的FreeSWITCH-CN邮件列表中。
 

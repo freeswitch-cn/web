@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "关于FreeSWITCH文档翻译的意见"
+tags:
+  - "翻译"
+  - "文档"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 关于FreeSWITCH文档翻译的意见
 

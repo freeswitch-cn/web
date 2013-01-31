@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "原来百度公司是这样对待版权的--致百度的一封公开信"
+tags:
+  - "baidu"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 百度公司，
 

@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH-CN 中文官方聊天室测试版"
+tags:
+  - "chat"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 大家好，
 

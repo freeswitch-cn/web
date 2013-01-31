@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "提问的智慧"
+tags:
+  - "doc"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 发现很多网友在QQ群中或邮件列表中提问问题时还是不得要领。推荐两篇文章给大家看一下：
 

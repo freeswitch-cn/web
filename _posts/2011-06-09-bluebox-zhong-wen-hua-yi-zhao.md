@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "BlueBox 中文化一招"
+tags:
+  - "bluebox"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 前段时间有好多网友在讨论 BlueBox 的中文化一事。BlueBox 在切换到中文后就跟死了一样。查看以前的bug list有人也讨论过这个问题，有人回答说是 Rosetta 的问题，很快就能修好，不过我看都过了一年了也没人修。
 

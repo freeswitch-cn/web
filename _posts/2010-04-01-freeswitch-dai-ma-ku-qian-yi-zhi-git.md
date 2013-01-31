@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 代码库迁移至 Git"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH 开发团队已经将代码库从SVN迁移到了Git 上，而原来的 SVN 库已经变成只读，应该会保留相当长的时间，对于不需要提交代码的用户来说应该没有任何变化。
 

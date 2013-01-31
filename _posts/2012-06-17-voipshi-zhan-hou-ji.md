@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "VoIP实战:后记"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 从决定写书，到现在算起来已经有两年多了。当时就预料到这个过程可能非常长，因此决定在互联网上采用知识共享协议（Creative Common，简称CC）在 [FreeSWITCH-CN](http://www.freeswitch.org.cn)网站上发布。本书的前面一些章节远在FreeSWITCH官方的第一本书 *FreeSWITCH 1.0.6*上市之前就发布了，因此本人常以为该书实为FreeSWITCH第一本书。
 

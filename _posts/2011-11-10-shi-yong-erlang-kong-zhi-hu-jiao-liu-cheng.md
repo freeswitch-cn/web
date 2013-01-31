@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "使用 Erlang 控制呼叫流程"
+tags:
+  - "book"
+  - "erlang"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 ## 概述
 

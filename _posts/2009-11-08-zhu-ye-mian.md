@@ -1,9 +1,15 @@
 ---
 layout: post
 title: "主页面"
+tags:
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 <div style="background-color:#009;font-size:24px;padding:10pt;text-align:center">
 

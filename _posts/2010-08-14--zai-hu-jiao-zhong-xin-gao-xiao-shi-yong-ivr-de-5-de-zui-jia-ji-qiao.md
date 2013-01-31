@@ -1,9 +1,18 @@
 ---
 layout: post
 title: " 在呼叫中心高效使用 IVR 的 5 个最佳技巧 "
+tags:
+  - "转载"
+  - "翻译"
+  - "IVR"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 原文来自：http://www.voiptoday.org/index.php?option=com_content&view=article&id=496:top-5-tips-for-effective-use-of-ivrs-in-call-center&catid=903:call-center&Itemid=171
 

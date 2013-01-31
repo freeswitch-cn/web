@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "嵌入式脚本"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 前面已经说了，FreeSWITCH  支持使用你喜欢的各种程序语言来控制呼叫流程。你不仅可以用它们写出灵活多样的IVR，给用户带来更好的体验，更重要的是你可以通过它们很好地与你的业务进行无缝集成，以节省你的后台业务处理及管理成本。
 

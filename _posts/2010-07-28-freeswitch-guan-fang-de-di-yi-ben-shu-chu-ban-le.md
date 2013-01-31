@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 官方的第一本书出版了"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH 官方日前出版了第一本书。作者是　Anthony Minessale、 Michael S. Collins 和　Darren Schreiber。
 

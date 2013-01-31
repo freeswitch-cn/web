@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "FreeSWITCH 支持  rtmp 啦"
+tags:
+  - "rtmp"
+  - "flash"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 自从去年有人说在做 mod_rtmp 以来，就一直没有动静，前几天我还真认真研究了一下 librtmp 看实现起来有多少工作量，这不，今天新的消息就出来了。
 

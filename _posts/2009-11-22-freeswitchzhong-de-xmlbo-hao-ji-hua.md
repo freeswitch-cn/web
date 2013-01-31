@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH中的XML拨号计划"
+tags:
+  - "dialplan"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 本文是arlyardo翻译的，内容来自<http://wiki.freeswitch.org/wiki/Dialplan_XML>。
 

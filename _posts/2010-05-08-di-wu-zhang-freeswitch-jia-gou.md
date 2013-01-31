@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "第五章 FreeSWITCH 架构"
+tags:
+  - "book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 从来章开始，我们正式开始我们的 FreeSWITCH 之旅。今后我们不再用单独的章节来讲述VoIP中的其它要素和概念，而是在用到时穿插于各个章节之中。
 

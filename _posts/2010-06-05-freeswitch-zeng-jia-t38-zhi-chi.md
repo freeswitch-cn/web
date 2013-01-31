@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH  增加 T.38 支持"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH GIT 版本库中已加入 T.38 支持，将包含在下一个发布版本 1.0.7 中。
 

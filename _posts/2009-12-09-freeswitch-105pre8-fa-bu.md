@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 1.0.5pre8 发布"
+tags:
+  - "发行版"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH 1.0.5 pre8发布，该版本修复了很多BUG，refactor了很多代码，并且automake/autoconf脚本也有很多更新和调整。
 

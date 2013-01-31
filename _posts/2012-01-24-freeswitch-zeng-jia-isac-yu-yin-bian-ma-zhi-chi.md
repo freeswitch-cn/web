@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH 增加 iSAC 语音编码支持"
+tags:
+  - "codec"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 刚看到 FreeSWITCH 增加了对 iSAC 语音编码的支持。
 

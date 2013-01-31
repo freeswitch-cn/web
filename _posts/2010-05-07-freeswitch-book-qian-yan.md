@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH book: 前言"
+tags:
+  - "Book"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 
 我们已经步入了一个新的时代。当前，VoIP已开始成为语音通信的主导并将在全世界范围内引领一场革命，而SIP（Session Initiation Protocal，会话初始协议）必将是这场革命的核心。

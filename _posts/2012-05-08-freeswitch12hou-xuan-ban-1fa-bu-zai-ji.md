@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "FreeSWITCH-1.2侯选版发布"
+tags:
+  - "news"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 FreeSWITCH 已经准备发布稳定的1.2版了，目前RC2已经可以下载了。
 

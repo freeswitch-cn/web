@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "国内外VoIP方面的网站收集"
+tags:
+  - "links"
 ---
 
 # {{ page.title }}
+
+<div class="tags">
+{% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
+</div>
+
 
 来自于QQ群中网友的分享，原载于<http://www.voip123.cn>
 
