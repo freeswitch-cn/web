@@ -3,3 +3,6 @@ pygments: true
 auto: true
 markdown: rdiscount
 com: "FreeSWITCH-CN中文社区"
+name: "FreeSWITCH-CN中文社区"
+description: "FreeSWITCH-CN中文社区"
+url: http://www.freeswitch.org.cn
