@@ -9,3 +9,4 @@ title: "FreeSWITCH WebRTC 支持进展"
 
 <http://fisheye.freeswitch.org/changelog/freeswitch.git?cs=41b2ce51d2743117459bf19970d91f18f1692866>
 
+更新201302：来自官方网站的剧透：<http://www.freeswitch.org/node/437>。
