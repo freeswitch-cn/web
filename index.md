@@ -12,7 +12,7 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 
 我们有一个[新浪微群](http://q.t.sina.com.cn/164023)、一个[豆瓣小组](http://www.douban.com/group/239803/)、大熊同学维护着一个QQ群：190435825 。
 
-本站接受[读者投稿](/2010/07/22/guan-yu-zai-ben-zhan-tou-gao-de-shuo-ming.html)，欢迎与大家分享经验。
+本站接受[读者投稿](/2010/07/23/guan-yu-zai-ben-zhan-tou-gao-de-shuo-ming.html)，欢迎与大家分享经验。
 
 最推荐的交流方式是加入 Google Groups [FreeSWITCH-CN 邮件列表](http://groups.google.com/group/freeswitch-cn?hl=en)。但由于众所周知的原因，Google Groups 有时在国内无法访问。但只要您能加入，邮件列表功能应该是正常的。我们感谢您的积极参与，对此带来的不便请谅解。(如果http不行，试试[用 https 访问 FreeSWITCH-CN](https://groups.google.com/group/freeswitch-cn?hl=en))。
 <br>
