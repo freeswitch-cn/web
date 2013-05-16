@@ -78,5 +78,6 @@ FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008
 
 ## 历届活动回顾
 
-[FreeSWITCH-CN中文社区2012首届开发者沙龙花絮](http://www.freeswitch.org.cn/2012/06/18/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long-hua-xu.html)
-[FreeSWITCH-CN中文社区2012首届开发者沙龙](http://www.freeswitch.org.cn/2012/04/16/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long.html)
+* [FreeSWITCH-CN中文社区2012首届开发者沙龙花絮](http://www.freeswitch.org.cn/2012/06/18/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long-hua-xu.html)
+
+* [FreeSWITCH-CN中文社区2012首届开发者沙龙](http://www.freeswitch.org.cn/2012/04/16/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long.html)
