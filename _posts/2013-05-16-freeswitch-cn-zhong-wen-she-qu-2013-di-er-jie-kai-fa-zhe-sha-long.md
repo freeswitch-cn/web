@@ -14,7 +14,7 @@ tags:
 
 FreeSWITCH-CN中文社区是以FreeSWITCH开源项目为基础的全国性开源软交换开发者社区组织。该社区自2009年创办以来，汇聚了全国乃至全球的FreeSWITCH开发者及爱好者，并为大家提供了一个基于中文环境的技术交流及沟通的平台，为FreeSWITCH在中文用户群中的推广起到了重要的作用。FreeSWITCH-CN社区是FreeSWITCH领域在中国乃至亚洲最大、最专业的中文社区。
 
-自去年第一届沙龙活动举办以来，我们得到了很好的反馈。大家都希望第二届早点到来，因此，我们特别策划了这次活动。
+自去年[第一届沙龙活动](http://www.freeswitch.org.cn/2012/04/16/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long.html)举办以来，我们得到了很好的反馈。大家都希望第二届早点到来，因此，我们特别策划了这次活动。
 
 本次沙龙活动旨在进一步促进FreeSWITCH项目在中文开发者中的推广和技术交流。沙龙邀请了多名在FreeSWITCH领域具有重要影响力的人物，他们均在FreeSWITCH开发及应用方面具有非常丰富的经验，并且对FreeSWITCH在中文地区的推广起到了重要的作用。
 
@@ -32,7 +32,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 * 13:00～13:30   签到
 * 13:30～13:40   致欢迎词，介绍嘉宾
 * 13:45～14:15   杜金房 FreeSWITCH项目介绍及ClueCon2012见闻
-* 待定
+* 待定 (<strong>欢迎报名</strong>)
 * 16:05～16:15   抽奖
 * 16:15～17:30   自由交流
 
@@ -74,3 +74,9 @@ FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008
 
 * 赞助单位：
 
+(<strong>欢迎赞助</strong>)
+
+## 历届活动回顾
+
+[FreeSWITCH-CN中文社区2012首届开发者沙龙花絮](http://www.freeswitch.org.cn/2012/06/18/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long-hua-xu.html)
+[FreeSWITCH-CN中文社区2012首届开发者沙龙](http://www.freeswitch.org.cn/2012/04/16/freeswitchcnzhong-wen-she-qu-2012shou-jie-kai-fa-zhe-sha-long.html)
