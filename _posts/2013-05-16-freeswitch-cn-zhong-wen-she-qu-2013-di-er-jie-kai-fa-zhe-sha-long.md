@@ -44,7 +44,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 
 * 赞助单位提供的奖品（请务必在入场时携带入场券)
 * 前3位购票者还有特别礼物赠送!
-* FreeSWITCH高级培训折扣
+* FreeSWITCH培训折扣
 </strong>
 
 ## 食宿（食宿自理）

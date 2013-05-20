@@ -3,7 +3,7 @@ layout: default
 title: {{ site.com }}
 ---
 
-<!-- <div style="background-color:blue;color:yellow;padding:5px;text-align:center">网站有小故障，紧急恢复中，详见 <a style="color:white" href="2012/12/04/freeswitch-server-migration.html">[FreeSWITCH-CN服务器迁移]</a> ...</div> -->
+<div style="background-color:blue;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2013/05/16/freeswitch-cn-zhong-wen-she-qu-2013-di-er-jie-kai-fa-zhe-sha-long.html">[FreeSWITCH-CN 2013 开发者沙龙]</a> 火热报名中 ...</div>
 
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
 
