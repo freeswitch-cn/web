@@ -58,7 +58,9 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 其它：<http://www.dianping.com/search/category/2/60/r1488g6859>
 
 
-有任何意见及建议请 [@FreeSWITCH-CN](http://weibo.com/freeswitchcn) 或发送邮件到 freeswitch@x-y-t.com 。联系人：胡亚利 (010) 5719-5865 186-0064-0235
+有任何意见及建议请 [@FreeSWITCH-CN](http://weibo.com/freeswitchcn) 或发送邮件到 freeswitch@x-y-t.com 。
+
+联系人：胡亚利 (010) 5719-5865 186-0064-0235
 
 ## 本次沙龙的主要演讲人：
 
