@@ -68,7 +68,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 
 FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008年开始研究FreeSWITCH，在语音通讯及软交换领域中具有丰富的研发及应用经验，参加了[ClueCon 2011](http://www.cluecon.com/2011/)及[ClueCon 2012](http://www.cluecon.com/2011/)大会。
 
-* 萧少聪(Scott Siu，[@scottsiu](http://www.weibo.com/scottsiu))：
+* 萧少聪(Scott Siu，[@萧少聪](http://www.weibo.com/scottsiu))：
 
 红帽RHCA认证架构师、EnterpriseDB官方认证的Postgres数 据库专家，2010同年以理事身份筹建PostgreSQL中国用户会，并建立[PostgreSQL 中文社区](http://www.postgres.org.cn)。拥有多年开发、架构设计及项目管理经验，专 注于推动 开源基础平台软件在中国的发展。
 
