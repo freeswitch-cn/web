@@ -97,7 +97,7 @@ FreeSWITCH-CN QQ群创始人。
 
 <a href="http://yealink.com" target="_blank"><img src="http://yealink.com/Public/Front/images/logo.gif" height="96"></img></a>
 
-<a href="http://www.hiastar.com" target="_blank"><img src="http://www.sangoma.com/wp-content/uploads/2012/12/logo.gif" height="60"></img></a><br>
+<a href="http://www.hiastar.com" target="_blank"><img src="http://www.sangoma.com/wp-content/uploads/2012/12/logo.gif" height="40"></img></a><br>
 
 <a href="http://www.dinstar.com"><img src="http://www.dinstar.com/img/logo2.png"></a>
 
