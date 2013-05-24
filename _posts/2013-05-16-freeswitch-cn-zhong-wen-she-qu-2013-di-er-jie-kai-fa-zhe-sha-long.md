@@ -60,7 +60,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 
 有任何意见及建议请 [@FreeSWITCH-CN](http://weibo.com/freeswitchcn) 或发送邮件到 freeswitch@x-y-t.com 。联系人：胡亚利 (010) 5719-5865 186-0064-0235
 
-本次沙龙的主要演讲人：
+## 本次沙龙的主要演讲人：
 
 * [杜金房](http://about.me/dujinfang)（[@SevenDu](http://weibo.com/dujinfang)）：
 
@@ -79,17 +79,32 @@ FreeSWITCH-CN QQ群创始人。
 三众视迅创始人。
 
 
-活动组织单位：
+## 活动组织单位：
 
-* 主办单位：FreeSWITCH-CN中文社区
+* 主办单位：[FreeSWITCH-CN中文社区](http://www.freeswitch.org.cn)
 
 * 承办单位：[北京信悦通科技有限公司](http://x-y-t.com)
 
-* 鸣谢：@CTI论坛官方微博 、 @呼叫中心开心乐园 、@北京车库咖啡 、
+* 鸣谢：@CTI论坛官方微博 、 @呼叫中心开心乐园 、@北京车库咖啡、@yealink
 
 * 赞助单位：
 
 (<strong>欢迎赞助</strong>)
+
+<a href="http://x-y-t.com" target="_blank"><img src="http://x-y-t.com/images/logo.jpg" height="96"></img></a><br>
+
+<a href="http://yealink.com" target="_blank"><img src="http://yealink.com/Public/Front/images/logo.gif" height="96"></img></a><br>
+
+<a href="http://www.hiastar.com" target="_blank"><img src="http://www.hiastar.com/templates/tx_freemium/images/logo.png" height="64"></img></a><br>
+
+<a href="http://www.dinstar.com"><img src="http://www.dinstar.com/img/logo2.png"></a>
+
+## 特别关注
+
+欢迎关注 FreeSWITCH-CN微信:<br>
+
+<img src="/images/qrcode_for_FreeSWITCH-CN-wechat.jpg" width="180" height="180" style="margin-left:-10px"/>
+
 
 ## 历届活动回顾
 
