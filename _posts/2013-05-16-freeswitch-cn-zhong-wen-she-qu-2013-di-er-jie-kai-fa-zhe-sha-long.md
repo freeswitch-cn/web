@@ -70,7 +70,7 @@ FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008
 
 红帽RHCA认证架构师、EnterpriseDB官方认证的Postgres数 据库专家，2010同年以理事身份筹建PostgreSQL中国用户会，并建立[PostgreSQL 中文社区](http://www.postgres.org.cn)。拥有多年开发、架构设计及项目管理经验，专 注于推动 开源基础平台软件在中国的发展。
 
-* 程祝波（大熊）：
+* 大熊：
 
 FreeSWITCH-CN QQ群创始人。
 
