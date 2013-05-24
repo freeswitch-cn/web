@@ -31,11 +31,11 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 
 * 13:00～13:30   签到
 * 13:30～13:40   致欢迎词，介绍嘉宾
-* 杜金房 FreeSWITCH项目介绍及ClueCon2012见闻
-* 萧少聪 PostgreSQL数据库与FreeSWITCH在生产环境中的应用
+* 杜金房 FreeSWITCH项目、社区简介及ClueCon2012见闻
 * 朱立中 Sangoma板卡在FreeSWITCH中的应用
 * 戴晓亮 (待定)
 * 赵焕成 FreeSWITCH与VoIP安全
+* 萧少聪 PostgreSQL数据库与FreeSWITCH在生产环境中的应用
 * 杜金房 FreeSWITCH HA及LoadBalance在生产环境中的应用
 * 16:55～17:00   抽奖
 * 17:00～18:00   自由交流
@@ -66,9 +66,18 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 
 FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008年开始研究FreeSWITCH，在语音通讯及软交换领域中具有丰富的研发及应用经验，参加了[ClueCon 2011](http://www.cluecon.com/2011/)及[ClueCon 2012](http://www.cluecon.com/2011/)大会。
 
-* 萧少聪(Scott Siu，[@scottsiu](http://www.weibo.com/scottsiu))：红帽RHCA认证架构师、EnterpriseDB官方认证的Postgres数 据库专家，2010同年以理事身份筹建PostgreSQL中国用户会，并建立[PostgreSQL 中文社区](http://www.postgres.org.cn)。拥有多年开发、架构设计及项目管理经验，专 注于推动 开源基础平台软件在中国的发展。
+* 萧少聪(Scott Siu，[@scottsiu](http://www.weibo.com/scottsiu))：
 
-* 其它待定
+红帽RHCA认证架构师、EnterpriseDB官方认证的Postgres数 据库专家，2010同年以理事身份筹建PostgreSQL中国用户会，并建立[PostgreSQL 中文社区](http://www.postgres.org.cn)。拥有多年开发、架构设计及项目管理经验，专 注于推动 开源基础平台软件在中国的发展。
+
+* 程祝波（大熊）：
+
+FreeSWITCH-CN QQ群创始人。
+
+* 赵焕成
+
+三众视迅创始人。
+
 
 活动组织单位：
 
