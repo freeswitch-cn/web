@@ -99,7 +99,12 @@ FreeSWITCH-CN QQ群创始人。
 
 <a href="http://www.hiastar.com" target="_blank"><img src="http://www.sangoma.com/wp-content/uploads/2012/12/logo.gif" height="40"></img></a><br>
 
+<br>
+
 <a href="http://www.dinstar.com"><img src="http://www.dinstar.com/img/logo2.png"></a>
+
+<br>
+<br>
 
 ## 特别关注
 
