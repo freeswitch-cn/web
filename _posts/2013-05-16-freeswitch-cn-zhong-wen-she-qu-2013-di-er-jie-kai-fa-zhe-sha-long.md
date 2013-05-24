@@ -87,7 +87,7 @@ FreeSWITCH-CN QQ群创始人。
 
 * 鸣谢：@CTI论坛官方微博 、 @呼叫中心开心乐园 、@北京车库咖啡、@yealink
 
-* 赞助单位：
+## 赞助单位：
 
 (<strong>欢迎赞助</strong>)
 
