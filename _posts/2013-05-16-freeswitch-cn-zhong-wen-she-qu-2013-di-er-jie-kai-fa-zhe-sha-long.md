@@ -75,7 +75,7 @@ FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008
 
 * 朱利中
 
-先生是[深圳星昊通](http://www.hiastar.com/)科技工程师。在Asterisk开源领域服务10年，和合作伙伴联合举办了第一届Asterisk中国官方大会，负责VOIP88 技术社区维护，并联合发布了Elastix中文版本，个人翻译发布了第一本FreePBX使用指南。
+朱利中先生是[深圳星昊通](http://www.hiastar.com/)科技工程师。在Asterisk开源领域服务10年，和合作伙伴联合举办了第一届Asterisk中国官方大会，负责VOIP88 技术社区维护，并联合发布了Elastix中文版本，个人翻译发布了第一本FreePBX使用指南。
 目前负责Sangoma 亚太地区的市场推广工作。
 
 * 刘光大
