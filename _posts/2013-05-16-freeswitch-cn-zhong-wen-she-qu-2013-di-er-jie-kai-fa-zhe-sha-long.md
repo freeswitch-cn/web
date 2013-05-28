@@ -33,9 +33,10 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 * 13:30～13:40   致欢迎词，介绍嘉宾
 * 杜金房 FreeSWITCH项目、社区简介及ClueCon2012见闻
 * 朱利中 Sangoma板卡在FreeSWITCH中的应用
+* 刘光大 呼叫中心经验漫谈
+* 萧少聪 PostgreSQL数据库与FreeSWITCH在生产环境中的应用
 * 戴晓亮 (待定)
 * 赵焕成 FreeSWITCH与VoIP安全
-* 萧少聪 PostgreSQL数据库与FreeSWITCH在生产环境中的应用
 * 杜金房 FreeSWITCH HA及LoadBalance在生产环境中的应用
 * 16:55～17:00   抽奖
 * 17:00～18:00   自由交流
