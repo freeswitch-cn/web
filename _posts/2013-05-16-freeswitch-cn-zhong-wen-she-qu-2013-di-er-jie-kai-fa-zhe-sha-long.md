@@ -32,7 +32,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 * 13:00～13:30   签到
 * 13:30～13:40   致欢迎词，介绍嘉宾
 * 杜金房 FreeSWITCH项目、社区简介及ClueCon2012见闻
-* 朱立中 Sangoma板卡在FreeSWITCH中的应用
+* 朱利中 Sangoma板卡在FreeSWITCH中的应用
 * 戴晓亮 (待定)
 * 赵焕成 FreeSWITCH与VoIP安全
 * 萧少聪 PostgreSQL数据库与FreeSWITCH在生产环境中的应用
@@ -72,13 +72,18 @@ FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008
 
 红帽RHCA认证架构师、EnterpriseDB官方认证的Postgres数 据库专家，2010同年以理事身份筹建PostgreSQL中国用户会，并建立[PostgreSQL 中文社区](http://www.postgres.org.cn)。拥有多年开发、架构设计及项目管理经验，专 注于推动 开源基础平台软件在中国的发展。
 
+* 朱利中
+
+先生是[深圳星昊通](http://www.hiastar.com/)科技工程师。在Asterisk开源领域服务10年，和合作伙伴联合举办了第一届Asterisk中国官方大会，负责VOIP88 技术社区维护，并联合发布了Elastix中文版本，个人翻译发布了第一本FreePBX使用指南。
+目前负责Sangoma 亚太地区的市场推广工作。
+
 * 大熊：
 
 FreeSWITCH-CN QQ群创始人。
 
 * 赵焕成
 
-三众视迅创始人。
+三众博远创始人，[voip123](http://www.voip123.cn/)博主。
 
 
 ## 活动组织单位：
