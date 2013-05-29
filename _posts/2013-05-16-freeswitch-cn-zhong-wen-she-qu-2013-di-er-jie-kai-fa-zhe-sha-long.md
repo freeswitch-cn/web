@@ -88,8 +88,7 @@ FreeSWITCH-CN QQ群创始人。
 
 * 赵焕成
 
-三众博远创始人，[voip123](http://www.voip123.cn/)博主。
-
+三众博远通信科技（北京）有限公司创始人，[voip123](http://www.voip123.cn/)站长。
 
 ## 活动组织单位：
 
@@ -111,9 +110,11 @@ FreeSWITCH-CN QQ群创始人。
 
 <br>
 
-<a href="http://www.dinstar.com"><img src="http://www.dinstar.com/img/logo2.png"></a>
+<a href="http://www.dinstar.com" target="_blank"><img src="http://www.dinstar.com/img/logo2.png"></a>
 
 <br>
+<a href="http://www.unionbroad.cn" target="_blank"><img src="/images/fscnds2013/logos/unionbroad.png" height="60"></a>
+
 <br>
 
 ## 特别关注
