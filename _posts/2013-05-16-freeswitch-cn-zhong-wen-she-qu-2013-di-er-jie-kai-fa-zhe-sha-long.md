@@ -11,6 +11,8 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2013/05/30/freeswitch-peixun-2013.html">[FreeSWITCH-CN 2013培训]</a> 火热报名中 ...</div>
+
 
 FreeSWITCH-CN中文社区是以FreeSWITCH开源项目为基础的全国性开源软交换开发者社区组织。该社区自2009年创办以来，汇聚了全国乃至全球的FreeSWITCH开发者及爱好者，并为大家提供了一个基于中文环境的技术交流及沟通的平台，为FreeSWITCH在中文用户群中的推广起到了重要的作用。FreeSWITCH-CN社区是FreeSWITCH领域在中国乃至亚洲最大、最专业的中文社区。
 
@@ -21,6 +23,8 @@ FreeSWITCH-CN中文社区是以FreeSWITCH开源项目为基础的全国性开源
 本次沙龙安排有多场专题讲座，涉及到FreeSWITCH项目及发展现状的介绍、基于FreeSWITCH应用开发及成果介绍、FreeSWITCH相关技术交流等内容。
 
 FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举办一次。为FreeSWITCH中文社区的开发及爱好者提供一个每年一次的沟通交流的盛宴。大家可以在峰会上面了解最新的技术发展动向、结识朋友、展示成果。我们会将FreeSWITCH在中文地区的发展情况、成果及开发者的意见带到ClueCon大会上，展现来自FreeSWITCH-CN中文社区的力量。
+
+另外，响应众多朋友的要求，从大会的第二天起进行[FreeSWITCH培训](/2013/05/30/freeswitch-peixun-2013.html)，有意者早报名早优惠，数量有限。
 
 * 时间：2013年6月29日（周六）  13：30～17：30
 * 地点：北京 [车库咖啡](http://www.chekucafe.com/) 北京市海淀区海淀西大街48号鑫鼎宾馆2楼
