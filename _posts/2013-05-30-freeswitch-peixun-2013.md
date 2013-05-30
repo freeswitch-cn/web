@@ -18,7 +18,7 @@ tags:
 
 ## 优惠
 
-在[FreeSWITCH-CN 2013开发者沙龙](/2013/05/16/freeswitch-cn-zhong-wen-she-qu-2013-di-er-jie-kai-fa-zhe-sha-long.html)之际，优惠多多，请免费注册获取优惠券：
+在[FreeSWITCH-CN 2013开发者沙龙](/2013/05/16/freeswitch-cn-zhong-wen-she-qu-2013-di-er-jie-kai-fa-zhe-sha-long.html)之际，特价优惠，请免费注册获取优惠券：
 
 * [FreeSWITCH高手速成优惠券](http://freeswitch-training-beginnings.eventbrite.com/)，立减820元
 * [FreeSWITCH实战优惠券](http://freeswitch-training-master.eventbrite.com/)，立减1400元
@@ -146,6 +146,6 @@ FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008
 
 * 实战课程学员赠《FreeSWITCH: VoIP实战》一本，高手速成课程学员不赠；
 * 建议大家携带笔记本电脑，这可是实战课啊 ：） 
-* 培训时间为两天，总费用为3800元，请尽快注册以得到更多折扣；
+* 培训时间为两天，总费用为3800元，请尽快注册以得到折扣（名额有限）；
 * 注册时留下详细的联系方式，我们会有专人联系你付款；
 * 退款需收取20%管理费。
