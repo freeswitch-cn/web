@@ -40,7 +40,6 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 * 刘光大 呼叫中心经验漫谈
 * 萧少聪 PostgreSQL数据库与FreeSWITCH在生产环境中的应用
 * 戴晓亮 (待定)
-* 赵焕成 FreeSWITCH与VoIP安全
 * 杜金房 FreeSWITCH HA及LoadBalance在生产环境中的应用
 * 16:55～17:00   抽奖
 * 17:00～18:00   自由交流
@@ -90,9 +89,6 @@ FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008
 
 FreeSWITCH-CN QQ群创始人。
 
-* 赵焕成
-
-三众博远通信科技（北京）有限公司创始人，[voip123](http://www.voip123.cn/)站长。
 
 ## 活动组织单位：
 
