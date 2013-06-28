@@ -38,7 +38,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与ClueCon大会相对应每年举
 * 杜金房 FreeSWITCH项目、社区简介及ClueCon2012见闻
 * 朱利中 Sangoma板卡在FreeSWITCH中的应用
 * 刘光大 呼叫中心经验漫谈
-* 萧少聪 PostgreSQL数据库与FreeSWITCH在生产环境中的应用
+* <s>萧少聪 PostgreSQL数据库与FreeSWITCH在生产环境中的应用</s> ([航班延误，遗憾](http://www.weibo.com/1834559904/zDzcPvHi8)，更新于28日23:10)
 * 戴晓亮 低成本2000并发的分布式电话系统
 * 贾　强 鸟瞰电信业务网络
 * 杜金房 FreeSWITCH HA及LoadBalance在生产环境中的应用
