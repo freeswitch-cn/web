@@ -14,13 +14,13 @@ tags:
 <br>
 <br>
 
-内容更新中...
+内容持续更新中...请关注...
 
 ## 演示文档
 
-* <a href="/images/fscnds2013/files/FreeSWITCH-Introduction.pdf">FreeSWITCH简介</a>
+* <a href="/images/fscnds2013/files/FreeSWITCH-Introduction.pdf">FreeSWITCH简介</a> PDF
 
-* <a href="/images/fscnds2013/files/daixiaoliang.ppt">低成本2000并发的分布式电话系统</a>
+* <a href="/images/fscnds2013/files/daixiaoliang.ppt">低成本2000并发的分布式电话系统</a> PPT
 
 
 <br>
