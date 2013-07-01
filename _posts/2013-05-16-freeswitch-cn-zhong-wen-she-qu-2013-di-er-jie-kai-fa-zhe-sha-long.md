@@ -133,6 +133,9 @@ FreeSWITCH-CN QQ群创始人。
 
 <br>
 
+<a href="http://www.wiseaction.com.cn/Index.aspx" target="_blank"><img src="http://www.wiseaction.com.cn/Images/Logo.jpg" height="60"></a>
+
+
 ## 特别关注
 
 欢迎关注 FreeSWITCH-CN微信:<br>
