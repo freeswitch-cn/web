@@ -65,7 +65,7 @@ FreeSWITCH-CN中文社区技术沙龙致力于打造成为一年一度的国内�
 <div class="info" style="text-align:center">朱利中</div>
 
 <img src="/images/fscnds2013/images/IMG_1316.jpg"/>
-<div class="info" style="text-align:center">聊</div>
+<div class="info" style="text-align:center">聊地真开心</div>
 
 <img src="/images/fscnds2013/images/IMG_1325.jpg"/>
 <div class="info" style="text-align:center">刘光大</div>
