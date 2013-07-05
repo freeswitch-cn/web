@@ -20,9 +20,6 @@ tags:
 <br>
 <br>
 
-内容持续更新中...请关注...
-
-
 “FreeSWITCH-CN中文社区2013，第二届开发者技术沙龙”已经于2013年6月29日圆满结束。随着Freeswitch在国内关注度提高，大规模大容量系统在各行业应用的广泛增多，关注度也日益增高。本次技术沙龙得到了广大VoIP研究与应用专业人员的踊跃参加，到场人员异常火爆。技术沙龙会场气氛热烈，座无虚席，互动活跃，形式多样。特别是好多人都从全国各地赶过来，跟大家一起学习讨论。
 
 本次技术沙龙主题演讲有幸邀请到了北京信悦通科技有限公司技术总监，杜金房先生；Sangoma中国区总代、深圳星昊通科技有限公司、总经理，朱立中先生；呼叫中心开心乐园园主，刘光大先生；另外，还有我们中文社区的明星人物戴晓亮先生和贾强先生。FreeSWITCH-CN QQ群创始人大熊-先生此次也特意从西安赶过来参加本次技术沙龙。
@@ -38,6 +35,8 @@ FreeSWITCH-CN中文社区技术沙龙致力于打造成为一年一度的国内�
 * <a href="/images/fscnds2013/files/FreeSWITCH-Introduction.pdf">FreeSWITCH简介</a> PDF
 
 * <a href="/images/fscnds2013/files/daixiaoliang.ppt">低成本2000并发的分布式电话系统</a> PPT
+
+* <a href="/images/fscnds2013/files/callcenter_liuguangda.pdf">中国呼叫中心行业发展与现状</a> PDF
 
 ## 现场
 
