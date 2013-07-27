@@ -2,7 +2,7 @@
 layout: post
 title: "FreeSWITCH 1.2.12发布"
 tags:
-  - "培训"
+  - "新闻"
 ---
 
 # {{ page.title }}
