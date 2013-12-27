@@ -208,7 +208,7 @@ hr {
 #sidebar {
 	float: right;
 	width: 140px;
-	padding-top: 10px;
+	/*padding-top: 10px;*/
 	padding-left: 10px;
 	margin-bottom: 20px;
 /*	border-left: 1px dotted #0FF;*/
