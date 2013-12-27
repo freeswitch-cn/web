@@ -3,7 +3,9 @@ layout: default
 title: {{ site.com }}
 ---
 
-<div style="background-color:blue;color:yellow;padding:5px;text-align:center;margin-top:10px"><a style="color:white" href="/2013/07/02/freeswitch-cn-zhong-wen-she-qu-2013-di-er-jie-kai-fa-zhe-sha-long-yuan-man-cheng-gong.html">[FreeSWITCH-CN 2013 开发者沙龙圆满成功]</a></div>
+<div style="background-color:blue;color:yellow;padding:5px;text-align:center;margin-top:10px"><a style="color:white" href="/2013/07/02/freeswitch-cn-zhong-wen-she-qu-2013-di-er-jie-kai-fa-zhe-sha-long-yuan-man-cheng-gong.html">[FreeSWITCH-CN 2013 开发者沙龙圆满成功]</a>
+ | <a style="color:white" href="/2013/12/27/FreeSWITCH-CN-wei-xin-gong-gong-zhang-hao-kai-zhang.html">FreeSWITCH-CN 微信公共账号 &rarr;</a>
+</div>
 
 <!-- <div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2013/05/30/freeswitch-peixun-2013.html">[FreeSWITCH-CN 2013培训]</a> 火热报名中 ...</div> -->
 
