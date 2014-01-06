@@ -14,11 +14,11 @@ title: {{ site.com }}
 FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某些模块中使用了C++，以[MPL1.1](http://www.opensource.org/licenses/mozilla1.1.php)发布。更多的说明请参考[什么是FreeSWITCH?](/2009/11/08/shi-yao-shi-freeswitch.html)和[FreeSWITCH新手指南](/2009/11/08/freeswitch-xin-shou-zhi-nan.html)。
 您也可以开始阅读这本正在写作中的FreeSWITCH电子书-[《FreeSWITCH: VoIP实战》](/document)。
 
-我们有一个一个QQ群：190435825 、一个[豆瓣小组](http://www.douban.com/group/239803/)、一个微信公共账号 FreeSWITCH-CN（可以扫描右侧的二维码加入）。
+我们有一个一个QQ群：190435825 、一个[豆瓣小组](http://www.douban.com/group/239803/)、一个微信公共账号 FreeSWITCH-CN（可以扫描右侧的二维码加入），以及一个[知乎专栏](http://zhuanlan.zhihu.com/freeswitch/19648543)。
 
 本站接受[读者投稿](/2010/07/23/guan-yu-zai-ben-zhan-tou-gao-de-shuo-ming.html)，欢迎与大家分享经验。
 
-最推荐的交流方式是加入 Google Groups [FreeSWITCH-CN 邮件列表](http://groups.google.com/group/freeswitch-cn?hl=en)。但由于众所周知的原因，Google Groups 有时在国内无法访问。但只要您能想办法加入，邮件列表功能应该是正常的。我们感谢您的积极参与，对此带来的不便请谅解。(如果http不行，试试[用 https 访问 FreeSWITCH-CN](https://groups.google.com/group/freeswitch-cn?hl=en))。
+最推荐的交流方式是加入 Google Groups [FreeSWITCH-CN 邮件列表](http://groups.google.com/group/freeswitch-cn?hl=en)。但由于众所周知的原因，Google Groups 有时在国内无法访问。但只要您能想办法加入，邮件列表功能应该是正常的。我们感谢您的积极参与，对此带来的不便请谅解。(如果http不行，试试[用 https 访问 FreeSWITCH-CN](https://groups.google.com/group/freeswitch-cn?hl=en))。如果还不行，我们也欢迎到[知乎](http://zhihu.com)上提问。
 <br>
 
 # 最新文章
