@@ -22,9 +22,9 @@ FreeSWITCH最理想的运行平台是64位的Linux，如果你坚持使用Window
 
 下载地址： <http://files.freeswitch.org>
 
-由于 FreeSWITCH 更新非常快，请自己查找最新的版本，如，截止2013年2月20日，最稳定的发行版是：
+由于 FreeSWITCH 更新非常快，请自己查找最新的版本，如，截止2013年12月25日，最稳定的发行版是：
 
-[freeswitch-1.2.5.tar.bz2](http://files.freeswitch.org/freeswitch-1.2.5.tar.bz2)
+[freeswitch-1.2.17.tar.bz2](http://files.freeswitch.org/freeswitch-1.2.17.tar.bz2)
 
 git代码库：
 
@@ -57,7 +57,7 @@ make install
 
 FreeSWITCH社区成员都很友好，你可以通过[邮件列表（英文）](lists.freeswitch.org)，[IRC](http://wiki.freeswitch.org/wiki/IRC)等获取帮助和交流经验。
 
-[PasteBin](http://pastebin.freeswitch.org/)是一个专供粘贴配置、debug、log等文本信息的地方，用户名和密码分别是 pastebin 和 freeswitch。提交问题时，先把相关log、出错信息等贴完后再把对应的链接发到邮件列表或IRC，就可以让别人帮你看一看是哪儿出错了。
+[PasteBin](http://pastebin.freeswitch.org/)是一个专供粘贴配置、debug、log等文本信息的地方，用户名和密码分别是 pastebin 和 freeswitch（其实人家已经告诉你了）。提交问题时，先把相关log、出错信息等贴完后再把对应的链接发到邮件列表或IRC，就可以让别人帮你看一看是哪儿出错了。
 
 [Jira](jira.freeswitch.org)是FreeSWITCH的缺陷跟踪工具，详情请参阅[Reporting Bugs]( http://wiki.freeswitch.org/wiki/Reporting_Bugs)
 
@@ -74,3 +74,7 @@ QQ 群 190435825 中也有好多热心的网友，同样，为了得到更好的
 使用邮件列表的好处：
 
 邮件列表中的消息是异步的，这意味着，你的问题可能总会有人看到并给你答案。相反，如果你在QQ群中提问一个问题，这时候知道答案的人正好不在，而等他回来的时候你已经下线了。
+
+另外，[FreeSWITCH知乎专栏](http://zhuanlan.zhihu.com/freeswitch)上的文章或许对你有用，尤其是这一篇[](http://zhuanlan.zhihu.com/freeswitch/19648543) 。
+
+还没有加FreeSWITCH-CN微信公共账号的，扫一扫右侧的二维码或许对你有用，里面会不定期地发布关于FreeSWITCH的知识。
