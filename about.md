@@ -21,10 +21,10 @@ FreeSWITCH 是 www.freeswitch.org 的注册商标，其官方网站是：
 
 Email: freeswitch-cn _.a.t._ freeswitch.org.cn
 
-## 贡献者列表（按时间先后排名）
+## 贡献者列表（按时间先后排名，多次贡献的以第一次为准，后面有+号）
 
 2009：
-杜金房
+杜金房（+）
 
 2011：
 北京信悦通（公司）
