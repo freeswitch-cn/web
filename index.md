@@ -3,11 +3,13 @@ layout: default
 title: {{ site.com }}
 ---
 
+<!--
 <div style="background-color:blue;color:yellow;padding:5px;text-align:center;margin-top:10px"><a style="color:white;text-decoration:none" href="/2013/07/02/freeswitch-cn-zhong-wen-she-qu-2013-di-er-jie-kai-fa-zhe-sha-long-yuan-man-cheng-gong.html">FreeSWITCH-CN 2013 开发者沙龙圆满成功</a>
  | <a style="color:white;text-decoration:none" href="/2013/12/27/FreeSWITCH-CN-wei-xin-gong-gong-zhang-hao-kai-zhang.html">FreeSWITCH-CN 微信公共账号 &rarr;</a>
 </div>
+-->
 
-<!-- <div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2013/05/30/freeswitch-peixun-2013.html">[FreeSWITCH-CN 2013培训]</a> 火热报名中 ...</div> -->
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/03/24/freeswitch-peixun-shanghai.html">[FreeSWITCH 2014 高手速成培训春季班（上海站）]</a> 火热报名中 ...</div>
 
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
 
