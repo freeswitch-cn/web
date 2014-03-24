@@ -80,73 +80,73 @@ FreeSWITCH是一个B2BUA，所以，它能做的工作非常多，典型的，�
 
 1. 百闻不如一见——快速了解FreeSWITCH
 
-    什么是FreeSWITCH？谁在使用FreeSWITCH？
-    打第一个电话    为什么需要注册？
-    它是如何工作的
-    添加一个分机
-    添加网关拨打外部电话
-    创建一个新的IVR，并将来话路由到IVR
+    * 什么是FreeSWITCH？谁在使用FreeSWITCH？
+    * 打第一个电话    为什么需要注册？
+    * 它是如何工作的
+    * 添加一个分机
+    * 添加网关拨打外部电话
+    * 创建一个新的IVR，并将来话路由到IVR
 
 2. 温故而知新——基础知识与基本概念
 
-    通信简史
-    UA、载体、信令和媒体
-    PSTN与VoIP
-    早期媒体与呼叫流程
-    PBX与B2BUA
-    通信网
-    基本概念 - SIP UA、代理、重定向服务器、B2BUA、SBC、SIP、RTP
-    SIP注册
-    单腿呼叫
-    桥接的呼叫
-    语音编码与协商
-    视频呼叫
-    NAT问题
+    * 通信简史
+    * UA、载体、信令和媒体
+    * PSTN与VoIP
+    * 早期媒体与呼叫流程
+    * PBX与B2BUA
+    * 通信网
+    * 基本概念 - SIP UA、代理、重定向服务器、B2BUA、SBC、SIP、RTP
+    * SIP注册
+    * 单腿呼叫
+    * 桥接的呼叫
+    * 语音编码与协商
+    * 视频呼叫
+    * NAT问题
 
 3. 大道至简——让貌似繁琐的配置简单而有趣
 
-    FreeSWITCH架构
-    配置架构
-    用户目录
-    Channel、Call、API与APP
-    呼叫字符串，使用API发起呼叫
-    使用APP来处理呼叫
-    高级 originate API使用
-    重要的sofia配置参数
-    Dialplan/正则表达式
-    默认配置简介与实例
-    企业通信功能 - 呼叫转移，同组代答，录音、同振、顺振
-    更改主、被叫号码
-    多人电话会议、视频会议
+    * FreeSWITCH架构
+    * 配置架构
+    * 用户目录
+    * Channel、Call、API与APP
+    * 呼叫字符串，使用API发起呼叫
+    * 使用APP来处理呼叫
+    * 高级 originate API使用
+    * 重要的sofia配置参数
+    * Dialplan/正则表达式
+    * 默认配置简介与实例
+    * 企业通信功能 - 呼叫转移，同组代答，录音、同振、顺振
+    * 更改主、被叫号码
+    * 多人电话会议、视频会议
 
 4. 高手进阶——Dialplan 深入剖析
-    Context概念，从哪里来，到哪里去
-    路由 - 解析与执行
-    使用 xml_curl 提供dialplan
-    Channel Variables
-    两台FreeSWITCH级连
-    在一台机器上启动两个FreeSWITCH实例
-    Best Practise，调试与排错
+    * Context概念，从哪里来，到哪里去
+    * 路由 - 解析与执行
+    * 使用 xml_curl 提供dialplan
+    * Channel Variables
+    * 两台FreeSWITCH级连
+    * 在一台机器上启动两个FreeSWITCH实例
+    * Best Practise，调试与排错
 
 5. 牛刀小试——嵌入式脚本开发
-    Lua 基础
-    使用Lua提供IVR
-    用Lua获得用户输入
-    用Lua实现复杂的IVR
-    Javascript例子
+    * Lua 基础
+    * 使用Lua提供IVR
+    * 用Lua获得用户输入
+    * 用Lua实现复杂的IVR
+    * Javascript例子
 
 6. 瑞士军刀——Event Socket
-    outbound
-    inbound
-    ESL
-    使用时候该用inbound，什么时候用outbound
-    自已动手写一个排队机，Outbound实现
-    自己动手写一个排除机，Inbound实现
-    Java、Erlang实例
+    * outbound
+    * inbound
+    * ESL
+    * 使用时候该用inbound，什么时候用outbound
+    * 自已动手写一个排队机，Outbound实现
+    * 自己动手写一个排除机，Inbound实现
+    * Java、Erlang实例
 
 7. 融会贯通——真正的高手从这里开始
 
-    源码编译与源码导读
+    * 源码编译与源码导读
 
 
 费用：5000元（含午餐，不含其它食宿），提前注册可打折。
