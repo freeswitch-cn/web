@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeSWITCH 2014 高手速成培训春季班（上海站）"
+title: "FreeSWITCH高手速成培训2014春季班（上海站）"
 tags:
   - "培训"
 ---
