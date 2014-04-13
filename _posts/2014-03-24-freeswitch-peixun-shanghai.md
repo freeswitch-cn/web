@@ -143,7 +143,7 @@ FreeSWITCH是一个B2BUA，所以，它能做的工作非常多，典型的，�
     * ESL
     * 使用时候该用inbound，什么时候用outbound
     * 自已动手写一个排队机，Outbound实现
-    * 自己动手写一个排除机，Inbound实现
+    * 自己动手写一个排队机，Inbound实现
     * Java、Erlang实例
 
 7. 融会贯通——真正的高手从这里开始
