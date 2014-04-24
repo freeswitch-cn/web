@@ -32,6 +32,9 @@ Email: freeswitch-cn _.a.t._ freeswitch.org.cn
 2012：
 Tim Yang
 
+2013:
+三众博远
+
 2014：
 王进财
 戴晓亮
@@ -51,6 +54,7 @@ X小广
 sz-vitas
 浩子
 顾俊
+疯狂的网民
 
 
 ## 投稿作者
