@@ -9,7 +9,7 @@ title: {{ site.com }}
 </div>
 -->
 
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/03/24/freeswitch-peixun-shanghai.html">[FreeSWITCH 2014 高手速成培训春季班（上海站）]</a> 火热报名中 ...</div>
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/04/29/freeswitch-peixun-beijing.html">[FreeSWITCH 2014 高手速成培训夏季班（北京站）]</a> 火热报名中 ...</div>
 
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
 
