@@ -154,3 +154,5 @@ FreeSWITCH是一个B2BUA，所以，它能做的工作非常多，典型的，�
 ## 联系人：
 
 李雪梅 13366425570  QQ1558232773
+
+往期培训回顾：<http://www.freeswitch.org.cn/tags.html#培训>
