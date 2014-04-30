@@ -159,4 +159,4 @@ FreeSWITCH是一个B2BUA，所以，它能做的工作非常多，典型的，�
 
 ## 赞助单位：
 
-深圳潮流网络有限公司（Grandstream）提供实验环境所需的IP话机。除此之外，还向每位参加的学员赠送单口语音网关或IP话机一枚。
+<a href="www.grandstream.cn">深圳市潮流网络技术有限公司</a>（Grandstream）将为本次培训会提供实验环境所需要的IP电话机并向每位参加培训的学员赠送单口语音网关或IP电话机一台。Grandstream（www.grandstream.cn）是全球知名的统一通讯和整体解决方案厂商和全球TOP3 VoIP终端供应商。
