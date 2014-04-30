@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下一代呼叫中心及行业发展高峰论坛暨FreeSWITCH-CN开发者沙龙2014拟于6月15日在京举行"
+title: "下一代呼叫中心及行业发展论坛暨FreeSWITCH-CN开发者沙龙2014拟于6月15日在京举行"
 tags:
   - "新闻"
 ---
