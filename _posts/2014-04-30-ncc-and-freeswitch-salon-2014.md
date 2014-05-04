@@ -41,5 +41,9 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 * 3:30 - 4:30
 * 4:30 - 5:30
 
+## 活动地址
+
+北邮科技大厦
+
 
 在沙龙之后，我们也一如既往的举行为期三天的FreeSWITCH培训，详见：<http://www.freeswitch.org.cn/2014/04/29/freeswitch-peixun-beijing.html> 。
