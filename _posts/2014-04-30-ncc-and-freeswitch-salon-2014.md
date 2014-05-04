@@ -48,5 +48,11 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 
 北邮科技大厦
 
+## 主办单位
+
+主办单位：FreeSWITCH中文社区 呼叫中心行业诚信发展论坛
+承办单位：北京信悦通科技有限公司
+
+## 其它
 
 在沙龙之后，我们也一如既往的举行为期三天的FreeSWITCH培训，详见：<http://www.freeswitch.org.cn/2014/04/29/freeswitch-peixun-beijing.html> 。
