@@ -20,7 +20,7 @@ tags:
 	</a>
 </p>
 
-<img onerror="this.parentNode.removeChild(this)" src="../images/fscnds2014/images/IMG_0419.jpg" />
+<p><img src="/images/fscnds2014/images/IMG_0419.jpg" /></p>
 
 [FreeSWITCH-CN高手速成培训2014春季班（上海站）](/2014/03/24/freeswitch-peixun-shanghai.html)已于2014年4月21日圆满结束。
 <br  /><br  />
@@ -36,7 +36,7 @@ tags:
 <br  /><br  />
 我们通过培训的反馈问卷收集整理学员的意见和建议，同时希望大家可以将自己的需求和建议发给我们，我们会不断的改进完善培训内容，增加更为关心关注的课题和应用，为大家提供更好的实效课程。
 <p><br  /></p>
-<p><img data-src="images/fscnds2014/images/IMG_0421.jpg"  /></p>
+<p><img src="/images/fscnds2014/images/IMG_0421.jpg"  /></p>
 <p><br  /></p>
 <p>作为培训计划的一部分，我们也将于今年6月16-18日在北京开办FreeSWITCH高手速成培训夏季班，提前报名可享受优惠。点击左下角的「阅读原文」查看详细信息。</p>
 
