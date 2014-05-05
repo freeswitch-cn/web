@@ -1,0 +1,75 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+.activity-info {
+	margin-top: 6px;
+}
+
+.activity-meta .no-extra {
+	margin-left: 0;
+}
+
+.activity-meta {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 8px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	color: #8c8c8c;
+	font-size: 11px;
+}
+
+#post-user {
+	text-decoration: none;
+	outline: 0;
+	color: #607fa6;
+}
+
+.activity-info .text-ellipsis {
+	max-width: 500px;
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 104px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.activity-info .icon_link_arrow {
+	margin-left: 3px;
+	margin-top: -5px;
+}
+
+.icon_link_arrow {
+	display: none;
+	vertical-align: middle;
+	width: 7px;
+	height: 7px;
+	background: transparent url(http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/link_arrow_right_blue.png) no-repeat 0 0;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+}
+
+.page-toolbar {
+	padding: 18px 0;
+	overflow: hidden;
+	height: 16px;
+	line-height: 16px;
+}
+
+.page-toolbar a {
+	color: #607fa6;
+	font-size: 14px;
+	text-decoration: none;
+	text-shadow: 0 1px #fff;
+}
+
+.page-toolbar a .page-inform {
+	float: right;
+	color: #7b7b7b;
+}
