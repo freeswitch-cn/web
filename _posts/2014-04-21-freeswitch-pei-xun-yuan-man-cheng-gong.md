@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/css/fs_sh.css" type="text/css" media="screen" title="fs_sh" charset="utf-8">
-
 ---
 layout: post
 title: "FreeSWITCH-CN高手速成培训2014春季班（上海站）圆满结束"
