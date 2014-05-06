@@ -14,7 +14,7 @@ tags:
 <p class="activity-info">
        	<span id="post-date" class="activity-meta no-extra">2014-04-30</span>
 	<span class="activity-meta">Seven&nbsp;Du</span>
-	<a href="http://www.freeswitch.org.cn" id="post-user" class="activity-meta">
+	<a href="javascript:viewProfile();" id="post-user" class="activity-meta">
 		<span class="text-ellipsis">FreeSWITCH中文社区</span>
 		<i class="icon_link_arrow"></i>
 	</a>
@@ -41,7 +41,8 @@ tags:
 <p>作为培训计划的一部分，我们也将于今年6月16-18日在北京开办FreeSWITCH高手速成培训夏季班，提前报名可享受优惠。点击左下角的「阅读原文」查看详细信息。</p>
 
 <p class="page-toolbar">
-	<a href="http://www.freeswitch.org.cn/2014/04/29/freeswitch-peixun-beijing.html" class="page-url">阅读原文</a>
+	<a href="javascript:viewSource();" class="page-url">阅读原文</a>
+	<a href="javascript:report_article();" class="page-inform">举报</a>
 </p>
 
 
