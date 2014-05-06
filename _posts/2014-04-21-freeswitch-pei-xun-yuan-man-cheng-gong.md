@@ -14,7 +14,7 @@ tags:
 <p class="activity-info">
        	<span id="post-date" class="activity-meta no-extra">2014-04-30</span>
 	<span class="activity-meta">Seven&nbsp;Du</span>
-	<a href="javascript:viewProfile();" id="post-user" class="activity-meta">
+	<a href="http://www.freeswitch.org.cn" id="post-user" class="activity-meta">
 		<span class="text-ellipsis">FreeSWITCH中文社区</span>
 		<i class="icon_link_arrow"></i>
 	</a>
@@ -37,12 +37,7 @@ tags:
 我们通过培训的反馈问卷收集整理学员的意见和建议，同时希望大家可以将自己的需求和建议发给我们，我们会不断的改进完善培训内容，增加更为关心关注的课题和应用，为大家提供更好的实效课程。
 <p><br  /></p>
 <p><img src="/images/fscnds2014/images/IMG_0421.jpg"  /></p>
+<p><img src="/images/fscnds2014/images/IMG_0420.jpg"  /></p>
+<p><img src="/images/fscnds2014/images/IMG_0422.jpg"  /></p>
 <p><br  /></p>
-<p>作为培训计划的一部分，我们也将于今年6月16-18日在北京开办FreeSWITCH高手速成培训夏季班，提前报名可享受优惠。点击左下角的「阅读原文」查看详细信息。</p>
-
-<p class="page-toolbar">
-	<a href="javascript:viewSource();" class="page-url">阅读原文</a>
-	<a href="javascript:report_article();" class="page-inform">举报</a>
-</p>
-
 

@@ -54,22 +54,3 @@ Released for free under a Creative Commons Attribution 2.5 License
 	-o-background-size: 100%;
 	background-size: 100%;
 }
-
-.page-toolbar {
-	padding: 18px 0;
-	overflow: hidden;
-	height: 16px;
-	line-height: 16px;
-}
-
-.page-toolbar a {
-	color: #607fa6;
-	font-size: 14px;
-	text-decoration: none;
-	text-shadow: 0 1px #fff;
-}
-
-.page-toolbar a .page-inform {
-	float: right;
-	color: #7b7b7b;
-}
