@@ -12,7 +12,7 @@ tags:
 </div>
 
 <p><img src="/images/fscnds2014/images/IMG_0419.jpg" /></p>
-<div style="text-align: center">老师与学员的全体合照</div>
+<div style="padding-left: 170px">老师与学员的全体合照</div>
 
 [FreeSWITCH高手速成培训2014春季班（上海站）](/2014/03/24/freeswitch-peixun-shanghai.html)已于2014年4月21日圆满结束。
 <br  /><br  />
