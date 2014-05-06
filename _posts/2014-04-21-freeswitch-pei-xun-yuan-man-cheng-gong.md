@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeSWITCH-CN高手速成培训2014春季班（上海站）圆满结束"
+title: "FreeSWITCH高手速成培训2014春季班（上海站）圆满结束"
 tags:
   - "培训"
 ---
@@ -11,18 +11,10 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-<p class="activity-info">
-       	<span id="post-date" class="activity-meta no-extra">2014-04-30</span>
-	<span class="activity-meta">Seven&nbsp;Du</span>
-	<a href="http://www.freeswitch.org.cn" id="post-user" class="activity-meta">
-		<span class="text-ellipsis">FreeSWITCH中文社区</span>
-		<i class="icon_link_arrow"></i>
-	</a>
-</p>
-
 <p><img src="/images/fscnds2014/images/IMG_0419.jpg" /></p>
+<div style="text-align: center">老师与学员的全体合照</div>
 
-[FreeSWITCH-CN高手速成培训2014春季班（上海站）](/2014/03/24/freeswitch-peixun-shanghai.html)已于2014年4月21日圆满结束。
+[FreeSWITCH高手速成培训2014春季班（上海站）](/2014/03/24/freeswitch-peixun-shanghai.html)已于2014年4月21日圆满结束。
 <br  /><br  />
 从去年6月在北京成功举行了FreeSWITCH高手速成及实战课程的技术研修班以来，很多没赶上上次培训的朋友都纷纷要求开下一次培训班。本着上次的培训理念并尽量符合学员的要求，我们（FreeSWITCH-CN及北京信悦通科技有限公司）与上海软件中心、谷声（上海）信息科技有限公司联合展开了上海站为期三天的FreeSWITCH培训课程。
 <br  /><br  />
@@ -37,7 +29,10 @@ tags:
 我们通过培训的反馈问卷收集整理学员的意见和建议，同时希望大家可以将自己的需求和建议发给我们，我们会不断的改进完善培训内容，增加更为关心关注的课题和应用，为大家提供更好的实效课程。
 <p><br  /></p>
 <p><img src="/images/fscnds2014/images/IMG_0421.jpg"  /></p>
+<div style="text-align: center">悉心传授知识</div>
 <p><img src="/images/fscnds2014/images/IMG_0420.jpg"  /></p>
+<div style="text-align: center">座无虚席（实战中）</div>
 <p><img src="/images/fscnds2014/images/IMG_0422.jpg"  /></p>
+<div style="text-align: center">抽奖活动，IP话机，由潮流网络公司提供</div>
 <p><br  /></p>
 
