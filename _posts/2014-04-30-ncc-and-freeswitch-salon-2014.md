@@ -3,6 +3,9 @@ layout: post
 title: "下一代呼叫中心与中国呼叫中心行业发展论坛暨FreeSWITCH-CN第三届开发者沙龙拟于6月13日在京举行"
 tags:
   - "新闻"
+  - "论坛"
+  - "沙龙"
+  - "会议"
 ---
 
 # {{ page.title }}

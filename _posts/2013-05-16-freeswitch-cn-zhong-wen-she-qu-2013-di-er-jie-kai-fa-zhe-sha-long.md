@@ -3,6 +3,8 @@ layout: post
 title: "FreeSWITCH-CN中文社区2013第二届开发者沙龙"
 tags:
   - "会议"
+  - "沙龙"
+  - "新闻"
 ---
 
 # {{ page.title }}
