@@ -88,3 +88,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 ## 其它
 
 在沙龙之后，我们也一如既往的举行为期三天的FreeSWITCH培训，详见：<http://www.freeswitch.org.cn/2014/04/29/freeswitch-peixun-beijing.html> 。
+
+## 联系人
+
+联系人：李雪梅 (010) 5719-5865 133-6642-5570 邮箱： freeswitch@x-y-t.com
