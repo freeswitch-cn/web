@@ -68,7 +68,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 
 ## 赞助单位
 
-本次活动属非盈利性的活动，赞助资金如有盈余，将捐赠FreeSWITCH官方社区（freeswitch.org）。
+本次活动属非盈利性的活动，赞助资金如有盈余，将捐赠FreeSWITCH官方社区（freeswitch.org）。提供赞助请与我们联系。
 
 ## 常见问题
 
