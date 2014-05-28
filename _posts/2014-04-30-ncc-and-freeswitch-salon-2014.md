@@ -101,21 +101,21 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 <a href="http://www.hollycrm.com" target="_blank"><img src="http://www.hollycrm.com/templets/default/hlimgs/top_logo.gif" height="40"></img></a>
 
 ### 银牌赞助商：
-
-<a href="http://www.jiliason.com" target="_blank"><img src="/images/jlx.png" height="121"></img></a>
-
-<a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.jpg" height="67"></img></a>
+<table>
+	<tr>
+		<td><a href="http://www.jiliason.com" target="_blank"><img src="/images/jlx.png" height="121"></img></a></td>
+		<td><a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.jpg" height="67"></img></a></td>
+	<tr>
+</table>
 
 ### 铜牌赞助商：
-
-<a href="http://www.grandstream.cn" target="_blank"><img src="/images/grandstream.jpg" height="100"></img></a>
-
-<a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="70"></img></a>
-
-<a href="http://www.hiastar.com" target="_blank"><img src="/images/sangoma.png" height="70"></img></a>
-
-<a href="/" target="_blank"><img src="/images/callcenter.png" height="70"></img></a>
-
-<a href="http://x-y-t.com"  target="_blank"><img src="/images/xyt-logo.png" height="70"></img></a>
-
-<a href="http://www.wiseaction.com.cn" target="_blank"><img src="http://www.wiseaction.com.cn/Images/Logo.jpg" height="70"></img></a>
+<table>
+	<tr>
+		<td><a href="http://www.grandstream.cn" target="_blank"><img src="/images/grandstream.jpg" height="100"></img></a></td>
+		<td><a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="70"></img></a></td>
+		<td><a href="http://www.hiastar.com" target="_blank"><img src="/images/sangoma.png" height="70"></img></a></td>
+		<td><a target="_blank"><img src="/images/callcenter.png" height="70"></img></a></td>
+		<td><a href="http://x-y-t.com"  target="_blank"><img src="/images/xyt-logo.png" height="70"></img></a></td>
+		<td><a href="http://www.wiseaction.com.cn" target="_blank"><img src="http://www.wiseaction.com.cn/Images/Logo.jpg" height="70"></img></a></td>
+	</tr>
+</table>
