@@ -77,13 +77,13 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 ## 赞助单位
 
 本次活动属非盈利性的活动，赞助资金如有盈余，将捐赠FreeSWITCH官方社区（freeswitch.org）。提供赞助请与我们联系。
-金牌赞助商：
+### 金牌赞助商：
 <a href="http://www.hollycrm.com" target="_blank"><img src="http://www.hollycrm.com/templets/default/hlimgs/top_logo.gif" height="40"></img></a>
-银牌赞助商：
+### 银牌赞助商：
 <a href="http://www.jiliason.com" target="_blank"><img src="http://www.jiliason.com/images/Index_01.gif" height="121"></img></a>
 <br />
 <a href="http://www.cloud-times.com" target="_blank"><img src="../images/cloudtimes.jpg" height="47"></img></a>
-普通赞助商：
+### 普通赞助商：
 <a href="http://www.grandstream.cn" target="_blank"><img src="../images/grandstream.jpg" height="130"></img></a>
 <br />
 <a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="88"></img></a>
