@@ -88,7 +88,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 <br />
 <a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="88"></img></a>
 <br />
-<a href="http://www.hiastar.com" target="_blank"><img src="../images/hiastar.png" height="70"></img></a>
+<a href="http://www.hiastar.com" target="_blank"><img src="../images/sangoma.png" height="70"></img></a>
 ## 常见问题
 
 ### 为什么上午和下午分开购票
