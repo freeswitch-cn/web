@@ -74,21 +74,6 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 * 主办单位：FreeSWITCH-CN中文社区 呼叫中心行业发展论坛
 * 承办单位：北京信悦通科技有限公司
 
-## 赞助单位
-
-本次活动属非盈利性的活动，赞助资金如有盈余，将捐赠FreeSWITCH官方社区（freeswitch.org）。提供赞助请与我们联系。
-### 金牌赞助商：
-<a href="http://www.hollycrm.com" target="_blank"><img src="http://www.hollycrm.com/templets/default/hlimgs/top_logo.gif" height="40"></img></a>
-### 银牌赞助商：
-<a href="http://www.jiliason.com" target="_blank"><img src="/images/jlx.png" height="121"></img></a>
-<br />
-<a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.jpg" height="67"></img></a>
-### 普通赞助商：
-<a href="http://www.grandstream.cn" target="_blank"><img src="/images/grandstream.jpg" height="100"></img></a>
-<br />
-<a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="70"></img></a>
-<br />
-<a href="http://www.hiastar.com" target="_blank"><img src="/images/sangoma.png" height="70"></img></a>
 ## 常见问题
 
 ### 为什么上午和下午分开购票
@@ -106,3 +91,31 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 ## 联系人
 
 联系人：李雪梅 (010) 5719-5865 133-6642-5570 邮箱： freeswitch@x-y-t.com
+
+## 赞助单位
+
+本次活动属非盈利性的活动，赞助资金如有盈余，将捐赠FreeSWITCH官方社区（freeswitch.org）。提供赞助请与我们联系。
+
+### 金牌赞助商：
+
+<a href="http://www.hollycrm.com" target="_blank"><img src="http://www.hollycrm.com/templets/default/hlimgs/top_logo.gif" height="40"></img></a>
+
+### 银牌赞助商：
+
+<a href="http://www.jiliason.com" target="_blank"><img src="/images/jlx.png" height="121"></img></a>
+
+<a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.jpg" height="67"></img></a>
+
+### 铜牌赞助商：
+
+<a href="http://www.grandstream.cn" target="_blank"><img src="/images/grandstream.jpg" height="100"></img></a>
+
+<a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="70"></img></a>
+
+<a href="http://www.hiastar.com" target="_blank"><img src="/images/sangoma.png" height="70"></img></a>
+
+<a href="/" target="_blank"><img src="/images/callcenter.png" height="70"></img></a>
+
+<a href="http://x-y-t.com"  target="_blank"><img src="/images/xyt-logo.png" height="70"></img></a>
+
+<a href="http://www.wiseaction.com.cn" target="_blank"><img src="http://www.wiseaction.com.cn/Images/Logo.jpg" height="70"></img></a>
