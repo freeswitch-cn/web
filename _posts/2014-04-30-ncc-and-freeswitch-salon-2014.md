@@ -82,11 +82,11 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 ### 银牌赞助商：
 <a href="http://www.jiliason.com" target="_blank"><img src="/images/jlx.png" height="121"></img></a>
 <br />
-<a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.jpg" height="47"></img></a>
+<a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.jpg" height="67"></img></a>
 ### 普通赞助商：
-<a href="http://www.grandstream.cn" target="_blank"><img src="/images/grandstream.jpg" height="130"></img></a>
+<a href="http://www.grandstream.cn" target="_blank"><img src="/images/grandstream.jpg" height="100"></img></a>
 <br />
-<a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="88"></img></a>
+<a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="70"></img></a>
 <br />
 <a href="http://www.hiastar.com" target="_blank"><img src="/images/sangoma.png" height="70"></img></a>
 ## 常见问题
