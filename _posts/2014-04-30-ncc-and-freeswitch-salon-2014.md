@@ -104,7 +104,7 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 <table>
 	<tr>
 		<td><a href="http://www.jiliason.com" target="_blank"><img src="/images/jlx.png" height="121"></img></a></td>&nbsp;&nbsp;
-		<td><a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.jpg" height="67"></img></a></td>
+		<td><a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.png" height="67"></img></a></td>
 	<tr>
 </table>
 
