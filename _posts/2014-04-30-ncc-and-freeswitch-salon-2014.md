@@ -102,7 +102,8 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 
 ### 银牌赞助商：
 <a href="http://www.jiliason.com" target="_blank"><img src="/images/jlx.png" height="121"></img></a>
-<a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.png" height="67"></img></a>
+<a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.png" height="74"></img></a>
+<a href="http://www.yealink.com" target="_blank"><img src="/images/YealinkLogo-00012133196.jpg" height="60"/></a>
 
 ### 铜牌赞助商：
 
