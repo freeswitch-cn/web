@@ -15,5 +15,4 @@ tags:
 
 请到这里下载：<http://files.freeswitch.org> 。
 
-详情参见：<http://freeswitch.org/node/493> 。
-
+详情参见：<http://freeswitch.org/node/495> 。
