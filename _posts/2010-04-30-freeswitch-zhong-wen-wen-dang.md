@@ -13,7 +13,7 @@ tags:
 
 
 * [FreeSWITCH中文Wiki](http://wiki.freeswitch.org.cn)
-* [FreeSWITCH英文Wiki](http://wiki.freeswitch.org) [新Wiki](http://confluence.freeswitch.org)
+* [FreeSWITCH英文Wiki](http://wiki.freeswitch.org) | [新Wiki - Confluence](http://confluence.freeswitch.org)
 * [FreeSWITCH安装](https://confluence.freeswitch.org/display/FREESWITCH/Installation)
 
 <br>
