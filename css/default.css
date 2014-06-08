@@ -354,3 +354,5 @@ pre span.punct { color: #6A5ACD; }
 pre span.regex { color: #DD00DD; }
 pre span.string { color: #DD00DD; }
 pre span.symbol { color: #008B8B; }
+
+img {max-width:720px;}
