@@ -135,3 +135,4 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 <a target="_blank"><img src="/images/callcenter.png" height="70"></img></a>
 <a href="http://x-y-t.com"  target="_blank"><img src="/images/xyt-logo.png" height="70"></img></a>
 <a href="http://www.wiseaction.com.cn" target="_blank"><img src="http://www.wiseaction.com.cn/Images/Logo.jpg" height="70"></img></a>
+<a href="http://www.fanvil.com.cn" target="_blank"><img src="http://www.fanvil.com.cn/images/logo1.png" height="50"></img></a>
