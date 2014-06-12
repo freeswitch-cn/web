@@ -128,10 +128,10 @@ FreeSWITCH-CN中文社区开发者沙龙计划与美国的全球VoIP开发者大
 <a href="http://www.jiliason.com" target="_blank"><img src="/images/jlx.png" height="121"></img></a>
 <a href="http://www.cloud-times.com" target="_blank"><img src="/images/cloudtimes.png" height="74"></img></a>
 <a href="http://www.yealink.com.cn" target="_blank"><img src="/images/YealinkLogo-00012133196.jpg" height="60"/></a>
+<a href="http://www.grandstream.cn" target="_blank"><img src="/images/grandstream.jpg" height="100"></img></a>
 
 ### 铜牌赞助商：
 
-<a href="http://www.grandstream.cn" target="_blank"><img src="/images/grandstream.jpg" height="100"></img></a>
 <a href="http://www.newrocktech.com" target="_blank"><img src="http://www.newrocktech.com/images/logo.gif" height="70"></img></a>
 <a href="http://www.hiastar.com" target="_blank"><img src="/images/sangoma.png" height="70"></img></a>
 <a target="_blank"><img src="/images/callcenter.png" height="70"></img></a>
