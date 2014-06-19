@@ -14,7 +14,7 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-本次活动定为《下一代呼叫中心与企业通信发展论坛暨FreeSWITCH-CN第三届开发者沙龙》活动。将于**6月13日在京举行，<a href="http://fssalonbj.vasee.com">请到这里免费报名</a>**。
+<!--本次活动定为《下一代呼叫中心与企业通信发展论坛暨FreeSWITCH-CN第三届开发者沙龙》活动。将于**6月13日在京举行，<a href="http://fssalonbj.vasee.com">请到这里免费报名</a>**。-->
 
 本次活动分为论坛和沙龙两个部分，上午论坛偏重于对行业现状的分析和前景展望，下午更偏重于FreeSWITCH开源软交换平台的技术交流。参加者可分别注册。
 
