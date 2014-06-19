@@ -9,7 +9,7 @@ title: {{ site.com }}
 </div>
 -->
 
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/04/29/freeswitch-peixun-beijing.html">[FreeSWITCH 2014 高手速成培训夏季班（北京站）]</a>（6月14--16日）火热报名中 ...</div>
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/04/29/freeswitch-peixun-beijing.html">[FreeSWITCH高手速成培训2014夏季班（北京站）]</a>（6月14--16日）火热报名中 ...</div>
 
 <div style="background-color:blue;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/04/30/ncc-and-freeswitch-salon-2014.html">[下一代呼叫中心与企业通信发展论坛暨FreeSWITCH-CN第三届开发者沙龙]</a>（6月13日）报名 </div>
 
