@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.com }}
+title: 博客
 ---
 
 # 全部页面       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>([全部标签](/tags.html))</small>
