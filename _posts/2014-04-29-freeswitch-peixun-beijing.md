@@ -11,7 +11,7 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-<strong style="color:red">6月14-16日，FreeSWITCH高手速成培训震撼来袭。5月1日上午7:00开始售票。5张特价票先到先得。为保证教学质量，培训名额有严格限制，请<a href="http://fstrainingbj.vasee.com" target="_blank">尽快到这里报名</a> </strong>。
+<!--<strong style="color:red">6月14-16日，FreeSWITCH高手速成培训震撼来袭。5月1日上午7:00开始售票。5张特价票先到先得。为保证教学质量，培训名额有严格限制，请<a href="http://fstrainingbj.vasee.com" target="_blank">尽快到这里报名</a> </strong>。-->
 
 
 ## 什么是FreeSWITCH？
