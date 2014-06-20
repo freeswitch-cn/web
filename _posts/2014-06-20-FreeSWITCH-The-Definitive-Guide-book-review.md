@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我们爱开源，我们爱分享——华章杯FreeSWITCH权威指南书评暨我与FreeSWITCH的故事有奖征文活动"
+title: "我们爱开源，我们爱分享——华章杯《FreeSWITCH权威指南》书评暨我与FreeSWITCH的故事有奖征文活动"
 tags:
   - "新闻"
   - "征文"
