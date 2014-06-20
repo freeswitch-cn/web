@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我们爱开源，我们爱分享——华章杯《FreeSWITCH权威指南》书评暨我与FreeSWITCH的故事有奖征文活动"
+title: "我们爱开源，我们爱分享——华章杯《FreeSWITCH权威指南》书评暨我与FreeSWITCH的故事有奖征文"
 tags:
   - "新闻"
   - "征文"
@@ -12,7 +12,7 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-《FreeSWITCH权威指南》已经上市，为答谢各位读者的厚爱，机械工业出版社华章公司联合FreeSWITCH-CN中文社区举行FreeSWITCH权威指南书评有奖征文活动。
+《FreeSWITCH权威指南》已经上市，为答谢各位读者的厚爱，机械工业出版社华章公司联合FreeSWITCH-CN中文社区举行华章杯《FreeSWITCH权威指南》书评暨我与FreeSWITCH的故事有奖征文活动。
 
 同时，感谢各位网友对本书及对本站的支持，我们也举行“我与FreeSWITCH的故事”有奖征文活动。
 
