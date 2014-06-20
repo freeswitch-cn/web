@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.com }}
+title: 首页
 ---
 
 <!--
