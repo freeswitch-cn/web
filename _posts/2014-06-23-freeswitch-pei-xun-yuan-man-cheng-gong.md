@@ -35,7 +35,7 @@ tags:
 <p><img src="/images/fscnds2014/images/DSC_0614.JPG"  /></p>
 <div style="text-align: center">好认真啊</div>
 <p><img src="/images/fscnds2014/images/DSC_0615.JPG"  /></p>
-<div style="text-align: center">杜老师的同事(左)耐心的讲解</div>
+<div style="margin-left: 50px">杜老师的同事(左)耐心的讲解</div>
 <p><img src="/images/fscnds2014/images/DSC_0616.JPG"  /></p>
 <div style="text-align: center">课下，老师(左)认真的解答学员的问题</div>
 <p><br  /></p>
