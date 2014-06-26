@@ -120,7 +120,7 @@ tags:
 <div class="info" style="text-align:center">聚精会神</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0065.JPG"/>
-<div class="info" style="align-left: 200px">FreeSWITCH权威指南售书展 杜金房签售</div>
+<div class="info" style="margin-left: 50px">FreeSWITCH权威指南售书展 杜金房签售</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0067.JPG"/>
 <div class="info" style="text-align:center">FreeSWITCH权威指南作者杜金房亲切的递书给粉丝</div>
@@ -138,7 +138,7 @@ tags:
 <div class="info" style="text-align:center">戴晓亮(左)与程助波(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_5007.JPG"/>
-<div class="info" style="align-left: 300px">朱利中</div>
+<div class="info" style="margin-left: 100px">朱利中</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0049.JPG"/>
 <div class="info" style="text-align:center">云端时代展台</div>
@@ -149,8 +149,11 @@ tags:
 <img src="/images/fscnds2014/images_solon/IMG_0047.JPG"/>
 <div class="info" style="text-align:center">刘光大</div>
 <br />
+<img src="/images/fscnds2014/images_solon/IMG_4785.JPG"/>
+<div class="info" style="text-align:center">《FreeSWITCH权威指南》售书台</div>
+<br />
 <img src="/images/fscnds2014/images_solon/IMG_4850.JPG"/>
-<div class="info" style="text-align:center">科技日报的摄像师</div>
+<div class="info" style="text-align:center">FreeSWITCH爱好者前来买书</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0078.JPG"/>
 <div class="info" style="text-align:center">活动签到处</div>
@@ -168,13 +171,13 @@ tags:
 <div class="info" style="text-align:center">基立讯展台</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0056.JPG"/>
-<div class="info" style="align-left: 50px">沙龙提问环节陈玉祯(左)、吴卫金(中)、戴晓亮(右)</div>
+<div class="info" style="margin-left: 50px">沙龙提问环节陈玉祯(左)、吴卫金(中)、戴晓亮(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0057.JPG"/>
-<div class="info" style="align-left: 50px">沙龙提问环节戴晓亮(左)、杜金房(右)</div>
+<div class="info" style="margin-left: 50px">沙龙提问环节戴晓亮(左)、杜金房(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0048.JPG"/>
-<div class="info" style="align-left: 50px">沙龙提问环节程助波(左)、李新科(右)</div>
+<div class="info" style="margin-left: 50px">沙龙提问环节程助波(左)、李新科(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0113.JPG"/>
 <div class="info" style="text-align:center">方位通讯话机 由深圳方位通讯公司提供</div>
