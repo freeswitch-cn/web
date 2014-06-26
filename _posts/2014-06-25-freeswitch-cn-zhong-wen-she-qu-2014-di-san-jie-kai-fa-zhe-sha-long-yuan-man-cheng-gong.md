@@ -63,27 +63,27 @@ tags:
 
 <img src="/images/fscnds2014/images_solon/IMG_4896.jpg"/>
 <div class="info" style="text-align:center">语音广告系统的开发人戴晓亮</div>
-<br />
+
 - 李新科&nbsp;&nbsp;&nbsp;&nbsp;黑猫，讲述了他的奋斗史以及他与他团队做的计费工具cdrtool、让FreeSWITCH更容易和第三方软件整合使用的工具FSCTI等。
 
 <img src="/images/fscnds2014/images_solon/IMG_4906.jpg"/>
 <div class="info" style="text-align:center">自由职业者 黑猫 李新科</div>
-<br />
+
 - 陈玉祯&nbsp;&nbsp;&nbsp;&nbsp;百度的资深研发工程师，分享了FreeSWITCH在百度的应用，以及他们在使用过程中遇到的问题及解决思路等。
 
 <img src="/images/fscnds2014/images_solon/IMG_4921.JPG"/>
 <div class="info" style="text-align:center">百度资深研发工程师陈玉祯</div>
-<br />
+
 - 黄科&nbsp;&nbsp;&nbsp;&nbsp;北京网讯兆通科技有限公司创始人，分享了如何学习FreeSWITCH和在FreeSWITCH平台上做呼叫中心的成果；并分享了他参加FreeSWITCH培训课程以及购买一对一FreeSWITCH咨询服务带来的实际好处。
 
 <img src="/images/fscnds2014/images_solon/IMG_4845.jpg"/>
 <div class="info" style="text-align:center">北京网讯兆通科技有限公司创始人黄科</div>
-<br />
+
 - 杜金房&nbsp;&nbsp;&nbsp;&nbsp;FreeSWITCH-CN创始人，《FreeSWITCH权威指南》作者分享了两个盲人使用FreeSWITCH的故事引发大家对打破思维定势、创造全新应用的思考，更正了一些人对开源软件的错误认识以及在开源平台上开发遇到的困难和解决思路。
 
 <img src="/images/fscnds2014/images_solon/IMG_0080.JPG"/>
 <div class="info" style="text-align:center">FreeSWITCH中国大陆唯一的核心代码维护和贡献者杜金房</div>
-<br />
+
 - 李洋&nbsp;&nbsp;&nbsp;&nbsp;分享了基于FreeSWITCH开发的两个Demo程序——软电话CocoPhone、视频会议融屏。
 
 <img src="/images/fscnds2014/images_solon/IMG_4936.jpg"/>
@@ -120,7 +120,7 @@ tags:
 <div class="info" style="text-align:center">聚精会神</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0065.JPG"/>
-<div class="info" style="align-right: 200px">FreeSWITCH权威指南售书展 杜金房签售</div>
+<div class="info" style="align-left: 200px">FreeSWITCH权威指南售书展 杜金房签售</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0067.JPG"/>
 <div class="info" style="text-align:center">FreeSWITCH权威指南作者杜金房亲切的递书给粉丝</div>
@@ -138,7 +138,7 @@ tags:
 <div class="info" style="text-align:center">戴晓亮(左)与程助波(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_5007.JPG"/>
-<div class="info" style="align-right: 300px">朱利中</div>
+<div class="info" style="align-left: 300px">朱利中</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0049.JPG"/>
 <div class="info" style="text-align:center">云端时代展台</div>
@@ -168,13 +168,13 @@ tags:
 <div class="info" style="text-align:center">基立讯展台</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0056.JPG"/>
-<div class="info" style="align-right: 50px">沙龙提问环节陈玉祯(左)、吴卫金(中)、戴晓亮(右)</div>
+<div class="info" style="align-left: 50px">沙龙提问环节陈玉祯(左)、吴卫金(中)、戴晓亮(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0057.JPG"/>
-<div class="info" style="align-right: 50px">沙龙提问环节戴晓亮(左)、杜金房(右)</div>
+<div class="info" style="align-left: 50px">沙龙提问环节戴晓亮(左)、杜金房(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0048.JPG"/>
-<div class="info" style="align-right: 50px">沙龙提问环节程助波(左)、李新科(右)</div>
+<div class="info" style="align-left: 50px">沙龙提问环节程助波(左)、李新科(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0113.JPG"/>
 <div class="info" style="text-align:center">方位通讯话机 由深圳方位通讯公司提供</div>
