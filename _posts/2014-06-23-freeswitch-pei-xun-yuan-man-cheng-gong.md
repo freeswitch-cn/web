@@ -11,7 +11,7 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-<p><img src="/images/fscnds2014/images/IMG_0615.jpg" /></p>
+<p><img src="/images/fscnds2014/images_training/IMG_0615.jpg" /></p>
 <div style="text-align: center">老师与学员的全体合照</div>
 
 [FreeSWITCH高手速成培训2014夏季班（北京站）](/2014/04/29/freeswitch-peixun-beijing.html)已于2014年6月16日圆满结束。
