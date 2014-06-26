@@ -138,7 +138,7 @@ tags:
 <div class="info" style="text-align:center">戴晓亮(左)与程助波(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_5007.JPG"/>
-<div class="info" style="margin-left: 100px">朱利中</div>
+<div class="info" style="margin-left: 250px">朱利中</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0049.JPG"/>
 <div class="info" style="text-align:center">云端时代展台</div>
@@ -171,13 +171,13 @@ tags:
 <div class="info" style="text-align:center">基立讯展台</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0056.JPG"/>
-<div class="info" style="margin-left: 50px">沙龙提问环节陈玉祯(左)、吴卫金(中)、戴晓亮(右)</div>
+<div class="info" style="margin-left: 200px">沙龙提问环节陈玉祯(左)、吴卫金(中)、戴晓亮(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0057.JPG"/>
-<div class="info" style="margin-left: 50px">沙龙提问环节戴晓亮(左)、杜金房(右)</div>
+<div class="info" style="margin-left: 100px">沙龙提问环节戴晓亮(左)、杜金房(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0048.JPG"/>
-<div class="info" style="margin-left: 50px">沙龙提问环节程助波(左)、李新科(右)</div>
+<div class="info" style="margin-left: 100px">沙龙提问环节程助波(左)、李新科(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0113.JPG"/>
 <div class="info" style="text-align:center">方位通讯话机 由深圳方位通讯公司提供</div>

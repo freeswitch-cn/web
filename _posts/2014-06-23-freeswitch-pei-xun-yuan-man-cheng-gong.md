@@ -28,15 +28,15 @@ tags:
 <br  /><br  />
 我们通过培训的反馈问卷收集整理学员的意见和建议，同时希望大家可以将自己的需求和建议发给我们，我们会不断的改进完善培训内容，增加更为关心关注的课题和应用，为大家提供更好的实效课程。
 <p><br  /></p>
-<p><img src="/images/fscnds2014/images/IMG_0614.jpg"  /></p>
+<p><img src="/images/fscnds2014/images_training/IMG_0614.jpg"  /></p>
 <div style="text-align: center">FreeSWITCH开讲啦</div>
-<p><img src="/images/fscnds2014/images/IMG_0616.jpg"  /></p>
+<p><img src="/images/fscnds2014/images_training/IMG_0616.jpg"  /></p>
 <div style="text-align: center">小组学员好活跃啊</div>
-<p><img src="/images/fscnds2014/images/DSC_0614.JPG"  /></p>
+<p><img src="/images/fscnds2014/images_training/DSC_0614.JPG"  /></p>
 <div style="text-align: center">好认真啊</div>
-<p><img src="/images/fscnds2014/images/DSC_0615.JPG"  /></p>
+<p><img src="/images/fscnds2014/images_training/DSC_0615.JPG"  /></p>
 <div style="margin-left: 50px">杜老师的同事(左)耐心的讲解</div>
-<p><img src="/images/fscnds2014/images/DSC_0616.JPG"  /></p>
+<p><img src="/images/fscnds2014/images_training/DSC_0616.JPG"  /></p>
 <div style="text-align: center">课下，老师(左)认真的解答学员的问题</div>
 <p><br  /></p>
 
