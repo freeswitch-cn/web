@@ -48,10 +48,17 @@ tags:
 <img src="/images/fscnds2014/images_solon/IMG_4843.jpg"/>
 <div class="info" style="text-align:center">北京云端时代科技有限公司北区技术经理陈绍军</div>
 <br />
-会上，FreeSWITCH中国大陆唯一的核心代码维护和贡献者杜金房发布了《FreeSWITCH权威指南》，一书，并以“大数据、云、开源、FreeSWITCH”四个要点详细讲述了开源软交换解决方案以及案例，同时讲述了开源VoIP及FreeSWITCH发展历程，并讲解了FreeSWITCH如何在呼叫中心、统一通信中实现应用。
+会上，FreeSWITCH中国大陆唯一的核心代码维护和贡献者杜金房发布了[《FreeSWITCH权威指南》](http://book.dujinfang.com)一书，该书内容全面，是第一本全面和深入介绍FreeSWITCH的中文书。
+
+<img src="/images/FSDG-big.jpg" width="600"/>
+<div class="info" style="text-align:center">FreeSWITCH权威指南</div>
+<br>
+
+杜金房以“大数据、云、开源、FreeSWITCH”四个要点详细讲述了开源软交换解决方案以及案例，同时讲述了开源VoIP及FreeSWITCH发展历程，并讲解了FreeSWITCH如何在呼叫中心、统一通信中实现应用。
 
 <img src="/images/fscnds2014/images_solon/IMG_4884.jpg"/>
 <div class="info" style="text-align:center">FreeSWITCH中国大陆唯一的核心代码维护和贡献者杜金房</div>
+
 <br />
 交流茶歇空隙，深圳市云软信息技术有限公司副总经理黄榕振跟大家分享了在移动互联网时代，呼叫中心所面临的挑战：用户会更加习惯使用更便利的通讯工具联络企业，这些方式可以是电话，也可以是Web在线交流、微信、QQ、Skype或者社交媒体、微博平台，以及将来的XX信，其中，微信用户势头强劲，使其成为所有具有前瞻性品牌的必争之地，即将成为联络中心的新形态。平台的多样性，充分体现了呼叫中心需要新一代的联络中心。
 
@@ -79,7 +86,7 @@ tags:
 <img src="/images/fscnds2014/images_solon/IMG_4845.jpg"/>
 <div class="info" style="text-align:center">北京网讯兆通科技有限公司创始人黄科</div>
 
-- 杜金房&nbsp;&nbsp;&nbsp;&nbsp;FreeSWITCH-CN创始人，《FreeSWITCH权威指南》作者分享了两个盲人使用FreeSWITCH的故事引发大家对打破思维定势、创造全新应用的思考，更正了一些人对开源软件的错误认识以及在开源平台上开发遇到的困难和解决思路。
+- 杜金房&nbsp;&nbsp;&nbsp;&nbsp;FreeSWITCH-CN创始人，《FreeSWITCH权威指南》作者分享了两个盲人使用FreeSWITCH的故事引发大家对打破思维定势、创造全新应用的思考，更正了一些人对开源软件的错误认识以及在开源平台上开发遇到的困难和解决思路，以及对传统呼叫中心企业和厂商在面对变化，拥抱开源方面的分析和思考。
 
 <img src="/images/fscnds2014/images_solon/IMG_0080.JPG"/>
 <div class="info" style="text-align:center">FreeSWITCH中国大陆唯一的核心代码维护和贡献者杜金房</div>
