@@ -94,7 +94,7 @@ tags:
 - 李洋&nbsp;&nbsp;&nbsp;&nbsp;分享了基于FreeSWITCH开发的两个Demo程序——软电话CocoPhone、视频会议融屏。
 
 <img src="/images/fscnds2014/images_solon/IMG_4936.jpg"/>
-<div class="info" style="text-align:center">北京信悦通科技有限公司软件工程师李洋</div>
+<div class="info" style="text-align:center">北京信悦通科技有限公司VoIP研发工程师李洋</div>
 <br />
 本次沙龙得到了各厂商的赞助和大力支持，厦门亿联网络技术股份有限公司、深圳星昊通科技有限公司、深圳市潮流网络技术有限公司、深圳方位通讯科技有限公司、合智见行等为本次活动提供了丰厚的奖品，在此非常感谢。
 
