@@ -142,7 +142,7 @@ tags:
 <div class="info" style="text-align:center">提问</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_0037.JPG"/>
-<div class="info" style="text-align:center">戴晓亮(左)与程助波(右)</div>
+<div class="info" style="text-align:center">戴晓亮(左)与程祝波(右)</div>
 <br />
 <img src="/images/fscnds2014/images_solon/IMG_5007.JPG"/>
 <div class="info" style="margin-left: 250px">朱利中</div>
