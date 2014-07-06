@@ -54,7 +54,7 @@ tags:
 <div class="info" style="text-align:center">FreeSWITCH权威指南</div>
 <br>
 
-杜金房以“大数据、云、开源、FreeSWITCH”四个要点详细讲述了开源软交换解决方案以及案例，同时讲述了开源VoIP及FreeSWITCH发展历程，并讲解了FreeSWITCH如何在呼叫中心、统一通信中实现应用。
+杜金房以“大数据、云、开源、FreeSWITCH”四个要点详细讲述了开源软交换解决方案以及案例，同时讲述了开源VoIP及FreeSWITCH发展历程，并讲解了FreeSWITCH如何在呼叫中心、统一通信中实现应用。此外，他还宣布了北京信悦通与美国知名通信云平台Plivo的合作关系，为国内开发者带来更好的应用平台和开发模式。
 
 <img src="/images/fscnds2014/images_solon/IMG_4884.jpg"/>
 <div class="info" style="text-align:center">FreeSWITCH中国大陆唯一的核心代码维护和贡献者杜金房</div>
