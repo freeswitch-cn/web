@@ -11,7 +11,7 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-<p><img src="/images/fscnds2014/images/IMG_0419.jpg" /></p>
+<p><img src="/images/fscnds2014/images_training/IMG_0419.jpg" /></p>
 <div style="padding-left: 170px">老师与学员的全体合照</div>
 
 [FreeSWITCH高手速成培训2014春季班（上海站）](/2014/03/24/freeswitch-peixun-shanghai.html)已于2014年4月21日圆满结束。
@@ -28,11 +28,11 @@ tags:
 <br  /><br  />
 我们通过培训的反馈问卷收集整理学员的意见和建议，同时希望大家可以将自己的需求和建议发给我们，我们会不断的改进完善培训内容，增加更为关心关注的课题和应用，为大家提供更好的实效课程。
 <p><br  /></p>
-<p><img src="/images/fscnds2014/images/IMG_0421.jpg"  /></p>
+<p><img src="/images/fscnds2014/images_training/IMG_0421.jpg"  /></p>
 <div style="text-align: center">悉心传授知识</div>
-<p><img src="/images/fscnds2014/images/IMG_0420.jpg"  /></p>
+<p><img src="/images/fscnds2014/images_training/IMG_0420.jpg"  /></p>
 <div style="text-align: center">座无虚席（实战中）</div>
-<p><img src="/images/fscnds2014/images/IMG_0422.jpg"  /></p>
+<p><img src="/images/fscnds2014/images_training/IMG_0422.jpg"  /></p>
 <div style="text-align: center">抽奖活动，IP话机，由潮流网络公司提供</div>
 <p><br  /></p>
 
