@@ -43,7 +43,7 @@ tags:
 
 恭喜参与“我们爱开源，我们爱分享——华章杯《FreeSWITCH权威指南》书评暨我与FreeSWITCH的故事有奖征文”活动的以下五名投稿者幸运获得由机械工业出版社华章公司寄出的《FreeSWITCH权威指南》一本，请一周内把您的姓名、邮编、通信地址、手机私信给我们。
 
-1. wtswjtu [读《FreeSWITCH权威指南》有感](http://www.freeswitch.org.cn/2014/07/06/FreeSWITCH-The-Definitive-Guide-book-report.html) 
+1. 王涛 [读《FreeSWITCH权威指南》有感](http://www.freeswitch.org.cn/2014/07/06/FreeSWITCH-The-Definitive-Guide-book-report.html) 
 2. 郭克新 [《FreeSWITCH权威指南》读后感](http://www.freeswitch.org.cn/2014/07/06/FreeSWITCH-The-Definitive-Guide-reader-response.html)
 3. 李浩 [FreeSWITCH将通信行业不再神秘](http://www.freeswitch.org.cn/2014/07/06/FreeSWITCH-will-The-Communications-Industry-is-no-longer-a-mystery.html)
 4. 东北虎 [《FreeSWITCH权威指南》让我想到的](http://www.freeswitch.org.cn/2014/07/09/FreeSWITCH-The-Definitive-Guide-let-me-think.html)
