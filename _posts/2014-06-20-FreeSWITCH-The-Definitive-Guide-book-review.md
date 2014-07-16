@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我们爱开源，我们爱分享——华章杯《FreeSWITCH权威指南》书评暨我与FreeSWITCH的故事有奖征文"
+title: "我们爱开源，我们爱分享——华章杯《FreeSWITCH权威指南》书评暨我与FreeSWITCH的故事有奖征文（活动结束）"
 tags:
   - "新闻"
   - "征文"
@@ -39,16 +39,21 @@ tags:
 
 <br /><br />
 
-## 你获奖了
+## 您获奖了
 
-恭喜参与“我们爱开源，我们爱分享——华章杯《FreeSWITCH权威指南》书评暨我与FreeSWITCH的故事有奖征文”活动的以下五名投稿者幸运获得由机械工业出版社华章公司寄出的《FreeSWITCH权威指南》一本，请一周内把您的姓名、邮编、通信地址、手机私信给我们。
-
-1. 王涛 [读《FreeSWITCH权威指南》有感](http://www.freeswitch.org.cn/2014/07/06/FreeSWITCH-The-Definitive-Guide-book-report.html) 
-2. 郭克新 [《FreeSWITCH权威指南》读后感](http://www.freeswitch.org.cn/2014/07/06/FreeSWITCH-The-Definitive-Guide-reader-response.html)
-3. 李浩 [FreeSWITCH将通信行业不再神秘](http://www.freeswitch.org.cn/2014/07/06/FreeSWITCH-will-The-Communications-Industry-is-no-longer-a-mystery.html)
-4. 东北虎 [《FreeSWITCH权威指南》让我想到的](http://www.freeswitch.org.cn/2014/07/09/FreeSWITCH-The-Definitive-Guide-let-me-think.html)
-5. 黄炳胜 [FreeSWITCH爱好者的案头工具书](http://www.freeswitch.org.cn/2014/07/11/FreeSWITCH-lover's-desk-reference-book.html)
+感谢您参与《我们爱开源，我们爱分享——华章杯<FreeSWITCH权威指南>书评暨我与FreeSWITCH的故事有奖征文》活动。我们从来稿中评出以下五篇文章，其作者将获得由机械工业出版社华章公司寄出的《FreeSWITCH权威指南》一本，请一周内把您的姓名、邮编、通信地址、手机号通过邮件或QQ等各种方式发给我们。
 
 <br />
-<a href="http://book.dujinfang.com">
+<a href="http://book.dujinfang.com" style="float:left">
 <img src="/images/FSDG.jpg" alt="FreeSWITCH权威指南" /><br />FreeSWITCH权威指南</a>
+
+* 王涛 [读《FreeSWITCH权威指南》有感](/2014/07/06/FreeSWITCH-The-Definitive-Guide-book-report.html)
+* 郭克新 [《FreeSWITCH权威指南》读后感](/2014/07/06/FreeSWITCH-The-Definitive-Guide-reader-response.html)
+* 李浩 [FreeSWITCH将通信行业不再神秘](/2014/07/06/FreeSWITCH-will-The-Communications-Industry-is-no-longer-a-mystery.html)
+* 东北虎 [《FreeSWITCH权威指南》让我想到的](/2014/07/09/FreeSWITCH-The-Definitive-Guide-let-me-think.html)
+* 黄炳胜 [FreeSWITCH爱好者的案头工具书](/2014/07/11/FreeSWITCH-lover's-desk-reference-book.html)
+
+<br style="clear:both"/>
+<br>
+
+即使没获奖的朋友，我们也非常感谢您的参与。大家都是做技术的，不管文笔好坏，从来稿中我们看到你们都是真诚的。另外，杜金房也专门写了一篇[《我与FreeSWITCH的故事》](/2014/07/16/my-story-with-FreeSWITCH.html) 感谢大家。另外，即使该活动结束了，我们也鼓励大家把自己的FreeSWITCH故事写出来跟我们分享。如果我们的任何努力对您有帮助，我们都很高兴知道。
