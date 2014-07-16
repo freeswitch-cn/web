@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[投稿]我与FreeSWITCH的故事"
+title: "[投稿]我与FreeSWITCH的故事[hawckoder]"
 tags:
   - "投稿"
   - "征文"
@@ -12,7 +12,7 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-admin投稿。
+hawckoder投稿。
 
 **注意**：本文版权归原作者所有。
 
