@@ -27,6 +27,8 @@ hawckoder投稿。
 
 本来时间紧迫没打算写什么，看到后来发现自身资源条件有限，但听说老大有资源以供学习并且昨天见到老大放出了FreeSWITCH权威指南 勘误第一季，于是又有勇气晒一晒我这只言片语。
 
+<br />
+原文链接：<http://plots.website.org/?post=8>
 
 <br>
 <br>
@@ -34,5 +36,4 @@ hawckoder投稿。
 
 
 本文是[《我们爱开源，我们爱分享——华章杯<FreeSWITCH权威指南>书评暨我与FreeSWITCH的故事有奖征文》](/2014/06/20/FreeSWITCH-The-Definitive-Guide-book-review.html)活动的来稿。**文章版权归原作者所有**。谢谢投稿。
-
 
