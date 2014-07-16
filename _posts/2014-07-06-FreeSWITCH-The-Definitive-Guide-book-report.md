@@ -31,4 +31,4 @@ tags:
 总之，这本书买的很值，看的很过瘾，之前通过网络自学时遇到的问题点，有不少都在书中找到了答案，十分期待更高阶的第二版！
 
 <br />
-原文链接：http://blog.csdn.net/wtswjtu/article/details/34856999
+原文链接：<http://blog.csdn.net/wtswjtu/article/details/34856999>
