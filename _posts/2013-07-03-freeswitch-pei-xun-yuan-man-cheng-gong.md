@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FreeSWITCH培训2013圆满成功"
+image: "IMG_1373.jpg"
 tags:
   - "培训"
 ---
