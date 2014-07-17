@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FreeSWITCH高手速成培训2014春季班（上海站）"
+image: "IMG_0418.jpg"
 tags:
   - "培训"
 ---
