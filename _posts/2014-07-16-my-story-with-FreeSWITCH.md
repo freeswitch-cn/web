@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[投稿]我与FreeSWITCH的故事[Seven Du]"
+image: "0716.jpg"
 tags:
   - "投稿"
   - "征文"

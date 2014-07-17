@@ -70,6 +70,11 @@
 		<div class="row-fluid">
 			<div class="span9">
 				<div class="post">
+
+		       		{% if page.image %}
+			        	<!-- <img src="/images/posts/{{ page.image }}" style="top:220px;float:right;margin-left:10px"/> -->
+		        	{% endif %}
+
 					{{ content }}
 
 					<br>
