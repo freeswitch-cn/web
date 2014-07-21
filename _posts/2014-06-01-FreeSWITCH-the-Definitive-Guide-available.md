@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "《FreeSWITCH权威指南》上市预售"
+image: "FSDG.jpg"
 tags:
   - "新闻"
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "下一代呼叫中心与企业通信发展论坛暨FreeSWITCH-CN第三届开发者沙龙圆满成功"
+image: "IMG_4902.jpg" 
 tags:
   - "会议"
 ---
