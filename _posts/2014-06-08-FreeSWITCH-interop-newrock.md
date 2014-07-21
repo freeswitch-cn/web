@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FreeSWITCH通过迅时网关连接PSTN"
+image: "0608.png"
 tags:
   - "互联互通"
 ---
