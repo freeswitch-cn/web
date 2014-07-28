@@ -71,7 +71,8 @@ endif #End YUM
 ifdef APT
 PKGADD  := $(APT)
 PKGLIST := git build-essential automake autoconf libtool python zlib1g-dev libjpeg-dev libncurses5-dev \
-	libssl-dev libpcre3-dev libspeexdsp-dev libspeex-dev libcurl4-openssl-dev libopus-dev
+	libssl-dev libpcre3-dev libspeexdsp-dev libspeex-dev libcurl4-openssl-dev libopus-dev \
+	libsqlite3-dev libldns-dev libedit-dev
 INSTALL := $(APT) install $(PKGLIST)
 endif #End APT
 ifdef PACMAN
@@ -239,7 +240,7 @@ freeswitch.git/configure: freeswitch.git/bootstrap.sh
 	cd freeswitch.git && $(BOOTSTRAP) sh bootstrap.sh
 
 freeswitch.git/bootstrap.sh: has-git
-	(test -d freeswitch.git) || git clone git://git.freeswitch.org/freeswitch.git freeswitch.git
+	(test -d freeswitch.git) || git clone https://stash.freeswitch.org/scm/fs/freeswitch.git
 
 install: freeswitch
 	cd freeswitch.git && $(BOOTSTRAP) $(USE_MAKE) install

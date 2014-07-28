@@ -25,5 +25,6 @@ FreeSWITCH支持各种带宽的语音编解码，支持8K，16K，32K及48KHz的
 
 它使用一种模块化、可扩展性的结构，只有必需的功能和函数才会加入到内核中，从而保证了其稳定。作为一款开源软件，它最大的好处就是你可以拿过来自己编译进行，并根据你的需要来开发自己的模块。
 
-它的作者Anthony Minissale曾经是Asterisk的开发者，关于开发FreeSWITCH的原因和动机请参阅[FreeSWITCH背后的故事](http://www.dujinfang.com/past/2009/10/31/freeswitchbei-hou-de-gu-shi/)
+它的作者Anthony Minissale曾经是Asterisk的开发者，关于开发FreeSWITCH的原因和动机请参阅[FreeSWITCH背后的故事](http://www.dujinfang.com/past/2009/10/31/freeswitchbei-hou-de-gu-shi/) 。
 
+如果想进一步深入了解FreeSWITCH，[《FreeSWITCH权威指南》](http://book.dujinfang.com)当然是最好的指导书。
