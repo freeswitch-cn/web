@@ -35,9 +35,11 @@ Git代码库：
 在不同的平如上，依赖不同的包，如：
 
 CentOS:
+
     yum install -y subversion autoconf automake libtool gcc-c++ ncurses-devel make
 
 Ubuntu:
+
     apt-get -y install build-essential subversion automake autoconf wget libtool libncurses5-dev
 
 你最好参考一下 <http://www.freeswitch.org.cn/Makefile> 以确定你的平台上应该安装哪些包。当然，该文件不是永远能保证最新的。
@@ -82,7 +84,7 @@ QQ 群 190435825 中也有好多热心的网友，同样，为了得到更好的
 
 邮件列表中的消息是异步的，这意味着，你的问题可能总会有人看到并给你答案。相反，如果你在QQ群中提问一个问题，这时候知道答案的人正好不在，而等他回来的时候你已经下线了。
 
-另外，[FreeSWITCH知乎专栏](http://zhuanlan.zhihu.com/freeswitch)上的文章或许对你有用，尤其是这一篇[](http://zhuanlan.zhihu.com/freeswitch/19648543) 。
+另外，[FreeSWITCH知乎专栏](http://zhuanlan.zhihu.com/freeswitch)上的文章或许对你有用，尤其是这一篇<http://zhuanlan.zhihu.com/freeswitch/19648543>。
 
 还没有加FreeSWITCH-CN微信公共账号的，扫一扫右侧的二维码或许对你有用，里面会不定期地发布关于FreeSWITCH的知识。
 
