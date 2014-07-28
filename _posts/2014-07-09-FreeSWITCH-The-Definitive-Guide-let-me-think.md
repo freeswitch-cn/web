@@ -12,7 +12,7 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-东北虎投稿。
+绍迪投稿。
 
 --《FreeSWITCH权威指南书评》
 
