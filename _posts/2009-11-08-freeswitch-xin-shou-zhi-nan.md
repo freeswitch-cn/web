@@ -34,21 +34,20 @@ Git代码库：
 
 在不同的平如上，依赖不同的包，如：
 
-<code>
-CentOS: yum install -y subversion autoconf automake libtool gcc-c++ ncurses-devel make
+CentOS:
+    yum install -y subversion autoconf automake libtool gcc-c++ ncurses-devel make
 
-Ubuntu: apt-get -y install build-essential subversion automake autoconf wget libtool libncurses5-dev
-</code>
+Ubuntu:
+    apt-get -y install build-essential subversion automake autoconf wget libtool libncurses5-dev
 
 你最好参考一下 <http://www.freeswitch.org.cn/Makefile> 以确定你的平台上应该安装哪些包。当然，该文件不是永远能保证最新的。
 
 编译安装：
 
-<code>
-./bootstrap
-./configure
-make install
-</code>
+    ./bootstrap.sh
+    ./configure
+    make
+    make install
 
 当然，你也可以尝试以下命令安装（但你最好弄明白那个Makefile是什么意思）：
 
