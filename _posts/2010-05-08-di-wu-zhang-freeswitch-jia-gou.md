@@ -17,9 +17,9 @@ tags:
 总体结构
 ----
 
-FreeSWITCH 由一个稳定的核心及外围模块组成，下图来自 FreeSWITCH Wiki：
+FreeSWITCH 由一个稳定的核心及外围模块组成，如下图：
 
-<img src="http://commondatastorage.googleapis.com/freeswitch.org.cn/images/5-1.jpg"/>                    
+![FreeSWITCH架构示意图](/images/fs-structure.png)
 
 FreeSWITCH 使用线程模型来处理并发请求，每个连接都在单独的线程中进行处理。这不仅能提供最大强度的并发，更重要的是，即使某路电话发生问题，也只影响到它所在的线程，而不会影响到其它电话。FreeSWITCH 的核心非常短小精悍，这也是保持稳定的关键。所有其它功能都在外围的模块中。模块是可以动态加载（以及卸载）的，在实际应用中可以只加载用到的模块。外围模块通过核心提供的 Public API 与核心进行通信，而核心则通过回调机制执行外围模块中的代码。
 
