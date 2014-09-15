@@ -117,7 +117,7 @@ FreeSWITCH是一个B2BUA，所以，它能做的工作非常多，典型的，�
 
 自2011年起，在全国大中小企业中提供各种级别的FreeSWITCH培训十余次，2012年6月在北京开始举办公共FreeSWITCH培训班。
 
-著有《FreeSWITCH：VoIP实战》网络版电子书，实体书《FreeSWITCH权威指南》由华章公司机械工业出版社出版，欲知详情及欲购买者参看<a href="http://book.dujinfang.com" target="_blank"></a>
+著有《FreeSWITCH：VoIP实战》网络版电子书，实体书《FreeSWITCH权威指南》由华章公司机械工业出版社出版，欲知详情及欲购买者参看[http://book.dujinfang.com](http://book.dujinfang.com)
 
 ## 退款政策：
 
