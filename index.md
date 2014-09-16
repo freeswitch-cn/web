@@ -13,6 +13,8 @@ title: 首页
 
 <div style="background-color:blue;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/04/30/ncc-and-freeswitch-salon-2014.html">[下一代呼叫中心与企业通信发展论坛暨FreeSWITCH-CN第三届开发者沙龙]</a>（6月13日）报名 </div>-->
 
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/09/15/freeswitch-peixun-shenzhen.html">[FreeSWITCH高手速成培训2014秋季班（深圳站）]</a>（11月20--22日）将于9月22日接受报名</div>
+
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
 
 FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某些模块中使用了C++，以[MPL1.1](http://www.opensource.org/licenses/mozilla1.1.php)发布。更多的说明请参考[什么是FreeSWITCH?](/2009/11/08/shi-yao-shi-freeswitch.html)和[FreeSWITCH新手指南](/2009/11/08/freeswitch-xin-shou-zhi-nan.html)。
