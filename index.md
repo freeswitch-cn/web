@@ -22,7 +22,7 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 
 本站接受[读者投稿](/2010/07/23/guan-yu-zai-ben-zhan-tou-gao-de-shuo-ming.html)，欢迎与大家分享经验。
 
-欢迎加入 Google Groups [FreeSWITCH-CN 邮件列表](http://groups.google.com/group/freeswitch-cn?hl=en)，也欢迎到[知乎](http://zhihu.com)上提问。
+欢迎加入 Google Groups [FreeSWITCH-CN 邮件列表](/2014/09/16/google-groups.html)，也欢迎到[知乎](http://zhihu.com)上提问。
 <br>
 
 # 最新文章
