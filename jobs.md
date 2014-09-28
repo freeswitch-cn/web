@@ -13,12 +13,17 @@ layout: default
 
 北京某公司是........ （公司简介）
 
-职位描述
+职位描述：FreeSWITCH二次开发...
 
-联系方式
+工作地点：
+
+工作方式：全职/兼职
+
+联系方式：
 
 
 ## 关于本页面
 
 * 所有招聘单位都需要经过人工审核，信息由本站统一发布
 * 信息所得收入1/3捐给FreeSWITCH官方社区，支持FreeSWITCH越做越好，其它作为管理费。
+* 联系我们 Email: freeswitch-cn .a.t. freeswitch.org.cn
