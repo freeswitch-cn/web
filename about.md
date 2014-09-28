@@ -6,7 +6,7 @@ layout: default
 # 关于本站 - About This Site
 
 FreeSWITCH-CN 是 FreeSWITCH中文站、FreeSWITCH中文社区的简称。本站是非官方网站。
-FreeSWITCH 是 www.freeswitch.org 的注册商标，其官方网站是：
+FreeSWITCH 是 [OSTAG](http://ostag.org/) 的注册商标，其官方网站是：
 [http://www.freeswitch.org](http://www.freeswitch.org)。
 
 本站旨在为广大FreeSWITCH中文用户提供一个统一的登陆页，便于大家查找FreeSWITCH相关的中文信息、促进大家的技术交流以及FreeSWITCH技术在中国的传播。
