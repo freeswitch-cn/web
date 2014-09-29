@@ -17,3 +17,5 @@ tags:
 
 Yum源和Debian源也已更新。
 
+详情参见：<http://lists.freeswitch.org/pipermail/freeswitch-users/2014-September/108357.html> 。
+
