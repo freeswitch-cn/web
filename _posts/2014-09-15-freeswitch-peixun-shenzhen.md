@@ -155,11 +155,11 @@ FreeSWITCH是一个B2BUA，所以，它能做的工作非常多，典型的，�
 7天酒店(深圳科技园二店)：
 南山区铜鼓路城市山谷旁，近北环大道，距离郎峰大厦1.0公里，步行可达。
 （小贴士：这个酒店交通不是非常便利，需要步行出来）
-http://hotels.ctrip.com/hotel/115676.html#ctm_ref=hod_sr_lst_def_n_3 
+[http://hotels.ctrip.com/hotel/115676.html#ctm_ref=hod_sr_lst_def_n_3](http://hotels.ctrip.com/hotel/115676.html#ctm_ref=hod_sr_lst_def_n_3) 
 
 深圳朗山酒店：
 南山区科技园北区朗山路8号，清华信息港旁，距离郎峰大厦2.8公里，可乘36路到科发路下车，步行前往郎峰大厦。
-http://hotels.ctrip.com/hotel/467426.html#ctm_ref=hod_sr_lst_def_n_1 
+[http://hotels.ctrip.com/hotel/467426.html#ctm_ref=hod_sr_lst_def_n_1](http://hotels.ctrip.com/hotel/467426.html#ctm_ref=hod_sr_lst_def_n_1) 
 
 可以搜索科技园附近酒店，寻找自合意的酒店入住。
 
