@@ -150,6 +150,33 @@ FreeSWITCH是一个B2BUA，所以，它能做的工作非常多，典型的，�
 
 如果您报名后因故不能来上课，开课前2日前申请退款收20%管理费。开课前2日内及开课后收取50%管理费。
 
+## 住宿推荐：
+
+* 7天酒店(深圳科技园二店)：
+南山区铜鼓路城市山谷旁，近北环大道，距离郎峰大厦1.0公里，步行可达。
+（小贴士：这个酒店交通不是非常便利，需要步行出来）
+
+[http://hotels.ctrip.com/hotel/115676.html#ctm_ref=hod_sr_lst_def_n_3](http://hotels.ctrip.com/hotel/115676.html#ctm_ref=hod_sr_lst_def_n_3) 
+
+* 深圳朗山酒店：
+南山区科技园北区朗山路8号，清华信息港旁，距离郎峰大厦2.8公里，可乘36路到科发路下车，步行前往郎峰大厦。
+
+[http://hotels.ctrip.com/hotel/467426.html#ctm_ref=hod_sr_lst_def_n_1](http://hotels.ctrip.com/hotel/467426.html#ctm_ref=hod_sr_lst_def_n_1) 
+
+* 深圳盈富佳商务公寓：
+深圳市南山区科发路维用综合楼大堂，维用科技公交站。
+
+[http://hotel.qunar.com/city/shenzhen/dt-4530/?tag=shenzhen#fromDate=2014-10-29&toDate=2014-10-30&from=Map_tips2&QHFP=ZSM__418317B](http://hotel.qunar.com/city/shenzhen/dt-4530/?tag=shenzhen#fromDate=2014-10-29&toDate=2014-10-30&from=Map_tips2&QHFP=ZSM__418317B) 
+
+* 深圳高新城宾馆：
+深圳科技园科发路科苑路交汇处。
+
+[http://hotel.qunar.com/city/shenzhen/dt-798/?tag=shenzhen#fromDate=2014-10-29&toDate=2014-10-30&from=Map_tips2&QHFP=ZSM__418317B](http://hotel.qunar.com/city/shenzhen/dt-798/?tag=shenzhen#fromDate=2014-10-29&toDate=2014-10-30&from=Map_tips2&QHFP=ZSM__418317B)
+
+* 可以搜索科技园附近酒店，寻找自合意的酒店入住。
+
+[http://hotel.qunar.com/render/map?cityurl=shenzhen&query=&fromDate=2014-10-29&toDate=2014-10-30&&QHFP=ZSI0A415BD41#](http://hotel.qunar.com/render/map?cityurl=shenzhen&query=&fromDate=2014-10-29&toDate=2014-10-30&&QHFP=ZSI0A415BD41#)
+
 ## 注意事项：
 
 * 培训第一天的签到时间是上午9:00
@@ -189,7 +216,7 @@ FreeSWITCH是一个B2BUA，所以，它能做的工作非常多，典型的，�
 
 ## 联系人：
 
-李雪梅 13366425570  QQ 1558232773
+李雪梅 13366425570  010-57195865   QQ 1558232773
 
 往期培训回顾：<http://www.freeswitch.org.cn/tags.html#培训>
 
