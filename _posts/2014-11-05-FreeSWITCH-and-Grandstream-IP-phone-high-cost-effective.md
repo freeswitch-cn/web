@@ -32,7 +32,7 @@ Windows平台是大家在平时办公应用中使用最广泛的平台，FreeSWI
 
 完成后，选择”开始菜单”->“所有程序”->“FreeSWITCH”-> “FreeSWITCH”便可以启动FreeSWITCH了，启动后的界面如图所示：
 
-！[FreeSWITCH启动界面](/images/solution/img06.jpg)
+![FreeSWITCH启动界面](/images/solution/img06.jpg)
 
 如果安装过程中你没有修改默认安装路径的话，那么FreeSWITCH的实际安装路径是：c:\Program Files\FreeSWITCH，配置文件在该目录的conf目录下。
 
