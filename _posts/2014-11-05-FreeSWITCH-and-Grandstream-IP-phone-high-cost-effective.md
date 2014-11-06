@@ -23,11 +23,13 @@ FreeSWITCH是跨平台的，因而大家可以选用适合自己的平台。
 
 ### 在Windows上安装
 
-Windows平台是大家在平时办公应用中使用最广泛的平台，FreeSWITCH在Windows上安装最简单： 
-1)	直接下载安装文件，下载地址为 http://files.freeswitch.org/windows/installer；
-2)	根据自己的系统，选择相应的目录（freeswitch.msi是最新的安装程序，一般隔几天就会更新到最新的版本）；
-3)	一路默认，即连续单击“Next”；
+Windows平台是大家在平时办公应用中使用最广泛的平台，FreeSWITCH在Windows上安装最简单：
+ 
+1)	直接下载安装文件，下载地址为 http://files.freeswitch.org/windows/installer；  
+2)	根据自己的系统，选择相应的目录（freeswitch.msi是最新的安装程序，一般隔几天就会更新到最新的版本）；  
+3)	一路默认，即连续单击“Next”；  
 4)	安装完毕。
+
 完成后，选择”开始菜单”->“所有程序”->“FreeSWITCH”-> “FreeSWITCH”便可以启动FreeSWITCH了，启动后的界面如图所示：
 
 ！[FreeSWITCH启动界面](/images/solution/img06.jpg)
