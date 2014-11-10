@@ -69,10 +69,10 @@ tags:
 Channel _ Create：通道创建事件  
 Channel _ Progress：通道振铃事件  
 Channel _ Answer：通道应答事件  
-Channel _ Bridge:通道桥接事件  
-Channel _ Hangup:通道挂断事件
+Channel _ Bridge：通道桥接事件  
+Channel _ Hangup：通道挂断事件
 
-2、通道事件的Unique_ID字段与我们呼叫前指定的UUID相同，这个也是我们能跟踪的前提。
+2、通道事件的Unique_ID字段与我们呼叫前指定的uuid相同，这个也是我们能跟踪的前提。
 
 有了上面两个条件之后，跟踪就变得简单和美妙起来！在呼叫开始前，将呼叫对象与uuid的对应关系存到数据库中，在收到不同的事件后，根据事件的Unique_ID找到对应的呼叫对象，然后更新它的呼叫状态即可。
 
