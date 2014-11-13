@@ -48,7 +48,7 @@ tags:
 
 分析完毕，相信每个人都有自己的判断吧。一般能有异地分支通话的机构，人员肯定不会少。所以，还是方案二更加合理，下面就是方案二的一个简单的网络结构图：
  
-![网络结构图](/images/solution/img17.png)
+![网络结构图](/images/solution/17.png)
  
 - 本文的阿里云服务在IP设定为：10.0.0.1/24
 - 分支机构1向阿里云注册的SIP帐号为：1001
@@ -60,13 +60,13 @@ tags:
  
 ### 当拨打同分支机构电话：
 
-![配置图](/images/solution/img13.png)
+![配置图](/images/solution/13.png)
  
 这种情况下，A（801）呼叫B（802），只通过潮流PBX即可完成整个呼叫流程。这样也减轻汇接局的FreeSWITCH压力，并且响应更快。
  
 ### 当拨打异地分支机构电话：
  
-![配置图](/images/solution/img12.png)
+![配置图](/images/solution/12.png)
  
 如上图所示，A（801） 呼叫B（3801），用户A先将呼叫送到潮流PBX（分支1）上，然后匹配路由，找到对应线路，然后送到阿里云的FreeSWITCH上；FreeSWITCH收到此呼叫，匹配路由对应到线路（分支2），然后将呼叫送到潮流PBX（分支2）上；当潮流PBX收到呼叫，根据对应的被叫号码，匹配到对应的话机用户B，并且来电显示为2801。到此整个呼叫流程走完。
 
@@ -84,7 +84,7 @@ tags:
  
 如下图，配置完成后点击保存。
 
-![SIP中继配置图](/images/solution/img18.png)
+![SIP中继配置图](/images/solution/18.png)
  
 #### 2、在PBX添加sip用户
  
@@ -94,7 +94,7 @@ tags:
 - 权限：为内部；
 - SIP/IAX密码：根据自己需求更改。
 
-![SIP用户配置图](/images/solution/img15.png)
+![SIP用户配置图](/images/solution/15.png)
  
 #### 3、话机注册到PBX
  
@@ -110,7 +110,7 @@ tags:
 - 使用中继：选择在第一步sip注册的中继； 
 - 前缀：填写2。
 
-![出局路由配置图](/images/solution/img14.png)
+![出局路由配置图](/images/solution/14.png)
  
 **入局路由**
  
@@ -120,7 +120,7 @@ tags:
 - 特权等级：选择内部；
 - 默认目的地：选择通过DID至本地分机。
 
-![入局路由配置图](/images/solution/img16.png)
+![入局路由配置图](/images/solution/16.png)
  
 ### 潮流PBX（分支2）配置：（以下配置参考分支1相应的配置界面）
  
