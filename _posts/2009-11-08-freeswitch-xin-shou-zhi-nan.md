@@ -32,7 +32,7 @@ Git代码库：
 
 安装前需要的软件：
 
-在不同的平如上，依赖不同的包，如：
+在不同的平台上，依赖不同的包，如：
 
 CentOS:
 
@@ -58,7 +58,7 @@ Ubuntu:
 详见：[Installation Guide](http://wiki.freeswitch.org/wiki/Installation_Guide)和[Getting Started Guide](http://wiki.freeswitch.org/wiki/Getting_Started_Guide).
 
 
-配置: FreeSWITCH缺省的配置是作为一个Home PBX来运行，你可以先用它来试验各种功能。等熟悉了以后再进行高级的配置与开发。
+配置：FreeSWITCH缺省的配置是作为一个Home PBX来运行，你可以先用它来试验各种功能。等熟悉了以后再进行高级的配置与开发。
 
 [wiki.freeswitch.org](http://wiki.freeswitch.org)是英文文档的大本营，如果你的英文不错的话，是需要好好阅读的地方。你也可以在wiki上注册账号，修改你认为不正确的页面或添加你自己的内容。
 
@@ -68,7 +68,7 @@ FreeSWITCH社区成员都很友好，你可以通过[邮件列表（英文）](l
 
 [Pastebin](http://pastebin.freeswitch.org/)是一个专供粘贴配置、debug、log等文本信息的地方，用户名和密码分别是 pastebin 和 freeswitch（其实人家已经告诉你了）。提交问题时，先把相关log、出错信息等贴完后再把对应的链接发到邮件列表或IRC，就可以让别人帮你看一看是哪儿出错了。
 
-[Jira](jira.freeswitch.org)是FreeSWITCH的缺陷跟踪工具，详情请参阅[Reporting Bugs]( http://wiki.freeswitch.org/wiki/Reporting_Bugs)
+[Jira](https://freeswitch.org/jira/secure/Dashboard.jspa)是FreeSWITCH的缺陷跟踪工具，详情请参阅[Reporting Bugs]( http://wiki.freeswitch.org/wiki/Reporting_Bugs)
 
 获取中文帮助信息，请加入[FreeSWITCH-CN Google Group](http://groups.google.com/group/freeswitch-cn)（免费）。为了得到及时有效的帮助，请在发帖前仔细读一下[橡皮鸭子问题](/2012/09/21/jie-jue-xiang-pi-ya-zi-wen-ti.html)。
 
@@ -88,5 +88,5 @@ QQ 群 190435825 中也有好多热心的网友，同样，为了得到更好的
 
 还没有加FreeSWITCH-CN微信公共账号的，扫一扫右侧的二维码或许对你有用，里面会不定期地发布关于FreeSWITCH的知识。
 
-如果你还有问题又想深入学习FreeSWITCH，《FreeSWITCH权威指南》这本书可能适合你。
+如果你还有问题又想深入学习FreeSWITCH，[《FreeSWITCH权威指南》](http://book.dujinfang.com)这本书可能适合你。
 
