@@ -26,10 +26,9 @@ FreeSWITCH到底是如何帮助我们的成功的呢？首先，它是我们整�
 
 我们遇到最大的挑战是老师和学生分别在太平洋的两岸。曾经出现过几次亚、太之间的光缆中断事故，对我们的语音通信造成了很大的影响。后来，我们不得不通过在多个不同的数据中心架设多台冗余的服务器来减少单一路由对我们的影响。
 
-另外，我们也在生产服务器上运行FreeSWITCH的多个实例。藉此我们可以在使用最新代码的同时又减少BUG的影响(说实在的，其实FreeSWITCH的BUG通常修的很快，也是极少数的trunk代码比上一个稳定发行版更稳定的工程之一)。我们的总体结构是通过一个“主”FreeSWITCH(FS)连接到其它FreeSWITCH实例上，专门负责skype的(FS-skype)就只加载skype模块mod\_skypiax，专门负责Google Talk的(FS-gtalk)就只加载Gtalk模块mod\_dingaling。FreeSWITCH允许我们通过设置不同的配置文件来运行同一个或多个版本的代码。因此我们设置了/usr/local/freeswitch, /usr/local/skype, /usr/local/gtalk等等的目录结构来存放不同的配置文件。更重要的一点是，如果某个FreeSWITCH实例崩溃了(如FS-skype。说实话，FS-skype现在已经很稳定，但我们最初使用时该模块刚处于  阶段，所以有时会崩溃)，电话就会自动路由到其它的服务器，甚至可能到其它数据中心的服务器(我们在香港和大陆的几个数据中心里放了冗余的服务器，如图)。
+另外，我们也在生产服务器上运行FreeSWITCH的多个实例。藉此我们可以在使用最新代码的同时又减少BUG的影响(说实在的，其实FreeSWITCH的BUG通常修的很快，也是极少数的trunk代码比上一个稳定发行版更稳定的工程之一)。我们的总体结构是通过一个“主”FreeSWITCH(FS)连接到其它FreeSWITCH实例上，专门负责skype的(FS-skype)就只加载skype模块mod\_skypiax，专门负责Google Talk的(FS-gtalk)就只加载Gtalk模块mod\_dingaling。FreeSWITCH允许我们通过设置不同的配置文件来运行同一个或多个版本的代码。因此我们设置了/usr/local/freeswitch, /usr/local/skype, /usr/local/gtalk等等的目录结构来存放不同的配置文件。更重要的一点是，如果某个FreeSWITCH实例崩溃了(如FS-skype。说实话，FS-skype现在已经很稳定，但我们最初使用时该模块刚处于Beta阶段，所以有时会崩溃)，电话就会自动路由到其它的服务器，甚至可能到其它数据中心的服务器(我们在香港和大陆的几个数据中心里放了冗余的服务器)。
 
-
-<img src="http://djf.i.ph/photo/d/151-1/fs_idapted.jpg?g2_GALLERYSID=248805f144808bf748de8e24a4e4ea94" />
+<!--<img src="http://djf.i.ph/photo/d/151-1/fs_idapted.jpg?g2_GALLERYSID=248805f144808bf748de8e24a4e4ea94" />-->
 
 我们使用了以下几个主要模块：
 
@@ -39,7 +38,7 @@ FreeSWITCH使用sofia-sip提供SIP支持。我们使用SIP连接老师，而通�
 
 mod\_skypiax(Skype模块)
 
-尽管手机易于使用，但有些学生是为了学业奔波于异地，由于漫游的原因无法用手机接听。而且我们也发现确实有许多学生喜欢带着耳机跟老师连线。正好FreeSWITCH有一个模块可以连接Skype。最初我们使用时，它极不稳定(这也是为什么我们启动多个FreeSWITCH实例的原因之一)。老实说，当时它确实给我们带来了很大的麻烦，但想想它仅仅是   阶段的代码，本来就有此风险。幸运的是，模块作者Giovanni Maruzzelli(意大利人)非常勤奋，他很快修复了许多BUG，甚至还抽出时间登录到我们服务器上帮助查找问题(我们欠他一个大大的人情)。为了使该模块更有用，我们也写了许多patch，如使用ANY和RR接口进行顺序和循环选线以及一些BUG修复等。另外一些特性如continue-load-on-fail和auto-skype-user尚未合并到trunk代码中去。非常感谢FreeSWITCH社区给了我们一个可以奉献的平台。
+尽管手机易于使用，但有些学生是为了学业奔波于异地，由于漫游的原因无法用手机接听。而且我们也发现确实有许多学生喜欢带着耳机跟老师连线。正好FreeSWITCH有一个模块可以连接Skype。最初我们使用时，它极不稳定(这也是为什么我们启动多个FreeSWITCH实例的原因之一)。老实说，当时它确实给我们带来了很大的麻烦，但想想它仅仅是Beta阶段的代码，本来就有此风险。幸运的是，模块作者Giovanni Maruzzelli(意大利人)非常勤奋，他很快修复了许多BUG，甚至还抽出时间登录到我们服务器上帮助查找问题(我们欠他一个大大的人情)。为了使该模块更有用，我们也写了许多patch，如使用ANY和RR接口进行顺序和循环选线以及一些BUG修复等。另外一些特性如continue-load-on-fail和auto-skype-user尚未合并到trunk代码中去。非常感谢FreeSWITCH社区给了我们一个可以奉献的平台。
 
 mod\_erlang\_events(Erlang模块)
 
@@ -53,12 +52,10 @@ mod\_fifo(队列模块)
 
 另外，我们还把它用作办公室PBX(提供中英双语的语音菜单)以及呼叫中心(销售)和客服系统。mod\_fifo本是个很简单的模块，我们提交了一些Patch，使得它能完成相对复杂的呼叫队列功能。销售及客服系统均与我们自己编写的CRM系统(客户关系管理系统)紧密集成，大大提高了我们销售的业绩和客户服务水平。
 
-
 FreeSWTICH非常强大和稳定，我们只是使用了其功能的一小部分。当然，除了其强大的功能外，更重要的是它的开放性及社区支持。首先，它是开源的，当遇到问题时我们很容易地查看源代码找到问题所在。其次，它的社区是活跃地、友好地，如果我们提交一个BUG，一经确认通常在一天之内就修复了(如果不是时差的关系可能会更快)。再次，我们可以提交自己的补丁程序或添加新功能，只要是有用的，他们都很乐于接受。值得一提的是，Anthony Minessale及其核心团队帮助我们实现了完整的SIP支持。回到1.0.0时代，Anthony曾在mod\_sofia上做了大量工作，最终使得SIP客户端可以在不需要STUN的情况下在NAT网络上工作。这一点的重要性并不在于他做了多少改变，而是他帮助我们确确实实实现了一个有竞争力的系统，同时我们认为这一特性对FreeSWITCH也相当重要。 
 
 总的来说，FreeSWITCH给我们带来了新的技术并成就了新的商业模型。而强大的社区支持又让它能做的更好。我们每天都很兴奋地在它上面工作，以推动这项技术向更深更广的方向发展。同时我们非常确信这是未来最理想的电话平台。
 
-
-注：与本文对应的英文版本发布在 <http://wiki.freeswitch.org/wiki/FreeSWITCH_Testimonial_on_Idapted.com>，但本文不是原英文版的翻译。
+注：与本文对应的英文版本发布在<http://wiki.freeswitch.org/wiki/FreeSWITCH_Testimonial_on_Idapted.com>，但本文不是原英文版的翻译。
 
 本文转自<http://www.dujinfang.com/past/2010/2/4/idaptedde-freeswitchshi-jian/>

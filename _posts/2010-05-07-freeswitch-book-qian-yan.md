@@ -93,10 +93,10 @@ FreeSWITCH在美国及其它国家已有很多的应用，但国内的用户还�
 
 本书内容采用 [知识共享 署名-非商业性使用-禁止演绎 2.5 中国大陆(CC-BY-NC-ND)][Licence] 授权.任何形式的转载均需加入本授权协议链接（或文本）以及指向本站的链接。
 
-协议地址：http://creativecommons.org/licenses/by-nc-nd/2.5/cn/legalcode<br>
-本文地址：http://www.freeswitch.org.cn/document           
+协议地址：<http://creativecommons.org/licenses/by-nc-nd/2.5/cn/legalcode>   
+本文地址：<http://www.freeswitch.org.cn/document>           
                                                           
-[Licence]: http://creativecommons.org/licenses/by-nc-nd/2.5/cn/legalcode
+[Licence](http://creativecommons.org/licenses/by-nc-nd/2.5/cn/legalcode)
 
 
 致谢
