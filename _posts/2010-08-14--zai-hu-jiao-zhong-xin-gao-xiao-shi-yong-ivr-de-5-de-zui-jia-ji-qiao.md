@@ -14,7 +14,7 @@ tags:
 </div>
 
 
-原文来自：http://www.voiptoday.org/index.php?option=com_content&view=article&id=496:top-5-tips-for-effective-use-of-ivrs-in-call-center&catid=903:call-center&Itemid=171
+原文来自：<http://www.voiptoday.org/index.php?option=com_content&view=article&id=496:top-5-tips-for-effective-use-of-ivrs-in-call-center&catid=903:call-center&Itemid=171>
 
 
 IVR 本来是用于在呼叫中心里通过使用计算机技术来增加客户服务能力的. 但是, 你是否注意到, 你的 IVR 确实增加了你的客户满意度了呢还是激怒了你的用户? 读读下面这 5 个最佳技巧, 可以确保你确实增加了你的客户服务能力.

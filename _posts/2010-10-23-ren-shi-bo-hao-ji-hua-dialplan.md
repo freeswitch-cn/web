@@ -14,7 +14,7 @@ tags:
 
 拨号计划是 FreeSWITCH 中至关重要的一部分。它的主要作用就是对电话进行路由（从这一点上来说，相当于一个路由表）。说的简明一点，就是当一个用户拨号时，对用户所拨的号码进行分析，进而决定下一步该做什么。当然，实际上，它所能做的比你想象的要强大的多。
 
-我们在第二章中已经提到过修改过拨号计划，单从配置文件看，还算比较简单直观。实际上，它的概念也不是很复杂。如果你理解正则表达式，那你应该能看懂系统系统自带的大部分的配置。但是，在实际应用中，有许多问题还是常常令初学者感到疑惑。主要的问题是，要理解 Dialplan，还需要了解 FS 是怎样工作的（第五章），API 与 APP 的区别等。
+我们在第二章中已经提到过修改过拨号计划，单从配置文件看，还算比较简单直观。实际上，它的概念也不是很复杂。如果你理解正则表达式，那你应该能看懂系统自带的大部分的配置。但是，在实际应用中，有许多问题还是常常令初学者感到疑惑。主要的问题是，要理解 Dialplan，还需要了解 FS 是怎样工作的（第五章），API 与 APP 的区别等。
 
 通过本章，我们除了要了解 Dialplan 的基本概念和运作方式，还要以理论与实践相结合的方式来进行学习，使用初学者能快速上手，有经验的人也能学到新的维护和调试技巧。
 
@@ -24,7 +24,9 @@ Dialplan 是 FreeSWITCH 中一个抽象的部分，它可以支持多种不同�
 
 ### 配置文件的结构
 
-拨号计划的配置文件在 conf/dialplan 中，在前面的章节中我们讲过，它们是在 freeswitch.xml 中，由 <X-PRE-PROCESS cmd="include" data="dialplan/*.xml"/> 装入的。
+拨号计划的配置文件在 conf/dialplan 中，在前面的章节中我们讲过，它们是在 freeswitch.xml 中，由以下装入的。
+
+	<X-PRE-PROCESS cmd="include" data="dialplan/*.xml"/>
 
 拨号计划由多个 Context （上下文/环境）组成。每个 Context 中有多个 Extension （分支，在简单的 PBX 中也可以认为是分机号，但很显然，Extension 涵盖的内容远比分机号多）。所以，Context 就是多个 Extension 的逻辑集合，它相当于一个分组，一个 Context 中的 Extension 与其它 Context 中的 Extension 在逻辑上是隔离的。
 
@@ -57,7 +59,7 @@ FreeSWITCH 安装时，提供了很多例子，为了避免与提供的例子冲
 	<include>
 	  <context name="default">
 	
-用你喜欢的编译器编辑好并存盘后，在 FreeSWITCH 命令行上（Console 或 fs\_cli）执行 reloadxml 或按 F6键，使 FreeSWITCH 重新读入你修改过的配置文件。并按 F8 键将 log 级别设置为 DEBUG，以看到详细日志.然后，将软电话注册上，并拨叫 1234 或 echo （大部分软电话都能呼叫字母，如Zoiper，Xlite可以使用空格键切换数字和字母）。
+用你喜欢的编译器编辑好并存盘后，在 FreeSWITCH 命令行上（Console 或 fs\_cli）执行 reloadxml 或按 F6键，使 FreeSWITCH 重新读入你修改过的配置文件。并按 F8 键将 log 级别设置为 DEBUG，以看到详细日志.然后，将软电话注册上，并拨叫 1234 或 echo （大部分软电话都能呼叫字母，如Zoiper，X-lite可以使用空格键切换数字和字母）。
 
 你将会看到很多 Log, 注意如下的行：
 
@@ -299,7 +301,7 @@ set 和 export 都是设置一个变量，该变量的名字是 dialed\_extensio
 	
 	<action application="set" data="dialed_extension=$1"/>
 	<action application="set" data="export_vars=dialed_extension"/>
-.
+
 	
 	<!-- bind_meta_app can have these args <key> [a|b|ab] [a|b|o|s] <app> -->
 	<action application="bind_meta_app" data="1 b s execute_extension::dx XML features"/>

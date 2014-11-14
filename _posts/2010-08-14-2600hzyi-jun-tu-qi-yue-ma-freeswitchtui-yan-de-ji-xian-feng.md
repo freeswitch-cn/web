@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-来自：http://454171.137.hostcn.cn/read.php?tid=1071
+来自：<http://454171.137.hostcn.cn/read.php?tid=1071>
 时间：2010-08-13 01:42 作者：asterisk
 
 2600hz与FreePBX的分手是长期的分歧引起的。 

@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-来自：http://454171.137.hostcn.cn/read.php?tid=1070
+来自：<http://454171.137.hostcn.cn/read.php?tid=1070>
 时间：2010-08-13 00:44 作者：asterisk
 
 
