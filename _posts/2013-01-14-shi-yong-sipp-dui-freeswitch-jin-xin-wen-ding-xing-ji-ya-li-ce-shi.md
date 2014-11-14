@@ -25,4 +25,4 @@ http://www.freeswitch.org/eg/load_test/dft_cap.xml
       </condition>
     </extension>
 
-当然 SIPP 还有好多选项，用起来也很灵活，抛砖引玉，剩下的就靠你慢慢琢磨了。祝玩得开心！
+当然 SIP 还有好多选项，用起来也很灵活，抛砖引玉，剩下的就靠你慢慢琢磨了。祝玩得开心！
