@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-<strong style="color:red">11月20-22日，FreeSWITCH高手速成培训震撼来袭。9月22日上午7:00开始售票。5张特价票先到先得。为保证教学质量，培训名额有严格限制，请<a href="http://fstrainingsz.vasee.com" target="_blank">尽快到这里报名</a> </strong>。
+<!--<strong style="color:red">11月20-22日，FreeSWITCH高手速成培训震撼来袭。9月22日上午7:00开始售票。5张特价票先到先得。为保证教学质量，培训名额有严格限制，请<a href="http://fstrainingsz.vasee.com" target="_blank">尽快到这里报名</a> </strong>。-->
 
 ## 送书啦！
 
