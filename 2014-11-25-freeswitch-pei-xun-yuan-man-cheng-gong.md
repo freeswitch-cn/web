@@ -39,6 +39,10 @@ tags:
 <div style="text-align: center">11月下旬的深圳，还是很热啊……</div>
 <p><img src="/images/fscnds2014/images_training/IMG_1104.JPG"  /></p>
 <div style="text-align: center">杜老师耐心的讲解</div>
+<p><img src="/images/fscnds2014/images_training/IMG_1107.JPG"  /></p>
+<div style="left-align: 50px">课下，美女前来指教喽~</div>
+<p><img src="/images/fscnds2014/images_training/IMG_1108.JPG"  /></p>
+<div style="text-align: center">在说什么呢？好神秘哇！</div>
 <p><img src="/images/fscnds2014/images_training/IMG_1106.JPG"  /></p>
 <div style="text-align: center">潮流网络发奖品喽！（左一、中是学员，右一是潮流网络销售经理）</div>
 <p><br  /></p>
