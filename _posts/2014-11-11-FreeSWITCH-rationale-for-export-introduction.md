@@ -13,9 +13,8 @@ tags:
 
 默言投稿。
 
-<br />
 ### Export原理
-
+<br />
 #### 普通export用法
 
 在dialplan中经常会用到export，如下所示：
@@ -58,7 +57,7 @@ tags:
 	uuid_getvar <a_leg_uuid> myvar
 
 ### Export用法
-
+<br />
 知道了export的原理之后，即使api命令中没有uuid_export，我们也可以模拟出来。
 如下：
 
@@ -79,7 +78,7 @@ tags:
 这里所说的设置到b腿，是指bridge之后设置到b腿
 
 ### Export示例
-
+<br />
 #### 示例1：在呼叫前，同时设置a腿和b腿的uuid，以便后期跟踪
 
 	originate {origination_uuid=xxxxx,nolocal:origination_uuid=yyyyy,export_vars='nolocal:origination_uuid'}user/60401 60402
