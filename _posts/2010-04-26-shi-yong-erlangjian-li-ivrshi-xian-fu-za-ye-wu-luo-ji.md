@@ -33,18 +33,14 @@ Erlang 最初就是设计用来编写电信程序的，它具有OTP（开放电�
 
 我们使用[mod\_erlang\_socket](http://wiki.freeswitch.org/wiki/Mod_erlang_event)的outbound模式。当有电话进来时，FreeSWITCH会通过dialplan立即把控制权交给Erlang。
 
-	<code>
-	    <extension name="icall_fsm">
-	      <condition field="destination_number" expression="^fsm$">
-	        <action application="erlang" data="icall:fsm acd@192.168.1.27"/>
-	      </condition>
-	    </extension>
-	</code>
+    <extension name="icall_fsm">
+      <condition field="destination_number" expression="^fsm$">
+        <action application="erlang" data="icall:fsm acd@192.168.1.27"/>
+      </condition>
+    </extension>
 
 其中，Erlang程序acd运行在节点192.168.1.27上，FreeSWITCH会使用RPC调用执行icall:fsm()并在Erlang中启动一个有限状态机，它接下来会控制呼叫流程，实现进行状态转移，直到呼叫结束。并且，在呼叫过程中我们还通过db\_pbx模块与数据库及远程HTTP交互。Erlang实现的FSM代码真的非常好看。
 
-	<code>
-	
 	-module(icall). 
 	-behaviour(gen_fsm).
 	 
@@ -326,8 +322,6 @@ Erlang 最初就是设计用来编写电信程序的，它具有OTP（开放电�
 			
 		 Pid ! {cc_extn, Extn}.
 	
-	</code>
-
 其它讨论
 ----
 

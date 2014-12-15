@@ -23,18 +23,15 @@ IVR的全称的Interactive Voice Response，就是我们经常说的电话语音
 
 系统默认的配置文件存放在/usr/local/freesiwtch/conf/autoload\_configs/ivr.conf，配置文件是XML格式，菜单放到<menus> </menus>中，而每一个<menu> </menu>即是一个菜单。并且，每个menu应该有一个唯一的名字（name），以便在拨号计划（dialplan）中引用。
 
-	<code>
 	<configuration name="ivr.conf" description="IVR menus">
 	  <menus>
 	    <menu name="demo_ivr">
 	    </menu>
 	  </menus>
 	</configuration>
-	</code>
 
 好，我们先来实现上述最简单的menu：
 
-	<code>
 	<menu name="welcome"
 	    greet-long="custom/welcome.wav"
 	    greet-short="custom/welcom_short.wav"
@@ -48,9 +45,7 @@ IVR的全称的Interactive Voice Response，就是我们经常说的电话语音
 	
 	    <entry action="menu-exec-app" digits="0" param="transfer 1000 XML default"/>
 	    <entry action="menu-exec-app" digits="/^(10[01][0-9])$/" param="transfer $1 XML default"/> 
-	
 	</menu>
-	</code>
 
 我们指定菜单的名字是welcome，greet-long即为最开始播放的语音--“您好，欢迎致电XX公司，请直拨分机号，查号请拨0”，该语音文件默认的位置应该是/usr/local/freeswitch/sounds/，所以，您应该事先把声音文件录好，放到custom/welcome.wav（当然，你也可以使用其它路径，如/home/your\_name/ivr/welcome.wav）。并且，由于PSTN交换机都是使用PCM编码，所以，welcome.wav文件的格式应为单声道，8000HZ。
 
@@ -76,15 +71,13 @@ digit-len说明菜单项的长度，在本例中，用户分机号为4位。
 
 测试成功后，当然，你可能需要先把用户来话转到语音菜单。根据配置不同，用户来话的接听有多种配置方式，一般来说，来话会先到达public dialplan，所以，你可以在conf/dialplan/public.xml中加入一个extension:
 
-	<code>
-	    <extension name="incoming_call">
-	      <condition field="destination_number" expression="^你的DID号码$">
-		<action application="answer" data=""/>
-		<action application="sleep" data="1000"/>
-		<action application="ivr" data="welcome"/>
-	      </condition>
-	    </extension>
-	</code>
+    <extension name="incoming_call">
+      <condition field="destination_number" expression="^你的DID号码$">
+	<action application="answer" data=""/>
+	<action application="sleep" data="1000"/>
+	<action application="ivr" data="welcome"/>
+      </condition>
+    </extension>
 
 这样，如果有外部呼叫进来，就可以听到语音菜单了。
 

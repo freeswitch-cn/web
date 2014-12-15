@@ -65,7 +65,6 @@ FreeSWITCH 默认使用静态的 XML 文件配置用户，但如果需要动态�
 
 接下来配置你的 FreeSWITCH,　conf/autoload_configs/xml_curl.conf.xml
 
-	<code>
 	<configuration name="xml_curl.conf" description="cURL XML Gateway">
 	  <bindings>
 	    <binding name="directory">
@@ -73,7 +72,6 @@ FreeSWITCH 默认使用静态的 XML 文件配置用户，但如果需要动态�
 	    </binding>
 	  </bindings>
 	</configuration>
-	</code>
 
 然后
 

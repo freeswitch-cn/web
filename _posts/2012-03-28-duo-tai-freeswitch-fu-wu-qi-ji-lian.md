@@ -24,13 +24,11 @@ tags:
 
 在A机上，把以下 dialplan 片断加到 default.xml 中：
 
-	<code>
 	<extension name="B">
 	  <condition field="destination_number" expression="^0(.*)$">
 	    <action application="bridge" data="sofia/external/sip:$1@192.168.1.B:5080"/>
 	  </condition>
 	</extension>
-	</code>
 
 其中，expression= 后面的正则表示式表示匹配以0开头的号码，“吃”掉0后，把剩下的号码送到B机的5080端口上。
 
@@ -39,16 +37,11 @@ tags:
 
 除了SIP外，我还在两台机器上分别加了两块E1板卡，中间用交叉线直连，这样的话，我希望拨9开头就走E1到对端，设置如下：
 
-	<code>
 	<extension name="B_E1">
 	  <condition field="destination_number" expression="^9(.*)$">
 	    <action application="bridge" data="freetdm/1/a/$1"/>
 	  </condition>
 	</extension>
-	</code>
-
-
-
 
 ## 汇接模式
 
@@ -73,7 +66,6 @@ tags:
 
 考虑双机级联的情况，你只需要在A上配置一个到B的网关（将下列内容存成XML文件放到 conf/sip_profiles/external/b.xml）：
 
-	<code>
 	<include>
 	        <gateway name="b">
 	                <param name="realm" value="192.168.1.B"/>
@@ -81,17 +73,13 @@ tags:
 	                <param name="password" value="1234"/>
 	        </gateway>
 	</include>
-	</code>
-
 
 同时把A上的 dialplan 改成：
 
-	<code>
 	<extension name="B">
 	  <condition field="destination_number" expression="^0(.*)$">
 	    <action application="bridge" data="sofia/gateway/b/$1"/>
 	  </condition>
 	</extension>
-	</code>
 
 这样，A上的用户可以呼通所有B上的用户，从B的用户来看，好像所有电话都是从本机的1000这个用户打进来的（这就是网关的概念，因为对于B来说，A机就相当于一个普通的SIP用户1000。当然你从A上理解，B就是给你提供了一条SIP中继，如果在B上解决了“主叫号码透传”以后，B就相法于一条真正的中继了）。如果这么说理解有难度的话，想像一下B是联通或电信的服务器网关，你是不能控制的，而它只给了你一个网关的IP，用户名，和密码，你把它配到你的A上，就可以呼通电信能呼通的任何固定电话或手机了。

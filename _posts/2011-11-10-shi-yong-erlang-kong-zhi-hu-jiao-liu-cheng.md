@@ -99,20 +99,19 @@ Erlang 模块默认是不安装的，首先请确认你的机器上已经安装 
 
 除了使用 RPC 生成新的进程外，还可以用另外一种方法产生新进程。如上面 7778 所示，与 7777 不同的是，其中的 ivr:start 中的 *start* 换成了“*！*”。该方法需要你首先在 Erlang 端启动一个进程，该进程监听也有进来的请求。当 FreeSWITCH 把电话路由到 Erlang 节点时，“*！*”语法说明，FreeSWITCH 会发送一个 *{getpid, ...}* 消息给 Erlang，意思是说，我这里有一个电话，告诉我哪个 Pid 可以处理。这种方法比上一种方法稍微有点复杂，但程序有更大的自由度。
 
-
-     start() ->
-          register(ivr, self()),
-          loop().
-     loop() ->
-          receive
-              {get_pid, UUID, Ref, FSPid} ->
-                    NewPid = spawn(fun() -> serve() end),
-                    FSPid ! {Ref, NewPid},
-                    ?LOG("Main process ~p spawned new child process ~p~n", [self(), NewPid]),
-                    loop();
-               _X ->
-                    loop()
-          end.
+	start() ->
+	      register(ivr, self()),
+	      loop().
+	 loop() ->
+	      receive
+	          {get_pid, UUID, Ref, FSPid} ->
+	                NewPid = spawn(fun() -> serve() end),
+	                FSPid ! {Ref, NewPid},
+	                ?LOG("Main process ~p spawned new child process ~p~n", [self(), NewPid]),
+	                loop();
+	           _X ->
+	                loop()
+	end.
 
 上面的代码中，用户应在 Erlang 节点启动后首先执行 start/0 以启动监听。start() 时，将首先注册一个名字，叫 ivr，然后进入 loop 循环等待接收消息。一旦它收到 {get_pid, ...} 消息，就 spawn 一个新的进程，并把新进程的 Pid 发送给 FreeSWITCH，然后再次等待新的消息。在这里，新产生的进程同样执行 serve() 函数为新进来的 Channel 服务。
 
@@ -201,7 +200,6 @@ Erlang 模块默认是不安装的，首先请确认你的机器上已经安装 
 
 当然，你肯定已经猜出来了，当回调函数执行到 handle_event({channel_hangup_event, ... }) 时进程会清理现场并终止。
 
-	<code>
 	-module(fsm_ivr). 
 	-behaviour(gen_fsfsm).
 	 
@@ -307,7 +305,6 @@ Erlang 模块默认是不安装的，首先请确认你的机器上已经安装 
 			{"execute-app-name", atom_to_list(App)}, {"execute-app-arg", Args}],
 		send_msg(UUID, Headers).
 	send_msg(UUID, Headers) -> {sendmsg, ?FS_NODE} ! {sendmsg, UUID, Headers}.
-	</code>
 
 ## 接收事件
 

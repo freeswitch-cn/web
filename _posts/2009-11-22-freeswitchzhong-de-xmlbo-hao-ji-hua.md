@@ -37,15 +37,11 @@ FS的拨号方案分为两步骤：查找和执行（hunting and executing）。
 
 在组织你的Dialplan时，这两者之间的区别可能是最令人头痛的，注意，前者是直接的字符串描述
 
-	<code>
 	<condition field="destination_number" blah...> 
-	</code>
 
 而后者使用变量语法
 
-	<code>
 	<condition field="${sip_has_crypto}" blah...>
-	</code>
 
 注意，${....}表示获取一个变量的值。
 
@@ -71,7 +67,6 @@ Context
 
 Contexts是extensions（分机号）的逻辑分组。我们可能会有多个分机号在一个context中。Context需要一个叫‘name’的参数，它的值是any的话表示匹配任何情况。Name是用于表示context的，freeswitch.xml文件中默认包含几个context：
 
-	<code>
 	<?xml version="1.0"?>
 	<document type="freeswitch/xml">
 	  <section name="dialplan" description="Regex/XML Dialplan">
@@ -79,7 +74,6 @@ Contexts是extensions（分机号）的逻辑分组。我们可能会有多个�
 	    </context>
 	  </section>
 	</document>
-	</code>
 
 extension
 --------
@@ -88,7 +82,6 @@ Extension是一个呼叫的目的地，所以它不仅仅表示电话号码，�
 
 如下，添加一个action：‘bridge’，桥接到分机号500：
 
-	<code>
 	<!--- ext 500 -->
 	
 	<extension name="500">   //找号码为500的分机，找到则解析action
@@ -110,19 +103,14 @@ Extension是一个呼叫的目的地，所以它不仅仅表示电话号码，�
 	   </condition>
 	
 	</extension> 
-	</code>
 
 第一行原型如下：
 
-	<code>
 	<extension name="{exten_name}" [continue="[true|false]"]>
-	</code>
 
 第二行表示条件判断：如果有分机的号码是500则继续解析下面的action。
 
-	<code>
 	<condition field="[{field_name}|${variable_name}|${api_func(api_args ${var_name})}]" expression="{expression}" break="[on-true|on-false|always|never]">   //break表示判断后的行为，有以下值：
-	</code>
 
 * On-true：第一次匹配后停止查找
 
@@ -137,7 +125,6 @@ Extension是一个呼叫的目的地，所以它不仅仅表示电话号码，�
 
 gateway是mod_sofia的关键字，表示一个呼叫需要经过一个配置好的网关：
 
-	<code>
 	<extension name="testing"> //当呼叫网关上的号码100
 	
 	  <condition field="destination_number" expression="^(100)$">
@@ -147,14 +134,12 @@ gateway是mod_sofia的关键字，表示一个呼叫需要经过一个配置好�
 	  </condition> //bridge 到网关上
 	
 	</extension>
-	</code>
 
 Condition
 -------
 
 Condition是模式匹配标签，帮助FS决定是否处理对当前extension的呼叫。可以比较的参数有context、rdnis、destination_number、caller_id_name等；filed段和expression段都可以有参数。Field段表示要匹配的对象（目的？上下文。。。），expression段表示要匹配的表达式。下面是一个网关的例子：
 
-	<code>
 	<extension name="To PSTN"> //field域和expression域
 	
 	  <condition field="fdnis" expression="9541231234"/>
@@ -166,7 +151,6 @@ Condition是模式匹配标签，帮助FS决定是否处理对当前extension的
 	   </condition>
 	
 	</extension>
-	</code>
 
 FS注册这个网关来呼叫PSTN上的电话。
 
@@ -215,7 +199,6 @@ Example 1
 
 如下：
 	
-	<code>
 	<extension name="Test1">
 	
 	  <condition field="network_addr" expression="^192\.168\.1\.1$"/>
@@ -227,7 +210,6 @@ Example 1
 	  </condition>
 	
 	</extension>
-	</code>
 
 第一个conditions：当呼叫方的ip是192.168.1.1时，呼叫就会被处理，
 
@@ -235,7 +217,6 @@ Example 1
 
 下面例子是错误的：
 
-	<code>
 	<extension name="Test1Wrong">
 	
 	  <condition field="destination_number" expression="^(\d+)$"/>
@@ -247,13 +228,11 @@ Example 1
 	  </condition>
 	
 	</extension>
-	</code>
 
 因为目的号码的匹配时在不同的conditions域action取不到$1的值。
 
 当然可以定义变量来保存目的号码，如下：
 
-	<code>
 	<extension name="Test1_2">
 	
 	  <condition field="destination_number" expression="^(\d+)$">
@@ -269,7 +248,6 @@ Example 1
 	  </condition>
 	
 	</extension>
-	</code>
 
 注意，在extension内部使用set设置的变量不能用在后续的condition匹配中，因为set的求值是在执行阶段，而condition的匹配要先于set。如果你确实需要根据变量的值来决定执行action，需要在变量被填充值时使用execute_extension或transfer应用。
 
@@ -280,7 +258,6 @@ Example 2
 
 这个例子判断来自固$定ip和由1开头的号码。这里$1表示1后面的数值,$0才表示整个号码:
 
-	<code>
 	<extension name="Test2">
 	
 	  <condition field="network_addr" expression="^192\.168\.1\.1$"/>
@@ -292,14 +269,12 @@ Example 2
 	  </condition>
 	
 	</extension>
-	</code>
 
 Example 3
 --------
 
 接受00开头的号码,把号码交给FS处理时,把00前缀去掉,如接到00123,把123交给FS
 
-	<code>
 	<extension name="Test3.1">
 	
 	  <condition field="destination_number" expression="^00(\d+)$">
@@ -309,7 +284,6 @@ Example 3
 	  </condition>
 	
 	</extension>
-	</code>
 
 这里(\d+)表示数字，任意个，（.+）表示任意个字符
 
@@ -318,7 +292,6 @@ Example 4
 
 接受带前缀的号码,处理时除掉前缀,在给它加上新的前缀.
 
-	<code>
 	<extension name="Test4">
 	
 	  <condition field="destination_number" expression="^00(\d+)$">
@@ -328,14 +301,12 @@ Example 4
 	  </condition>
 	
 	</extension>
-	</code>
 
 Example 5
 --------
 
 这个例子演示profiles的用法,profile是对这段的描述,所以需要需要终端支持才可以配置,如mod_Sofia,sip终端,它的profiles如下：
 
-	<code>
 	<profile name="profile1">
 	
 	  <param name="debug" value="1"/>
@@ -375,11 +346,9 @@ Example 5
 	  <param name="use-rtp-timer" value="true"/>
 	
 	</profile>
-	</code>
 
 这两个profile不同之处在编码选择上，一个g711 ulaw，一个alaw，使用方法如下：
 
-	<code>
 	<extension name="Test5ulaw">
 	
 	  <condition field="network_addr" expression="^192\.168\.1\.1$"/>
@@ -391,7 +360,6 @@ Example 5
 	  </condition>
 	
 	</extension>
-	</code>
 
 在sip\_profile文件夹中包含了internal.xml /external.xml，internal.xml描述内部的终端的属性，如使用5060端口，external.xml描述外部设备属性，如使用5080端口。
 
@@ -401,7 +369,6 @@ Example 6
 
 例举如何桥接一个注册到FS上的设备，例子中，假设已经定义了一个sofia profile ：local_profile，且电话注册到example.com域。
 
-	<code>
 	<extension name="internal">
 	
 	  <condition field="source" expression="mod_sofia" /> //sip 终端
@@ -413,14 +380,12 @@ Example 6
 	  </condition> //把以4开头的sip电话，去掉前缀，转接到example.com域下
 	
 	</extension>    //的电话
-	</code>
 
 Example 7
 --------
 
 这个例子演示当一个action执行失败时如何执行另外的action：
 
-	<code>
 	<extension name="internal">
 	
 	  <condition field="destination_number" expression="^1111">
@@ -436,7 +401,6 @@ Example 7
 	  </condition>
 	
 	</extension>
-	</code>
 
 如果action1成功，则呼叫被转移到example1域下的1111分机，直到挂机。如果action1没有成功，则会继续执行action2. 如果参数hangup\_after\_bridge=false，则被叫挂断，主叫不挂的话，也会继续执行后续的action。
 
@@ -445,7 +409,6 @@ Example 8
 
 例子说明呼叫时如何要求验证：
 
-	<code>
 	<extension name="9191">
 	
 	   <condition field="destination_number" expression="^9191$"/>
@@ -464,7 +427,6 @@ Example 8
 	   </condition>  //播放提示音
 	
 	</extension>
-	</code>
 
 Example 9
 --------
@@ -473,21 +435,19 @@ Example 9
 
 Public.xml:
 
-	<code>
+	<extension name="test_did">
 	
-	   <extension name="test_did">
-	
-	     <condition field="destination_number" expression="^(XXXxxxxxxx)$">
+	  	<condition field="destination_number" expression="^(XXXxxxxxxx)$">
 	
 	       <action application="transfer" data="$1 XML default"/>
 	
-	     </condition>
+	 	</condition>
 	
-	   </extension>
+	</extension>
 
 Default.xml
 
-	     <extension name="Local_Extension">
+	<extension name="Local_Extension">
 	
 	     <condition field="destination_number" expression="^(XXXxxxxxxx)$">
 	
@@ -523,16 +483,13 @@ Default.xml
 	
 	     </condition>
 	
-	   </extension>
-
-	</code>
+	</extension>
 
 Example 10
 --------
 
 把来自1000分机的，10位数字的呼叫，转移到asterlink.com网关上，并且显示主叫为8001231234
 
-	<code>
 	<extension name="asterlink.com">
 	
 	     <condition field="caller_id_number" expression="^1000$"/>
@@ -548,7 +505,6 @@ Example 10
 	     </condition>
 	
 	   </extension>
-	</code>
 
 Example 11
 --------
@@ -561,7 +517,6 @@ NPA identifies the 3-digit Numbering Plan Area (Area Code，3位区号)
 NXX identifies the Central Office (aka. Exchange) within the NPA(交换局号)    
 XXXX identifies the Station within the NXX (交换局内的标志号)
  
-	<code>
 	<extension>
 	
 	  <condition field="network_addr" expression="^(66\.123\.321\.231|70\.221\.221\.221)$" break="on-false"/>
@@ -605,14 +560,12 @@ XXXX identifies the Station within the NXX (交换局内的标志号)
 	  </condition>
 	
 	</extension>
-	</code>
 
 Example 12
 --------
 
 例子说明捕捉错误的分机号和目的地址，要把这个extension放在dialplan底部，但在ENUM被包含之前。
 
-	<code>
 	<extension name="catchall">
 	
 	  <condition field="destination_number" expression=".*" continue="on-true">
@@ -622,14 +575,12 @@ Example 12
 	  </condition>
 	
 	</extension>
-	</code>
 
 Example 13 涮选
 --------
 
 先向主叫请求一个名字，然后连接被叫，念出这个名字，然后等被叫按1接通或者挂机。如果被叫挂机，则连接到语音邮箱。
 
-	<code>
 	<extension name="screen">
 	
 	   <condition field="destination_number" expression="^(\d{4})$">
@@ -666,14 +617,11 @@ Example 13 涮选
 	
 	</extension>
 	
-	</code>
-
 Example 14 录音
 --------
 
 对特定号码的呼叫进行录音，或呼叫特定号码时，播放语音文件。
 
-	<code>
 	     <extension name="recording">
 	
 	       <condition field="destination_number" expression="^(2020)$">
@@ -701,14 +649,12 @@ Example 14 录音
 	       </condition>
 	
 	     </extension>
-	</code>
 
 Example 15 报时
 --------
 
 使用Flite库的TTS功能：
 
-	<code>
 	<include>
 	
 	  <extension name="SpeakTime">
@@ -728,7 +674,6 @@ Example 15 报时
 	  </extension>
 	
 	</include>
-	</code>
 
 SIP呼叫常用的选项组合
 ========
@@ -736,63 +681,45 @@ SIP呼叫常用的选项组合
 呼叫SIP URI
 --------
 
-	<code>
 	sofia/my_profile/1234@192.168.0.1
-	</code>
 
 呼叫注册用户
 --------
 
 域(domain)设置了别名
 
-	<code>
 	sofia/mydomain.com/1234
-	</code> 
  
 域没设别名
 
-	<code>
 	sofia/my_profile/1234%mydomain.com
-	</code>
 
 本地域
 
-	<code>
 	user/1234@mydomain.com
-	</code>
 
 经过网关的呼叫
 --------
 
-	<code>
 	sofia/gateway/mygateway.com/1234
-	</code>
- 
+
 指定传输协议的呼叫
 --------
 
-	<code>
 	sofia/my_profile/1234@192.168.0.1;transport=tcp  //或 udp , TLS..
-	</code>
 
 指定编码的呼叫
 --------
 
-	<code>
 	{absolute_codec_string=XXXX}sofia/my_profile/user@your.domain.com
-	</code>
 
 享受PortAudio的乐趣
 --------
 
 如果你配置了PortAudio并希望在呼叫时指定语音编解码(codec)的话，你需要先呼叫第一个然后桥接到另一个：
 
-	<code>
 	originate {absolute_codec_string=XXXX}sofia/default/foo@bar.com &bridge（portaudio/auto_answer）
-	</code>
 
 或使用inline dialplan(注意inline dialplan是一个单独的拨号计划，不同于上文所述的inline关键字)
 
-	<code>
 	originate {absolute_codec_string=XXXX}sofia/default/foo@bar.com bridge:portaudio/auto_answer inline
-	</code>
