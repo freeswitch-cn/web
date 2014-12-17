@@ -9,7 +9,7 @@ title: 首页
 </div>
 -->
 
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/12/15/freeswitch-peixun-chengdu.html">[FreeSWITCH高级培训2015冬季班（成都站）]</a>（2015年1月17--19日），2014年12月22日开始报名啦！</div>
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/12/15/freeswitch-peixun-chengdu.html">[FreeSWITCH高级培训2014冬季班（成都站）]</a>（2015年1月17--19日），2014年12月22日开始报名啦！</div>
 
 <!--<div style="background-color:blue;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/04/30/ncc-and-freeswitch-salon-2014.html">[下一代呼叫中心与企业通信发展论坛暨FreeSWITCH-CN第三届开发者沙龙]</a>（6月13日）报名 </div>-->
 
