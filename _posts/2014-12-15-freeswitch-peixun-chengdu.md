@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-<strong style="color:red"> 1 月 17 - 19 日，FreeSWITCH高级培训震撼来袭。12月22日上午7:00开始售票。6 折特价票限时一天，速速留意预订！为保证教学质量，培训名额有严格限制。报名地址：[http://fstrainingcd.wanshe.cn](http://fstrainingcd.wanshe.cn)<!--请<a href="http://fstrainingcd.wanshe.cn" target="_blank">尽快到这里报名</a> </strong>。-->
+<strong style="color:red"> 1 月 17 - 19 日，FreeSWITCH高级培训震撼来袭。12月22日上午7:00开始售票。6 折特价票限时一天，速速留意预订！为保证教学质量，培训名额有严格限制。报名地址：[http://fstrainingcd.wanshe.cn](http://fstrainingcd.wanshe.cn)<!--请<a href="http://fstrainingcd.wanshe.cn" target="_blank">尽快到这里报名</a> --></strong>。
 
 ## 送书啦！
 
