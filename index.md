@@ -17,7 +17,7 @@ title: 首页
 
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
 
-FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某些模块中使用了C++，以[MPL1.1](http://www.opensource.org/licenses/mozilla1.1.php)发布。更多的说明请参考[什么是FreeSWITCH?](/2009/11/08/shi-yao-shi-freeswitch.html)和[FreeSWITCH新手指南](/2009/11/08/freeswitch-xin-shou-zhi-nan.html)。
+FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某些模块中使用了C++，以[MPL1.1](http://www.opensource.org/licenses/mozilla1.1.php)发布。更多的说明请参考[什么是FreeSWITCH?](/2009/11/08/shi-yao-shi-freeswitch.html)和[FreeSWITCH新手指南](http://bbs.freeswitch.org.cn/t/freeswitchxin-shou-zhi-nan/46)。
 您也可以阅读这本《[FreeSWITCH权威指南](http://book.dujinfang.com)》。
 
 我们有一个QQ群：190435825 、一个[豆瓣小组](http://www.douban.com/group/239803/)、一个微信公共账号 FreeSWITCH-CN（可以扫描右侧的二维码加入），以及一个[知乎专栏](http://zhuanlan.zhihu.com/freeswitch/19648543)。
