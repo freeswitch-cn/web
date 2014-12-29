@@ -75,12 +75,17 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 <script type="text/javascript" src="/assets/javascripts/libs/jquery-1.7.2.min.js"></script>
 <script type="text/javascript">
     function find_avatar(users, id) {
+        var default_img = "/images/posts/fscn.png";
+
+        if (id == -1) return default_img;
+
         for (var i = 0; i<users.length; i++) {
             if (users[i].id == id) {
                 return users[i].avatar_template.replace("{size}", "64");
             }
         }
-        return "/images/posts/fscn.png";
+
+        return default_img;
     }
 
     $.ajax({
