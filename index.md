@@ -81,7 +81,7 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 
         for (var i = 0; i<users.length; i++) {
             if (users[i].id == id) {
-                return users[i].avatar_template.replace("{size}", "64");
+                return 'http://bbs.freeswitch.org.cn/' + users[i].avatar_template.replace("{size}", "64");
             }
         }
 
@@ -98,7 +98,7 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
                 // console.log(img);
                 item = '<li class="post_list">' +
                         '<div style="float:left;margin-right:5px;">' +
-                        '<img src="http://bbs.freeswitch.org.cn/' + img + '"/>' +
+                        '<img src="' + img + '"/>' +
                         '<br><span>' + topic.last_posted_at.substring(0,10) +
                         '</span></div>' +
                         '<a target="bbs" href="http://bbs.freeswitch.org.cn/t/' +
