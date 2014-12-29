@@ -27,12 +27,21 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 欢迎加入 Google Groups [FreeSWITCH-CN 邮件列表](/2014/09/16/google-groups.html)，也欢迎到[知乎](http://zhihu.com)上提问。
 <br>
 
-# 最新文章
+# BBS最新帖
 
 <div>
 
+<ul class="posts" id="bbs">
+</ul>
+
+<br style="clear:both">
+<hr>
+<h1>本站最新文章</h1>
+
 <ul class="posts">
-  {% for post in site.posts limit:32 %}
+
+
+  {% for post in site.posts limit:20 %}
     <li class="post_list">
         <div style="float:left;margin-right:5px;">
         {% if post.image %}
@@ -62,3 +71,36 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 </div>
 
 <br style="clear:both"/>
+
+<script type="text/javascript" src="/assets/javascripts/libs/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+    function find_avatar(users, id) {
+        for (var i = 0; i<users.length; i++) {
+            if (users[i].id == id) {
+                return users[i].avatar_template.replace("{size}", "64");
+            }
+        }
+        return "/images/posts/fscn.png";
+    }
+
+    $.ajax({
+        dataType: 'json',
+        url: "http://bbs.freeswitch.org.cn/latest.json",
+        success: function(json){
+            console.log(json);
+            $.each(json.topic_list.topics, function(i, topic) {
+                var img = find_avatar(json.users, topic.posters[0].user_id);
+                // console.log(img);
+                item = '<li class="post_list">' +
+                        '<div style="float:left;margin-right:5px;">' +
+                        '<img src="http://bbs.freeswitch.org.cn/' + img + '"/>' +
+                        '<br><span>' + topic.last_posted_at.substring(0,10) +
+                        '</span></div>' +
+                        '<a target="bbs" href="http://bbs.freeswitch.org.cn/t/' +
+                        topic.slug + '">' + topic.fancy_title.substring(0, 54) + '</a></li>';
+                $('#bbs').append(item);
+            })
+        }}
+    )
+
+</script>
