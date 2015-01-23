@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-<strong style="color:red">2015年 1 月 17 - 19 日，FreeSWITCH高级培训震撼来袭。培训进行中……<!--请<a href="http://fstrainingcd.wanshe.cn" target="_blank">尽快到这里报名</a> --></strong>
+<!--<strong style="color:red">2015年 1 月 17 - 19 日，FreeSWITCH高级培训震撼来袭。培训进行中……请<a href="http://fstrainingcd.wanshe.cn" target="_blank">尽快到这里报名</a> </strong>-->
 
 ## 送书啦！
 
