@@ -41,8 +41,8 @@ tags:
 <p><img src="/images/fscnds2015/images_training/IMG_4333.JPG"  /></p>
 <div style="text-align: center">我可以上台发言喽！</div>
 <p><img src="/images/fscnds2015/images_training/IMG_4349.JPG"  /></p>
-<div style="left-align: 50px">哈哈，我也不落后！</div>
-<p><img src="/images/fscnds2014/images_training/IMG_4336.JPG"  /></p>
+<div style="text-align: center">哈哈，我也不落后！</div>
+<p><img src="/images/fscnds2015/images_training/IMG_4336.JPG"  /></p>
 <div style="text-align: center">一个人讲没意思，来来来，看我的！</div>
 <p><img src="/images/fscnds2015/images_training/IMG_4337.JPG"  /></p>
 <div style="text-align: center">不错，有意思</div>
