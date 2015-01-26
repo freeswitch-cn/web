@@ -28,6 +28,7 @@ layout: default
 * 信息所得收入1/3捐给FreeSWITCH官方社区，支持FreeSWITCH越做越好，其它作为管理费。
 * 联系我们 Email: freeswitch-cn .a.t. freeswitch.org.cn
 
+<br/>
 # 招聘信息
 
 [上海米领通信技术有限公司](http://www.microlink.im)
@@ -60,5 +61,5 @@ layout: default
 
 **联系方式：**QQ.7519927
 
-标准五险一金 \ 轻松办公环境 \ 人性化的考勤
+**待遇：**标准五险一金 \ 轻松办公环境 \ 人性化的考勤
 
