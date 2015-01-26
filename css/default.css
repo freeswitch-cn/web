@@ -356,3 +356,15 @@ pre span.string { color: #DD00DD; }
 pre span.symbol { color: #008B8B; }
 
 img {max-width:720px;}
+
+/* set image max width to 100% */
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
+/* set html5 elements to block */
+article, aside, footer, header, menu, nav, section { 
+    display: block;
+}

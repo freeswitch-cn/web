@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_new
 title: 首页
 ---
 
