@@ -8,9 +8,9 @@ tags:
 
 # {{ page.title }}
 
-<div class="tags">
+<!--<div class="tags">
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
-</div>
+</div>-->
 
 
 FreeSWITCH 1.0.5 将在美国时间11月10日发布。与上一个版本相比，该版本又增加了许多新的特性，并修复了很多BUG。详情参见：
