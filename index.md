@@ -24,6 +24,13 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 
 有条件的同学，也欢迎加入 Google Groups [FreeSWITCH-CN 邮件列表](/2014/09/16/google-groups.html)。
 <br>
+# 最新招聘
+
+<ul class="posts">
+    <li class="post_list"><a href="/jobs.html">上海米领通信技术有限公司</a></li>
+</ul>
+
+<br style="clear:both">
 
 # BBS最新帖
 
