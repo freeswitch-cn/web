@@ -19,7 +19,7 @@ layout: default
 
 * 负责基于FreeSWITCH的通讯平台服务器功能开发；
 * 熟悉SIP协议；
-* 熟悉VOIP防火墙穿透方法；
+* 熟悉VoIP防火墙穿透方法；
 * 熟悉FreeSWITCH、Asterisk等开源软交换系统；
 * 熟悉VP8、H.264等视频相关技术；
 * 有大型分布式高性能网络通信服务器端程序开发经验者优先。
