@@ -47,7 +47,8 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 
 
   {% for post in site.posts limit:20 %}
-    <li class="post_list">
+
+    <li class="post_list" class="post-{{ post.date }}">
         <div style="float:left;margin-right:5px;">
         {% if post.image %}
         <img src="/images/posts/t-{{ post.image }}"/>
