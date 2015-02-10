@@ -4,6 +4,7 @@ title: "FreeSWITCH-CN中文社区2013第二届开发者沙龙圆满成功"
 image: "IMG_3703.jpg"
 tags:
   - "会议"
+category: salon
 ---
 
 <style type="text/css">

@@ -4,6 +4,7 @@ title: "FreeSWITCH高手速成培训2014秋季班（深圳站）"
 image: "1120.jpg"
 tags:
   - "培训"
+category: training
 ---
 
 # {{ page.title }}

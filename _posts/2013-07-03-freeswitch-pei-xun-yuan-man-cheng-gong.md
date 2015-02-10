@@ -4,6 +4,7 @@ title: "FreeSWITCH培训2013圆满成功"
 image: "IMG_1373.jpg"
 tags:
   - "培训"
+category: training
 ---
 
 # {{ page.title }}
