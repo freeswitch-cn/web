@@ -14,10 +14,9 @@ FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作�
         <div class="separator">
 	    <h1>最新培训</h1>
 	</div>
-	<div class="row">
-	{% for category_tra in site.categories limit:10 %}
+	{% for category_tra in site.categories %}
 	    {% if category_tra[0] == 'training' %}
-	        {% for cate in category_tra.last %}
+	        {% for cate in category_tra.last limit:4 %}
        	    	<div class="plate">
 			<div style="float:left;margin-right:5px;">
       			{% if cate.image %}
@@ -38,18 +37,17 @@ FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作�
 	   	{% endfor %}
 	    {% endif %}
     	{% endfor %}
-	</div> <!--row-->
 
-	<!--<div class="plate">
+	<div class="plate">
         	<div style="float:left;margin-right:5px;">
                     <img src="/images/posts/fscn.png"/>
                     <br>
-                    <span>...</span>
+                    <!--<span>...</span>-->
                	</div>
                	<br>
                	<br>
                	<a href="/posts.html">更多文章...</a>
-	</div>-->
+	</div>
 
 </ul>	
 
@@ -60,10 +58,9 @@ FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作�
         <div class="separator">
             <h1>最新沙龙</h1>
         </div>
-        <div class="row">
-	{% for category_salon in site.categories limit:10 %}
+	{% for category_salon in site.categories %}
 	    {% if category_salon[0] == 'salon' %}
-                {% for cat in category_salon.last %}
+                {% for cat in category_salon.last limit:4 %}
 		<div class="plate">
 			<div style="float:left;margin-right:5px;">
                         {% if cat.image %}
@@ -84,17 +81,16 @@ FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作�
 	        {% endfor %}
 	    {% endif %}
 	{% endfor %}
-	</div> <!--row-->
      	    
-	<!--<div class="plate">
+	<div class="plate">
 		<div style="float:left;margin-right:5px;">
                 	<img src="/images/posts/fscn.png"/>
                   	<br>
-                  	<span>...</span>
+                  	<!--<span>...</span>-->
                </div>
                <br>
                <br>
                <a href="/posts.html">更多文章...</a>
-	</div>-->
+	</div>
         
 </ul>
