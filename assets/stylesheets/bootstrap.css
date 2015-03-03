@@ -4962,25 +4962,17 @@ a.badge:hover {
 .separator {
   text-align: center;
   border-top: 2px solid #eee;
-  margin: 30px 0 30px -25px;
+  margin: 30px 0 30px -30px;
   letter-spacing: 1px;
 }
 
-.separator h1 {
+.separator h2 {
   position: relative;
   top: -20px;
   display: inline-block;
   padding: 0 1em;
   background-color: #fff;
   font-weight: 500;
-}
-
-.plate {
-  float: left;
-  width: 50%;
-  position: relative;
-  min-height: 1px;
-  padding: 0 15px 40px;
 }
 
 *, *:before, *:after {

@@ -5,7 +5,6 @@ image: "freeswitch-cd.jpg"
 tags:
   - "培训"
 category: training
-abstract: ""
 ---
 
 # {{ page.title }}
