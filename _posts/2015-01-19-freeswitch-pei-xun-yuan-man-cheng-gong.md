@@ -5,7 +5,6 @@ image: "0117.jpg"
 tags:
   - "培训"
 category: training
-abstract: ""
 ---
 
 # {{ page.title }}

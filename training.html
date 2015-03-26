@@ -1,23 +1,22 @@
 ---
-layout: default
+layout: training 
+title: 培训
 ---
 
-FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作环境以及步步提升的服务质量等.我们致力于将这一开源平台让更多的人熟
-知，让从事VoIP的行业人员受益.
+FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作环境以及步步提升的服务质量等。我们致力于将这一开源平台让更多的人熟
+知，让从事VoIP的行业人员受益。
 
 <br>
 <br style="clear:both">
-<!--<hr>
-<h1>最新培训</h1>-->
 
 <ul class="posts">
         <div class="separator">
-	    <h1>最新培训</h1>
+	    <h2>最新培训</h2>
 	</div>
 	{% for category_tra in site.categories %}
 	    {% if category_tra[0] == 'training' %}
-	        {% for cate in category_tra.last limit:4 %}
-       	    	<div class="plate">
+	        {% for cate in category_tra.last limit:15 %}
+       	    	<li class="post_list">
 			<div style="float:left;margin-right:5px;">
       			{% if cate.image %}
        			<img src="/images/posts/t-{{ cate.image }}"/>
@@ -25,29 +24,24 @@ FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作�
        			<img src="/images/posts/fscn.png"/>
        			{% endif %}
        			<br>
-       			<!--<span>{{ cate.date | date: "%Y-%m-%d" }}</span>-->
+       			<span>{{ cate.date | date: "%Y-%m-%d" }}</span>
        			</div>
-			{% if cate.url %}
        			<a href="{{ cate.url }}">{{ cate.title | truncate: "54"}}</a>
-			<br>
-			<br>
-			<span>{{ cate.abstract }}</span>
-			{% endif %}
-    	    	</div>
+    	    	</li>
 	   	{% endfor %}
 	    {% endif %}
     	{% endfor %}
 
-	<div class="plate">
+	<!--<li class="post_list">
         	<div style="float:left;margin-right:5px;">
                     <img src="/images/posts/fscn.png"/>
                     <br>
-                    <!--<span>...</span>-->
+                    <span>...</span>
                	</div>
                	<br>
                	<br>
-               	<a href="/posts.html">更多文章...</a>
-	</div>
+               	<a href="/tags.html#{{ "培训" }}">更多文章...</a>
+	</li>-->
 
 </ul>	
 
@@ -56,12 +50,12 @@ FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作�
 <br>
 <ul class="posts">
         <div class="separator">
-            <h1>最新沙龙</h1>
+            <h2>最新沙龙</h2>
         </div>
 	{% for category_salon in site.categories %}
 	    {% if category_salon[0] == 'salon' %}
-                {% for cat in category_salon.last limit:4 %}
-		<div class="plate">
+                {% for cat in category_salon.last limit:15 %}
+		<li class="post_list">
 			<div style="float:left;margin-right:5px;">
                         {% if cat.image %}
                         <img src="/images/posts/t-{{ cat.image }}"/>
@@ -69,28 +63,13 @@ FreeSWITCH培训中心，这里有最具专业的授课老师，齐全的操作�
                         <img src="/images/posts/fscn.png"/>
                         {% endif %}
                         <br>
-                        <!--<span>{{ cat.date | date: "%Y-%m-%d" }}</span>-->
+                        <span>{{ cat.date | date: "%Y-%m-%d" }}</span>
                         </div>
-                        {% if cat.url %}
                         <a href="{{ cat.url }}">{{ cat.title | truncate: "54"}}</a>
-                        <br>
-                        <br>
-                        <span>{{ cat.abstract }}</span>
-                        {% endif %}
-		</div>
+		</li>
 	        {% endfor %}
 	    {% endif %}
 	{% endfor %}
-     	    
-	<div class="plate">
-		<div style="float:left;margin-right:5px;">
-                	<img src="/images/posts/fscn.png"/>
-                  	<br>
-                  	<!--<span>...</span>-->
-               </div>
-               <br>
-               <br>
-               <a href="/posts.html">更多文章...</a>
-	</div>
         
 </ul>
+
