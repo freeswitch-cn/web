@@ -27,8 +27,8 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 # 最新招聘
 
 <ul class="posts">
-    <li class="post_list"><a href="/jobs.html">上海航动科技有限公司</a></li>
-    <li class="post_list"><a href="/jobs.html">上海米领通信技术有限公司</a></li>
+    <li class="post_list"><a href="/jobs.html#npnets">上海航动科技有限公司</a></li>
+    <li class="post_list"><a href="/jobs.html#microlink">上海米领通信技术有限公司</a></li>
 </ul>
 
 <br style="clear:both">
