@@ -5,7 +5,6 @@ tags:
   - "会议"
   - "沙龙"
   - "新闻"
-category: salon
 ---
 
 # {{ page.title }}

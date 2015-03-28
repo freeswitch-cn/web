@@ -3,7 +3,6 @@ layout: post
 title: "FreeSWITCH中级培训"
 tags:
   - "培训"
-category: training
 ---
 
 # {{ page.title }}

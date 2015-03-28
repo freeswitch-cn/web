@@ -3,7 +3,6 @@ layout: post
 title: "FreeSWITCH高手速成培训2014夏季班（北京站）"
 tags:
   - "培训"
-category: training
 ---
 
 # {{ page.title }}

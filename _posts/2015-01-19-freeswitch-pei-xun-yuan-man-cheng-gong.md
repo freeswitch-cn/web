@@ -4,7 +4,6 @@ title: "FreeSWITCH高级培训2014冬季班（成都站）圆满结束"
 image: "0117.jpg"
 tags:
   - "培训"
-category: training
 ---
 
 # {{ page.title }}

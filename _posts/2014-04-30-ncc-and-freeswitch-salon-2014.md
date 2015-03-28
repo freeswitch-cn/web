@@ -7,7 +7,6 @@ tags:
   - "论坛"
   - "沙龙"
   - "会议"
-category: salon
 ---
 
 # {{ page.title }}
