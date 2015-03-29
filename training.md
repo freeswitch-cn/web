@@ -3,7 +3,7 @@ layout: training
 title: 培训
 ---
 
-<div style="text-align:center;font-size:4em">
+<div style="text-align:center;font-size:4em;line-height:1.2em">
 <hr>
 FreeSWITCH培训
 <hr>
