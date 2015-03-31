@@ -21,8 +21,7 @@ FreeSWITCH培训课程主要分两大类：
 <div class="separator"><h2>即将到来的培训</h2></div>
 
 <div style="text-align:center">
-  <a href='#' style="margin:2px" onclick="alert('很快就可以报名了，感谢关注...');return false;"><img src="/images/training/freeswitch-t7.png"></a>
-  <!-- <a href='/2015/03/28/freeswitch-training-2015-sh.html' style="margin:2px"><img src="/images/training/freeswitch-t7.png"></a> -->
+  <a href='/2015/03/28/freeswitch-training-2015-sh.html' style="margin:2px"><img src="/images/training/freeswitch-t7.png"></a>
   <a href='#' style="margin:2px" onclick="alert('计划9月份，敬请期待...');return false;"><img src="/images/training/freeswitch-t8.png"></a>
   <a href='#' style="margin:2px" onclick="alert('计划12月份，敬请期待...');return false;"><img src="/images/training/freeswitch-t9.png"></a>
   <a href='#' style="margin:2px" onclick="alert('感谢关注，敬请期待...');return false;"><img src="/images/training/freeswitch-t0.png"></a>
