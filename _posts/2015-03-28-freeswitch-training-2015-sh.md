@@ -12,7 +12,7 @@ tags:
 </div>
 
 
-<!--<strong style="color:red">2015年 1 月 17 - 19 日，FreeSWITCH高级培训震撼来袭。培训进行中……请<a href="http://fstrainingcd.wanshe.cn" target="_blank">尽快到这里报名</a> </strong>-->
+<strong style="color:red">2015年 4 月 19 - 21 日，FreeSWITCH高手速成培训震撼来袭。4月9日开始报名，届时请<a href="http://fstrainingcd.wanshe.cn" target="_blank">点这里报名</a> </strong>。
 
 
 凡是报名参加此次培训的学员，均可免费获得由杜金房著《FreeSWITCH权威指南》一本，我们会在您支付学费后的一周内寄出此书。
@@ -92,7 +92,7 @@ tags:
 * 培训第一天的签到时间是上午9:00
 * 学员可携带个人电脑，以便进行实战练习。
 * 请自行安装FreeSWITCH（各种版本都可以），以节约时间。
-* 周六晚上杜老师跟全体学员共进晚餐，提前安排时间，如向家里的领导请假等。
+* 周三晚上杜老师跟全体学员共进晚餐，提前安排时间，如向家里的领导请假等。
 * 如果你在线上支付有问题，请与我们联系。
 * 如有素食主义、宗教或其它原因忌口的学员，请及时告知联系人，以便做好提前准备。
 
