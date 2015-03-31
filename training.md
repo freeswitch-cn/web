@@ -50,6 +50,8 @@ FreeSWITCH培训课程主要分两大类：
   <a href='/2014/04/21/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="/images/training/freeswitch-fst1401.png"></a>
   <a href='/2013/07/03/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="/images/training/freeswitch-t2.png"></a>
   <a href='/2013/07/03/freeswitch-pei-xun-yuan-man-cheng-gong.html' style="margin:2px"><img src="/images/training/freeswitch-t1.png"></a>
+  <a href='/student.html' title="点击查看分布详情" style="margin:2px"><img src="/images/student-distribution.png"></a>
 </div>
+
 <br>
 <br style="clear:both">
