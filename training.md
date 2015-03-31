@@ -57,7 +57,7 @@ FreeSWITCH培训课程主要分两大类：
 <div style="text-align:center">
 
   <div style="font-size:2em">
-    <a href="/student.html" target="_blank"> 点击查看分布详情 </a>
+    <a href="/student.html" target="_blank">点击查看分布详情 &nbsp;&nbsp;</a>
   </div>
 
   <br>
