@@ -91,6 +91,9 @@ layout: default
 **待遇：**标准五险一金 \ 轻松办公环境 \ 人性化的考勤
 
 <hr>
+
+更多求职招聘信息，请访问[BBS上的求职招聘版块](http://bbs.freeswitch.org.cn/c/freeswitchqiu-zhi-zhao-pin) （需注册登录，不收费）。
+
 <hr>
 
 本页面为FreeSWITCH相关的职位信息。给广大用人企业提供一个信息发布平台。
