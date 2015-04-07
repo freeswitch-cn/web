@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FreeSWITCH高手速成培训2015夏季班（上海站）"
+image: "training.png"
 tags:
   - "培训"
 ---
@@ -20,6 +21,11 @@ tags:
 如果我们把书寄到您手上，而您又取消报名，此书不支持退回，我们会在您的学费里扣除100元的书费，再按退款政策给您退费。
 
 <br><br>
+
+<img src="/images/training/freeswitch-t7.png">
+
+<br><br>
+
 
 ## 培训大纲：
 
