@@ -28,6 +28,24 @@ tags:
 
 不说了，上图：
 
+<p><img src="/images/fscnds2015/images_training/IMG_20150519_122824.jpg"  /></p>
+<div style="text-align: center">上海站海报</div>
+<p><img src="/images/fscnds2015/images_training/IMG_20150519_131913.jpg"  /></p>
+<div style="text-align: center">培训现场</div>
+<p><img src="/images/fscnds2015/images_training/IMG_20150520_170554.jpg"  /></p>
+<div style="text-align: center">深圳潮流代理商介绍他们的产品</div>
+<p><img src="/images/fscnds2015/images_training/IMG_20150519_131705.jpg"  /></p>
+<div style="text-align: center">现场讲解指导学员</div>
+<p><img src="/images/fscnds2015/images_training/IMG_20150519_131728.jpg"  /></p>
+<div style="text-align: center">口渴了，拿杯水喝！</div>
+<p><img src="/images/fscnds2015/images_training/IMG_20150520_170554.jpg"  /></p>
+<div style="text-align: center">学员自由发挥</div>
+<p><img src="/images/fscnds2015/images_training/IMG_20150520_121048.jpg"  /></p>
+<div style="text-align: center">来个毕业照</div>
+<p><img src="/images/fscnds2015/images_training/IMG_20150520_182017.jpg"  /></p>
+<div style="text-align: center">啤的，白的全都有！</div>
+<p><img src="/images/fscnds2015/images_training/IMG_20150520_203628.jpg"  /></p>
+<div style="text-align: center">发言，请拿酒！</div>
 
 
 
