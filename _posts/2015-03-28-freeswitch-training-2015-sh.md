@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-<strong style="color:red">2015年 5 月 19 - 21 日，FreeSWITCH高手速成培训震撼来袭。4月9日开始报名，限时优惠一天，请速<a href="http://fst1505.vasee.com" target="_blank">到这里报名</a> </strong>。
+<strong style="color:red">2015年 5 月 19 - 21 日，FreeSWITCH高手速成培训震撼来袭，报名已结束</strong>。
 
 
 凡是报名参加此次培训的学员，均可免费获得由杜金房著《FreeSWITCH权威指南》一本，我们会在您支付学费后的一周内寄出此书。
