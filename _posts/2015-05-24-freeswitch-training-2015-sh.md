@@ -40,7 +40,7 @@ tags:
 <div style="text-align: center">现场讲解指导学员</div>
 <p><img src="/images/fscnds2015/images_training/IMG_20150519_131728.jpg"  /></p>
 <div style="text-align: center">口渴了，拿杯水喝！</div>
-<p><img src="/images/fscnds2015/images_training/IMG_20150520_170554.jpg"  /></p>
+<p><img src="/images/fscnds2015/images_training/IMG_20150520_171048.jpg"  /></p>
 <div style="text-align: center">学员自由发挥</div>
 <p><img src="/images/fscnds2015/images_training/IMG_20150520_121048.jpg"  /></p>
 <div style="text-align: center">来个毕业照</div>
