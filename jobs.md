@@ -178,6 +178,5 @@ layout: default
 
 * 所有招聘单位都需要经过人工审核，信息由本站统一发布
 * **¥/Y**符号代表出价高低
-* 信息所得收入1/3捐给FreeSWITCH官方社区，支持FreeSWITCH越做越好，其它作为管理费。
 * 联系我们 Email: freeswitch-cn .a.t. freeswitch.org.cn
 
