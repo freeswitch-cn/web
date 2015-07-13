@@ -41,6 +41,8 @@ tags:
 
 **特别提示**：
 
+**您可以买到本书的电子版**，见 <https://selfstore.io/products/417> 。
+
 **本书的纸质版更名为《FreeSWITCH权威指南》，已出版，请访问 <http://book.dujinfang.com> 获取更多信息。**
 
 目录
