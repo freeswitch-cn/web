@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FreeSWITCH高手速成培训2015秋季班（北京站）"
-image: "training.png"
+image: "freeswitch-t8.png"
 tags:
   - "培训"
 ---
