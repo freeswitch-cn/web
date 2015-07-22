@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FreeSWITCH高手速成培训2015冬季班（烟台站）"
-image: "training.png"
+image: "freeswitch-t9.png"
 tags:
   - "培训"
 ---
