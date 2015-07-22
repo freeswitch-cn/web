@@ -104,7 +104,7 @@ tags:
 
 ## 报名方式：
 
-[手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版一](http://detail.koudaitong.com/show/goods?alias=i6ypaq4r&activity=) | [PC版二](http://t.cn/RL5EoW6)
+[手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://t.cn/RL5EoW6)
 
 ## 培训地址：
 
