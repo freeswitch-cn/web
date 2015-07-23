@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-<strong style="color:red">2015年9月北京站，FreeSWITCH高手速成培训震撼来袭</strong>。 [我要报名!"](#register")
+<strong style="color:red">2015年9月北京站，FreeSWITCH高手速成培训震撼来袭</strong>。 [我要报名!](#register")
 
 凡是报名参加此次培训的学员，均可免费获得由杜金房著《FreeSWITCH权威指南》一本，我们会在您支付学费后的一周内寄出此书。
 
