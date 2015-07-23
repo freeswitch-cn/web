@@ -13,8 +13,7 @@ tags:
 </div>
 
 
-<strong style="color:red">2015年9月北京站，FreeSWITCH高手速成培训震撼来袭</strong>。
-
+<strong style="color:red">2015年9月北京站，FreeSWITCH高手速成培训震撼来袭</strong>。 [我要报名!"](#register")
 
 凡是报名参加此次培训的学员，均可免费获得由杜金房著《FreeSWITCH权威指南》一本，我们会在您支付学费后的一周内寄出此书。
 
@@ -30,7 +29,7 @@ tags:
 ## 培训大纲：
 
 - 第一天，9月12日：
-    
+
     FreeSWITCH基础知识和基本概念
 
     FreeSWITCH高级配置实例
@@ -42,13 +41,13 @@ tags:
     WebRTC
 
 - 第二天，9月13日：
-    
+
     视频转码和会议
 
     Lua、Javascript开发
 
     HTTP开发
-    
+
     ESL开发
 
     学员成功经验及案例分享
@@ -58,7 +57,7 @@ tags:
     晚上：Party (主办方提供)
 
 - 第三天，9月14日：
-    
+
     ESL开发，接口设计，用inbound还是outbound，性能评测，瓶颈在哪里（需要C语言或Java等语言基础）
 
     呼叫中心应用开发设计与实现
@@ -66,7 +65,7 @@ tags:
     FreeSWITCH应用之 指挥调度实战专场（主讲人：赵志宇）
 
     新一代移动智能指挥调度                --机遇篇；
-    
+
     FreeSWITCH与调度机的相识相知   --互联篇
 
     FreeSWITCH与调度机的恩恩怨怨   --痛点篇
@@ -102,9 +101,14 @@ tags:
 
 凡以前参加过FreeSWITCH培训的学员，再次参加本次培训，向联系人申请优惠码，可享受 6 折优惠。
 
+<a name="register"/></a>
+<br>
+<br>
+<br>
+
 ## 报名方式：
 
-[手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://t.cn/RL5EoW6)
+请选择适合您的报名方式： [手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://t.cn/RL5EoW6)
 
 ## 培训地址：
 
@@ -151,11 +155,11 @@ tags:
 
 手机：18210273894
 
-固定电话：010-88445020 转819 
+固定电话：010-88445020 转819
 
-邮箱：freeswitch@x-y-t.cn  
+邮箱：freeswitch@x-y-t.cn
 
-QQ：419304041 
+QQ：419304041
 
 微信公众平台：FreeSWITCH-CN
 
