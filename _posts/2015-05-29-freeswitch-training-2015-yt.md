@@ -23,7 +23,7 @@ tags:
 
 ## 报名参加
 
-培训定于2015年12月4-6日份，具体地点待定（烟台市区）。报名地址如下：
+培训定于2015年12月4-6日，具体地点待定（烟台市区）。报名地址如下：
 
 [手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://detail.koudaitong.com/show/goods?alias=i6ypaq4r&activity=) 
 
@@ -33,6 +33,7 @@ tags:
     FreeSWITCH基本功能
     FreeSWITCH基础架构
     SIP与RTP高级分析
+    WebRTC
 
     12.5
     FreeSWITCH源代码分析（核心部分）
