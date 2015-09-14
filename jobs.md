@@ -8,6 +8,10 @@ layout: default
 求职招聘信息采用竞价排名的方式，出价高者排在上面。排名靠前者不一定代表公司实力，但如果有公司愿意出钱刊登信息，我们是不是会觉得比一些小小的野广告靠谱那么一点点呢？……
 
 <br>
+求职者在给用人单位发送简历前请注明来自FreeSWITCH-CN。
+<br>
+
+<br>
 <a name="npnets"> </a>
 <br>
 <br>
@@ -148,6 +152,43 @@ layout: default
 
 **联系方式：** hr.it@meituan.com
 
+<br>
+<a name="yunqitong"> </a>
+<br>
+<br>
+<hr>
+## [北京云企通科技有限公司](http://www.yunqitong.cn/) ¥
+<hr>
+
+
+北京云企通科技有限公司是一个创业公司，公司核心团队全部来自于华为公司高管。公司主业是面向企业的移动通信和移动办公的融合，和三大运营商及某上市公司合作运营。
+
+**OpenSIPS开发工程师**
+
+负责OpenSIPS集群的设计、呼叫逻辑与模块开发、排错等，指导运维工程师工作。
+
+两年以上OpenSIPS使用经验，熟悉SIP，熟悉网络协议。
+
+* 熟悉Kamailio者优先
+* 能独立开发OpenSIPS模块者优先
+* 熟悉FreeSWITCH和Asterisk者优先
+* 有OpenSIPS高并发应用使用和优化经验者优先
+* 有HA经验者优先
+
+**FreeSWITCH开发工程师**
+
+两年以上FreeSWITCH相关开发经验，熟练使用Linux、熟悉C/C++，熟悉网络协议。
+
+* 熟悉OpenSIPS、Kamailio者优先
+* 熟悉Asterisk者优先
+* 熟悉IMS、熟悉华为、中兴等设备者优先
+* 有高并发应用使用和优化经验者优先
+
+**联系方式：**
+
+曹阳 18910091919 caoyang@yunqitong.cn
+
+地址，北京海淀区莲花池东路31号中裕写字楼A603
 
 <hr>
 
