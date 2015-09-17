@@ -15,9 +15,9 @@ title: 首页
 
 <!--<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2014/09/15/freeswitch-peixun-shenzhen.html">[FreeSWITCH高手速成培训2014秋季班（深圳站）]</a>（11月20--22日）火热报名中 ...</div>-->
 
-<div style="background-color:blue;color:yellow;padding:5px;text-align:center"><a style="color:white" href="fscnds-2015.html">[FreeSWITCH-CN第四届开发者沙龙]</a>（9月11日）报名 </div>
+<div style="background-color:blue;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/09/17/FSDNDS-2015.html">[FreeSWITCH-CN第四届开发者沙龙]</a>圆满成功 </div>
 
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-bj.html">[FreeSWITCH高手速成培训2015秋季班（北京站）]</a>（9月12--14日）火热报名中 ...</div>
+<!-- <div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-bj.html">[FreeSWITCH高手速成培训2015秋季班（北京站）]</a>（9月12--14日）火热报名中 ...</div> -->
 
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
 
@@ -41,10 +41,6 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 
 # BBS最新帖
 
-<div style="background-color:blue;color:yellow;padding:5px;text-align:center"><a style="color:white" href="fscnds-2015.html">[FreeSWITCH-CN第四届开发者沙龙]</a>（9月11日）报名 </div>
-
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-bj.html">[FreeSWITCH高手速成培训2015秋季班（北京站）]</a>（9月12--14日）火热报名中 ...</div>
-
 <div>
 
 <ul class="posts" id="bbs">
@@ -54,10 +50,6 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 <hr>
 <h1>本站最新文章</h1>
 
-<div style="background-color:blue;color:yellow;padding:5px;text-align:center"><a style="color:white" href="fscnds-2015.html">[FreeSWITCH-CN第四届开发者沙龙]</a>（9月11日）报名 </div>
-
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-bj.html">[FreeSWITCH高手速成培训2015秋季班（北京站）]</a>（9月12--14日）火热报名中 ...</div>
-<br>
 
 <ul class="posts">
 
