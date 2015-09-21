@@ -25,7 +25,7 @@ tags:
 
 培训定于2015年12月4-6日，具体地点待定（烟台市区）。报名地址如下：
 
-[手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://detail.koudaitong.com/show/goods?alias=i6ypaq4r&activity=) 
+[手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://t.cn/RyJ2hKH) 
 
 ## 培训内容
 
