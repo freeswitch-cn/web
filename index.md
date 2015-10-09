@@ -48,11 +48,9 @@ FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某
 
 <ul class="posts" id="bbs">
 </ul>
-
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-yt.html">[FreeSWITCH高手速成培训2015冬季班（烟台站）]</a>（12月4--6日）火热报名中 ...</div>
-
 <br style="clear:both">
 <hr>
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-yt.html">[FreeSWITCH高手速成培训2015冬季班（烟台站）]</a>（12月4--6日）火热报名中 ...</div>
 <h1>本站最新文章</h1>
 
 
