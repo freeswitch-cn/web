@@ -25,7 +25,7 @@ tags:
 
 培训定于2015年12月4-6日，具体地点待定（烟台市区）。报名地址如下：
 
-[手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://t.cn/RyJ2hKH) 
+[手机版](http://wap.koudaitong.com/v2/showcase/goods?alias=i6ypaq4r) | [PC版](http://t.cn/RyJ2hKH)
 
 ## 培训内容
 
@@ -108,11 +108,11 @@ A: 我们非常愿意把FreeSWITCH培训常态化。但是，组织一场培训�
 
 ## 联系方式
 
-手机：18210273894 景朝阳
+手机：18810556995 李洋
 
 邮箱：freeswitch@x-y-t.cn
 
-QQ：419304041
+QQ：754675782
 
 微信公众平台：FreeSWITCH-CN
 
