@@ -38,6 +38,7 @@ QQ群：190435825（已满）、QQ群2：487681577、[BBS](http://bbs.freeswitch
     <li class="post_list"><a href="/jobs.html#microlink">上海米领通信技术有限公司</a></li>
     <li class="post_list"><a href="/jobs.html#meituan">美团网</a></li>
     <li class="post_list"><a href="/jobs.html#yunqitong">北京云企通</a></li>
+    <li class="post_list"><a href="/jobs.html#fanzai">深圳市泛在联通科技有限公司</a></li>
 </ul>
 
 <br style="clear:both">
