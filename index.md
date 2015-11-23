@@ -19,7 +19,7 @@ title: 首页
 
 <!-- <div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-bj.html">[FreeSWITCH高手速成培训2015秋季班（北京站）]</a>（9月12--14日）火热报名中 ...</div> -->
 
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-yt.html">[FreeSWITCH高手速成培训2015冬季班（烟台站）]</a>（12月4--6日）火热报名中 ...</div>
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-yt.html">[FreeSWITCH高端培训2015冬季班（烟台站）]</a>（12月4--6日）火热报名中 ...</div>
 
 
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
@@ -52,7 +52,7 @@ QQ群：190435825（已满）、QQ群2：487681577、[BBS](http://bbs.freeswitch
 </ul>
 <br style="clear:both">
 <hr>
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-yt.html">[FreeSWITCH高手速成培训2015冬季班（烟台站）]</a>（12月4--6日）火热报名中 ...</div>
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/05/29/freeswitch-training-2015-yt.html">[FreeSWITCH高端培训2015冬季班（烟台站）]</a>（12月4--6日）火热报名中 ...</div>
 <h1>本站最新文章</h1>
 
 
