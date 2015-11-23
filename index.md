@@ -34,6 +34,7 @@ QQ群：190435825（已满）、QQ群2：487681577、[BBS](http://bbs.freeswitch
 # 最新招聘
 
 <ul class="posts">
+    <li class="post_list"><a href="/jobs.html#xyt">北京信悦通科技有限公司</a></li>
     <li class="post_list"><a href="/jobs.html#npnets">上海航动科技有限公司</a></li>
     <li class="post_list"><a href="/jobs.html#microlink">上海米领通信技术有限公司</a></li>
     <li class="post_list"><a href="/jobs.html#meituan">美团网</a></li>
