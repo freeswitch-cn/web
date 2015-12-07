@@ -36,7 +36,7 @@ tags:
 <div style="text-align: left">美味大餐</div>
 <p><img src="/images/fscnds2015/images_training/IMG_20151205_172503.jpg"  /></p>
 <div style="text-align: left">畅饮美酒</div>
-p><img src="/images/fscnds2015/images_training/IMG_20151206_161103.jpg"  /></p>
+<p><img src="/images/fscnds2015/images_training/IMG_20151206_161103.jpg"  /></p>
 <div style="text-align: left">学有所成</div>
 
 
