@@ -102,7 +102,7 @@ QQ群：190435825（已满）、QQ群2：487681577、[BBS](http://bbs.freeswitch
 
         for (var i = 0; i<users.length; i++) {
             if (users[i].id == id) {
-                if (users[i].avatar_template.match(/^http/) {
+                if (users[i].avatar_template.match(/^http/)) {
                     return users[i].avatar_template.replace("{size}", "64")
                 }
                 return 'http://bbs.freeswitch.org.cn/' + users[i].avatar_template.replace("{size}", "64");
