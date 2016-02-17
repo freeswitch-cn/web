@@ -126,7 +126,7 @@ tags:
 
 ## 联系方式：
 
-秦倩 13501904410  QQ：30917711
+邮件：training@x-y-t.cn
 
 微信公众平台：FreeSWITCH-CN
 

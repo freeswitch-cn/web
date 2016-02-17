@@ -148,11 +148,7 @@ tags:
 
 ## 联系方式：
 
-手机：18810556995 李洋
-
-邮箱：freeswitch@x-y-t.cn
-
-QQ：754675782
+邮件：training@x-y-t.cn
 
 微信公众平台：FreeSWITCH-CN
 

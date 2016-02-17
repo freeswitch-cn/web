@@ -138,7 +138,7 @@ FreeSWITCH-CN创始人，北京信悦通科技有限公司，技术总监。2008
 
 ## 联系方式
 
-    邮件：freeswitch@x-y-t.com
+    邮件：training@x-y-t.cn
     电话：(010) 5719-5865
 
 ## 注意事项
