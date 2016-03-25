@@ -16,7 +16,7 @@ layout: default
 <br>
 <br>
 <hr>
-## [北京信悦通科技有限公司烟台分公司](http://www.npnets.com/) ¥¥¥¥
+## [烟台小樱桃网络科技有限公司](http://www.npnets.com/) ¥¥¥¥
 <hr>
 
 专做FreeSWITCH的公司。
@@ -31,8 +31,7 @@ layout: default
 
 **工作职责**：负责VoIP产品Web前端开发
 
-
-**工作地点**：烟台市芝罘区
+**工作地点**：烟台市高新区创业大厦
 
 **详细信息**：<http://x-y-t.com/jobs.html>
 
