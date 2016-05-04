@@ -23,7 +23,7 @@ title: 首页
 
 <!-- <div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2015/12/04/freeswitch-training-2015-yt-happy-ending.html">[FreeSWITCH高端培训2015冬季班（烟台站）圆满结束]</a></div> -->
 
-<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="http://x-y-t.cn/fst1604.html">[FreeSWITCH高手速成培训2016春季班（南京站）]</a>（4月9--11日）火热报名中 ...</div>
+<div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2016/04/09/freeswitch-training-2016-nj-happy-ending.html">[FreeSWITCH高手速成培训2016春季班（南京站）圆满结束]</a></div>
 
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
 
