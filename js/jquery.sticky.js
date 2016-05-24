@@ -5,7 +5,7 @@
 // Improvements by Leonardo C. Daronco (daronco)
 // Created: 02/14/2011
 // Date: 07/20/2015
-// Website: http://stickyjs.com/
+// Website: http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js
 // Description: Makes an element on the page stick on the screen as you scroll
 //              It will only set the 'top' and 'position' of your element, you
 //              might need to adjust the width in some cases.
