@@ -33,7 +33,7 @@ title: 首页
 FreeSWITCH是一个开源的电话软交换平台，主要开发语言是C，某些模块中使用了C++，以[MPL1.1](http://www.opensource.org/licenses/mozilla1.1.php)发布。更多的说明请参考[什么是FreeSWITCH?](/2009/11/08/shi-yao-shi-freeswitch.html)和[FreeSWITCH新手指南](http://bbs.freeswitch.org.cn/t/freeswitchxin-shou-zhi-nan/46)。
 您也可以阅读这本《[FreeSWITCH权威指南](http://book.dujinfang.com)》。
 
-QQ群：190435825（[收费](https://wap.koudaitong.com/v2/goods/3f1ilq5l0o7yb)）、QQ精英群：392125756、QQ群：487681577、[BBS](http://bbs.freeswitch.org.cn)、微信公共账号：FreeSWITCH-CN，[知乎专栏](http://zhuanlan.zhihu.com/freeswitch/19648543)。
+QQ群：190435825（[收费](https://wap.koudaitong.com/v2/goods/3f1ilq5l0o7yb)）、QQ精英群：392125756 （[收费](https://wap.koudaitong.com/v2/goods/1y8uqljo4etrn)）、QQ群：487681577、[BBS](http://bbs.freeswitch.org.cn)、微信公共账号：FreeSWITCH-CN，[知乎专栏](http://zhuanlan.zhihu.com/freeswitch/19648543)。
 
 有条件的同学，也欢迎加入 Google Groups [FreeSWITCH-CN 邮件列表](/2014/09/16/google-groups.html)。
 <br>
