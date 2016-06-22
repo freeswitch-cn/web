@@ -16,7 +16,7 @@ layout: default
 <br>
 <br>
 <hr>
-## [烟台小樱桃网络科技有限公司](http://www.npnets.com/) ¥¥¥¥
+## [烟台小樱桃网络科技有限公司](http://www.x-y-t.cn/) ¥¥¥¥
 <hr>
 
 专做FreeSWITCH的公司。
@@ -31,9 +31,9 @@ layout: default
 
 **工作职责**：负责VoIP产品Web前端开发
 
-**工作地点**：烟台市高新区创业大厦
+**工作地点**：烟台市高新区海越路10号创业小宅B座901室
 
-**详细信息**：<http://x-y-t.com/jobs.html>
+**详细信息**：<http://x-y-t.cn/jobs.html>
 
 
 <br>
