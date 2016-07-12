@@ -10,6 +10,17 @@
 <!-- STYLESHEET CSS FILES -->
 <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/all.css">
+
+<style>
+*{ list-style:none;}
+img{ border:0;}
+#zzsc{  overflow:hidden; margin:auto 100px ;}
+#zzsc ul li{ overflow:hidden; margin-left: 100px; width:222px; height:332px;   float: left;position:relative;}
+#zzsc ul li .text{width: 222px; height:0;overflow:hidden; position:absolute; left:0; bottom:0;background:rgba(0,0,0,0.7); font-size:14px; color:#fff;}
+#zzsc ul li .text p{text-align:left; color:#fff; line-height:180%; padding:5px 10px; clear:both}
+#zzsc ul li .text b{ display:block; padding:5px 10px; display:block;  background:#2196f3; margin-bottom:5px; font-weight: bold; font-size: 18px;}
+</style>
+
 </head>
 <body data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
 <!-- navigation section -->
@@ -123,10 +134,29 @@
 </section>
 <div style="margin-top:50px;">
   <div style=" margin:auto;">
-    <img class="lazy" data-original="images/151817631_R.jpg" longdesc="＃" width="222px" height="332px" alt="" / style="margin-left: 30px;">
-    <img class="lazy" data-original="images/195359252_R.jpg" longdesc="＃" width="222px" height="332px" alt="" / style="margin-left: 30px;">
-    <img class="lazy" data-original="images/184449150_R.jpg" longdesc="＃" width="222px" height="332px" alt="" / style="margin-left: 30px;">
-    <img class="lazy" data-original="images/211414202_R.jpg" longdesc="＃" width="222px" height="332px"  alt="" / style="margin-left: 30px;">
+    <div id="zzsc">
+      <ul>
+        <li style=" margin-left:200px;">
+          <img class="lazy" data-original="images/151817631_R.jpg" longdesc="＃" width="222px" height="332px" alt="" / >
+          <div class="text"><b>简介</b><p>杜金房：FreeSWITCH中文社区创始人，《FreeSWITCH权威指南》作者，FreeSWITCH代码贡献和维护者。</p></div>
+        </li>
+        <li>
+          <img class="lazy" data-original="images/195359252_R.jpg" longdesc="＃" width="222px" height="332px" alt="" / >
+          <div class="text"><b>简介</b><p>王化春：AceCom Networks Ltd ，CTO , Singapore 北京云联信通科技有限公司 ，CTO , Beijing 从事数据、语音安全相关领域12年。专注研发SBC产品(会话边界控制器)</p></div>
+        </li>
+        <li>
+          <img class="lazy" data-original="images/184449150_R.jpg" longdesc="＃" width="222px" height="332px" alt="" />
+          <div class="text"><b>简介</b><p>Giovanni Maruzzelli与FreeSWITCH有很深的渊源。他是mod_skypopen及mod_gsmopen模块的作者，在FreeSWITCH企业级部署和解决方案方面也有很深的造诣。他是通信领域的咨询师，善长FreeSWITCH、SIP、WebRTC、Kamailio及OpenSIPS方便的开发以及培训。</p></div>
+        </li>
+        <li>
+          <img class="lazy" data-original="images/211414202_R.jpg" longdesc="＃" width="222px" height="332px"  alt="" />
+          <div class="text"><b>简介</b><p>马天才：北京联信志诚信息技术有限公司创始人之一，现任公司技术总监。
+从事通讯软件产品研发工作十几年，对传统交换机系统和软交换系统都有着丰富的经验。
+目前，主要专注于云呼叫中心系统和高清视频会议系统。
+</p></div>
+        </li>
+      </ul>
+    </div>
   </div>
 </div>
 <!--<div id="LoopDiv" style=" position:relative; top:50px;">
@@ -329,6 +359,20 @@
   </div>-->
 </footer>
 <!-- JAVASCRIPT JS FILES --> 
+<script src="js/jquery.min.js"></script>
+<script>
+$(function(){
+  $('#zzsc li').hover(function(){
+    $('.text',this).stop().animate({
+      height:'332px'
+    });
+  },function(){
+    $('.text',this).stop().animate({
+      height:'0'
+    });
+  });
+});
+</script>
 <script src="//cdn.bootcss.com/jquery/1.9.1/jquery.js"></script> 
 <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="js/all.js"></script> 
