@@ -11,16 +11,8 @@
 <!-- STYLESHEET CSS FILES -->
 <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/all.css">
-
-<style>
-*{ list-style:none;}
-img{ border:0;}
-#zzsc{  overflow:hidden; margin:auto 100px ;}
-#zzsc ul li{ overflow:hidden; margin-left: 100px; width:222px; height:332px;   float: left;position:relative;}
-#zzsc ul li .text{width: 222px; height:0;overflow:hidden; position:absolute; left:0; bottom:0;background:rgba(0,0,0,0.7); font-size:14px; color:#fff;}
-#zzsc ul li .text p{text-align:left; color:#fff; line-height:180%; padding:5px 10px; clear:both}
-#zzsc ul li .text b{ display:block; padding:5px 10px; display:block;  background:#eb5424; margin-bottom:5px; font-weight: bold; font-size: 18px;}
-</style>
+<!-- <link rel="stylesheet" href="css/style.scss"> -->
+<link rel="stylesheet" id="theme-switch" href="css/style.css">
 
 </head>
 <body data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
@@ -133,43 +125,85 @@ img{ border:0;}
     </div>
   </div> 
 </section>
-<div style="margin-top:50px;">
-  <div style=" margin:auto;">
-    <div id="zzsc">
-      <ul>
-        <li style=" margin-left:200px;">
-          <img class="lazy" data-original="images/151817631_R.jpg" longdesc="＃" width="222px" height="332px" alt="" / >
-          <div class="text"><b>简介</b><p>杜金房：北京信悦通、烟台小樱桃网络科技有限公司创始人，FreeSWITCH中文社区创始人，《FreeSWITCH权威指南》作者，FreeSWITCH代码贡献和维护者。</p></div>
-        </li>
-        <li>
-          <img class="lazy" data-original="images/195359252_R.jpg" longdesc="＃" width="222px" height="332px" alt="" / >
-          <div class="text"><b>简介</b><p>王化春：AceCom Networks Ltd ，CTO , Singapore 北京云联信通科技有限公司 ，CTO , Beijing 从事数据、语音安全相关领域12年。专注研发SBC产品(会话边界控制器)</p></div>
-        </li>
-        <li>
-          <img class="lazy" data-original="images/184449150_R.jpg" longdesc="＃" width="222px" height="332px" alt="" />
-          <div class="text"><b>简介</b><p>Giovanni Maruzzelli与FreeSWITCH有很深的渊源。他是mod_skypopen及mod_gsmopen模块的作者，在FreeSWITCH企业级部署和解决方案方面也有很深的造诣。他是通信领域的咨询师，善长FreeSWITCH、SIP、WebRTC、Kamailio及OpenSIPS方便的开发以及培训。</p></div>
-        </li>
-        <li>
-          <img class="lazy" data-original="images/211414202_R.jpg" longdesc="＃" width="222px" height="332px"  alt="" />
-          <div class="text"><b>简介</b><p>马天才：北京联信志诚信息技术有限公司创始人之一，现任公司技术总监。
-从事通讯软件产品研发工作十几年，对传统交换机系统和软交换系统都有着丰富的经验。
-目前，主要专注于云呼叫中心系统和高清视频会议系统。
-</p></div>
-        </li>
-      </ul>
+
+<section id="fh5co-about" data-section="about">
+    <div class="container">
+      <!-- <div class="row">
+        <div class="col-md-12 section-heading text-center">
+          <h2 class="to-animate">About</h2>
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2 subtext to-animate">
+              <h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h3>
+            </div>
+          </div>
+        </div>
+      </div> -->
+      <div class="row" style="margin-top:60px;">
+        <div class="col-md-4">
+          <div class="fh5co-person text-center to-animate">
+            <figure><img class="lazy" data-original="img/d1.png" alt="Image" style="height:116px;"></figure>
+            <h3>杜金房</h3>
+            <span class="fh5co-position">简介</span>
+            <p>北京信悦通网络科技有限公司、烟台小樱桃网络科技有限公司创始人，FreeSWITCH中文社区创始人，《FreeSWITCH权威指南》作者，FreeSWITCH代码贡献和维护者。</p><br>
+            <span class="fh5co-position">演讲主题</span>
+            <p>FreeSWITCH-ketnote</p>
+            <ul class="social social-circle">
+              <li><a><i class="icon-twitter"></i></a></li>
+              <li><a><i class="icon-facebook"></i></a></li>
+              <li><a><i class="icon-dribbble"></i></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="fh5co-person text-center to-animate">
+            <figure><img class="lazy" data-original="img/w2.png" alt="Image" style="height:116px;"></figure>
+            <h3>王化春</h3>
+            <span class="fh5co-position">简介</span>
+            <p>AceCom Networks Ltd ，CTO , Singapore 北京云联信通科技有限公司 ，CTO , Beijing 从事数据、语音安全相关领域12年。专注研发SBC产品(会话边界控制器)</p><br> 
+            <span class="fh5co-position">演讲主题</span>
+            <p>SBC</p>        
+            <ul class="social social-circle">
+              <li><a><i class="icon-twitter"></i></a></li>
+              <li><a><i class="icon-facebook"></i></a></li>
+              <li><a><i class="icon-dribbble"></i></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="fh5co-person text-center to-animate">
+            <figure><img class="lazy" data-original="img/g3.png" alt="Image" style="height:116px;"></figure>
+            <h3 style="margin-top:16px;" >Giovanni Maruzzelli</h3>
+            <span class="fh5co-position">简介</span>
+            <p>mod_skypopen、mod_gsmopen模块的作者，在FreeSWITCH企业级部署和解决方案方面也有很深的造诣。他是通信领域的咨询师，善长FreeSWITCH、SIP、WebRTC、Kamailio及OpenSIPS方便的开发以及培训。</p>
+            <span class="fh5co-position">演讲主题</span>
+            <p>High Availability FreeSWITCH Best Practise</p>
+            <ul class="social social-circle">
+              <li><a><i class="icon-twitter"></i></a></li>
+              <li><a><i class="icon-facebook"></i></a></li>
+              <li><a><i class="icon-dribbble"></i></a></li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="col-md-4"style="padding-top:100px;">
+          <div class="fh5co-person text-center to-animate">
+            <figure><img class="lazy" data-original="img/m4.png" alt="Image" style="height:116px;"></figure>
+            <h3>马天才</h3>
+            <span class="fh5co-position">简介</span>
+            <p>北京联信志诚信息技术有限公司创始人之一，现任公司技术总监。从事通讯软件产品研发工作十几年，对传统交换机系统和软交换系统都有着丰富的经验。目前，主要专注于云呼叫中心系统和高清视频会议系统。</p>
+            <span class="fh5co-position">演讲主题</span>
+            <p>FreeSWITCH+Erlang，DIY一个呼叫中心系统</p>
+            <ul class="social social-circle">
+              <li><a><i class="icon-twitter"></i></a></li>
+              <li><a><i class="icon-facebook"></i></a></li>
+              <li><a><i class="icon-dribbble"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
-<!--<div id="LoopDiv" style=" position:relative; top:50px;">
-<input id="S_Num" type="hidden" value="8" />
-<div id="starsIF" class="imageflow" >
- <img src="images/171852304_R.jpg" longdesc="＃"  alt="啊" />
-<img src="images/211414202_R.jpg" longdesc="＃" width="280" height="300" alt="" />
-<img src="images/195359252_R.jpg" longdesc="＃" width="280" height="300" alt="" />
-<img src="images/184449150_R.jpg" longdesc="＃" width="280" height="300" alt="" /> 
-<img src="images/151817631_R.jpg" longdesc="#" width="280" height="300" alt="" />
-</div>
-</div>-->
+  </section>
+
 
 <!-- portfolio section -->
 <div id="portfolio">

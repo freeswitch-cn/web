@@ -365,7 +365,8 @@
 .fh5co-person .fh5co-position {
   color: #b3b3b3;
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
+  margin-top: 15px;
 }
 
 .form-control {
