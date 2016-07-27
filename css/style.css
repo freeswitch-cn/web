@@ -513,7 +513,7 @@
   background: #52d3aa;
 }
 .btn:hover, .btn:active, .btn:focus {
-  background: #393e46 !important;
+  background: #fff !important;
   color: #fff;
   outline: none !important;
 }
@@ -562,7 +562,7 @@
   border-radius: 50%;
 }
 .social li a:hover {
-  background: #393e46 !important;
+  background: #52d3aa !important;
 }
 .social.social-box a {
   background: #52d3aa;
