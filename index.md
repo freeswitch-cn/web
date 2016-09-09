@@ -25,7 +25,7 @@ title: 首页
 
 <!--< div style="background-color:red;color:yellow;padding:5px;text-align:center"><a style="color:white" href="/2016/04/09/freeswitch-training-2016-nj-happy-ending.html">[FreeSWITCH高手速成培训2016春季班（南京站）圆满结束]</a></div>
  -->
-<div style="background-color:#fff;color:yellow;padding-top:5px;"><a style="color:white" href="/fscnds-2016.html"><img src="shalong.jpg"></a></div>
+<div style="background-color:#fff;color:yellow;padding-top:5px;"><a style="color:white" href="/2016/08/27/FSCNDS-2016.html"><img src="shalong.jpg"></a></div>
 <div style="float:right; font-size:16px;padding:8px;color:blue;"><a href="/fscnds/index.html">[查看往届]</a></div>
 <div style="background-color:#fff;padding-top:10px; padding-bottom:10px;"><a style="color:white" href="http://www.x-y-t.cn/fst1608.html"><img src="gaoshou.jpg"></a></div>
 <div style="float:right; font-size:16px;padding-right:8px;color:blue;"><a href="http://www.x-y-t.cn/training.html">[查看往届]</a></div>
