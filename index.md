@@ -27,7 +27,7 @@ title: 首页
  -->
 <div style="background-color:#fff;color:yellow;padding-top:5px;"><a style="color:white" href="/2016/08/27/FSCNDS-2016.html"><img src="shalong.jpg"></a></div>
 <div style="float:right; font-size:16px;padding:8px;color:blue;"><a href="/fscnds/index.html">[查看往届]</a></div>
-<div style="background-color:#fff;padding-top:10px; padding-bottom:10px;"><a style="color:white" href="http://www.x-y-t.cn/fst1608.html"><img src="gaoshou.jpg"></a></div>
+<div style="background-color:#fff;padding-top:10px; padding-bottom:10px;"><a style="color:white" href="/2016/08/28/freeswitch-training-2016-bj-happy-ending.html"><img src="gaoshou.jpg"></a></div>
 <div style="float:right; font-size:16px;padding-right:8px;color:blue;"><a href="http://www.x-y-t.cn/training.html">[查看往届]</a></div>
 <br><br>
 欢迎光临FreeSWITCH中文站，本站是非官方的，其官方网站是：<a href="http://www.freeswitch.org" target="_blank">http://www.freeswitch.org</a> 。
