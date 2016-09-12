@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FreeSWITCH高手速成培训2016秋季班（北京站）圆满结束"
-image: "freeswitch-t10.png"
+image: "fst1605.png"
 tags:
   - "培训"
 ---
