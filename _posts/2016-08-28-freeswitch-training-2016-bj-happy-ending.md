@@ -12,7 +12,7 @@ tags:
 {% for tag in page.tags %}[<a class="tag" href="/tags.html#{{ tag }}">{{ tag }}</a>] {% endfor %}
 </div>
 
-[FreeSWITCH&WebRTC高手速成培训2016秋季班（北京站）](http://x-y-t.cn/fst1604.html)圆满成功
+[FreeSWITCH&WebRTC高手速成培训2016秋季班（北京站）](http://x-y-t.cn/fst1608.html)圆满成功
 
 和往年行程一样，在第五届FreeSWITCH开发者沙龙活动结束后，紧跟着是我们的三天培训。在沙龙的强大对比下，培训显的有些平淡，但这次的人还真不少(多不多看看图就知道了)，这次的内容也更丰富，除了培训FreeSWITCH外，还增加了当下最热的WebRTC的相关内容，含金量有多高，可想而知。
 
@@ -64,6 +64,7 @@ tags:
 <br>
 <p><img src="/images/fscnds2016/training-08-28/IMG_3240.JPG"  /></p>
 &uarr;` 毕业啦`
+<br>
 <br>
 <!-- </br>
 <div style="text-align: left">我们在上课</div>
