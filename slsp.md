@@ -59,18 +59,27 @@ layout: default
 ## 衣明志
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1MzI1NTM5Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
-<!-- <br>
-## 圆桌会议
+ <br>
+<!-- ## 圆桌会议
 <br>
-<br>
-## 贾强
-<br>
-<br>
-## 贾强
-<br>
-<br>
-## 贾强
-<br>
-<br>
-## 贾强
+
 <br> -->
+## 中午抽奖
+<br>
+<embed src='http://player.youku.com/player.php/sid/XMTc1NjA5NDY3Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<br>
+## 下午抽奖
+<br>
+<embed src='http://player.youku.com/player.php/sid/XMTc1NjA4NzI1Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<br>
+## 花絮
+<br>
+<embed src='http://player.youku.com/player.php/sid/XMTc1NjA4NTYxNg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<br>
+## 花絮
+<br>
+<embed src='http://player.youku.com/player.php/sid/XMTc1NjA4NjQ2OA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<br>
+## 合影
+<br> 
+<embed src='http://player.youku.com/player.php/sid/XMTc1NjA2MDM5Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
