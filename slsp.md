@@ -60,10 +60,10 @@ layout: default
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1MzI1NTM5Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
  <br>
-<!-- ## 圆桌会议
+## 圆桌会议
 <br>
-
-<br> -->
+<embed src='http://player.youku.com/player.php/sid/XMTc1Njk5MzU4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<br>
 ## 中午抽奖
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1NjA5NDY3Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
