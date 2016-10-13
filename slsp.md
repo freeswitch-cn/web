@@ -40,7 +40,7 @@ layout: default
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1MjExODg1Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 <br>
-## 王华春
+## 王化春
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1MjM2OTQxMg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 <br>
