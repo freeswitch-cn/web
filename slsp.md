@@ -4,13 +4,13 @@ layout: default
 ---
 
 # 2016FreeSWITCH-CN沙龙-演讲嘉宾视频
-## 杜金房
-<br>
-<embed src='http://player.youku.com/player.php/sid/XMTc1MjI4NTU2NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
-<br>
 ## 刘光大
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1MjI1NTk4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<br>
+## 杜金房
+<br>
+<embed src='http://player.youku.com/player.php/sid/XMTc1MjI4NTU2NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 <br>
 ## 贾强
 <br>
@@ -56,6 +56,9 @@ layout: default
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1MjQxMDg3Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 <br>
+## 焦小军
+<br><embed src='http://player.youku.com/player.php/sid/XMTc1MzMyMDU0MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<br>
 ## 衣明志
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1MzI1NTM5Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
@@ -63,14 +66,6 @@ layout: default
 ## 圆桌会议
 <br>
 <embed src='http://player.youku.com/player.php/sid/XMTc1Njk5MzU4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
-<br>
-## 中午抽奖
-<br>
-<embed src='http://player.youku.com/player.php/sid/XMTc1NjA5NDY3Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
-<br>
-## 下午抽奖
-<br>
-<embed src='http://player.youku.com/player.php/sid/XMTc1NjA4NzI1Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 <br>
 ## 花絮
 <br>
