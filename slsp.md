@@ -4,7 +4,9 @@ layout: default
 ---
 
 # 2016FreeSWITCH-CN沙龙-演讲嘉宾视频
-
+## 开场白-崔钢
+<br>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMTc1OTc2Mzk1Ng==' frameborder=0 'allowfullscreen'></iframe>
 ## 刘光大
 <br>
 <!-- <embed src='http://player.youku.com/player.php/sid/XMTc1MjI1NTk4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>-->
@@ -99,3 +101,5 @@ layout: default
 <br> 
 <!-- <embed src='http://player.youku.com/player.php/sid/XMTc1NjA2MDM5Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed> -->
 <iframe height=498 width=510 src='http://player.youku.com/embed/XMTc1NjA2MDM5Mg==' frameborder=0 'allowfullscreen'></iframe>
+<br>## 第五届开发者沙龙全程<br>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMTc1ODIxMDIxMg==' frameborder=0 'allowfullscreen'></iframe>
